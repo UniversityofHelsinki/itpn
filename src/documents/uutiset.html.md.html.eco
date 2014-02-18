@@ -1,0 +1,26 @@
+---
+layout: 'default'
+title: 'uutiset'
+pageOrder: '3'
+---
+<div class="newsupper">
+<%  for document in @getCollection("html").findAllLive({relativeOutDirPath: $in: ['news']},[{date: 1}]).toJSON()[0..0]: %>
+<h1><%= document.title %></h1>
+<div><%- document.content %></div>
+<a href="<%= document.url %>">Kommentoi kirjoitusta</a>
+<% end %>
+</div>
+<div class="pagelower">
+<h1>Lisää uutisia</h1>
+<ul class="newslist">
+<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['news']}, [{date: 1}]).toJSON()[1..4]: %>
+            <li class="frontbox">
+<a href="<%= document.url %>">
+                <h2><%= document.title %></h2>
+		<img src="../images/newsimages/<%= document.basename %>.png">
+		<p><%- document.ingress %></p>
+</a>
+            </li>
+        <% end %>
+    </ul>
+</div>

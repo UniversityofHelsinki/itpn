@@ -10,34 +10,63 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- Site Properities -->
-	<title><%= @getPreparedTitle() %></title>
-	<meta name="description" content="<%= @getPreparedDescription() %>" />
-	<meta name="keywords" content="<%= @getPreparedKeywords() %>" />
+	<title>IT-Päivät 2014</title>
+	 <meta name="description" content="IT-Päivät 2014" /> 
+	 <meta name="keywords" content="IT-Päivät 2014, IT-Päivät Helsinki" /> 
 
 	<!-- DocPad Meta -->
 	<%- @getBlock('meta').toHTML() %>
 
 	<!-- DocPad Styles + Our Own -->
-	<%- @getBlock('styles').add(@site.styles).toHTML() %>
-
+	<%- @getBlock('styles').add(@site.styles).toHTML() %> 
+	<link href='http://fonts.googleapis.com/css?family=Share+Tech' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="../styles/style.css">
+	<link rel="stylesheet" href="../vendor/h5bp.css">
+<link rel="stylesheet" href="../vendor/normalize.css">
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 </head>
+
 <body>
+	<div id="wrapper">
 	<!--[if lt IE 7]>
 	<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 	<![endif]-->
 
-	<header></header>
-	<article>
+	
+	<header class="clearfix">
+		<div id="logoy"><a href="../index.html"><img class="love" src="../images/logo.png"></a>
+		<div id="viiva"></div>
+		</div>
+			<nav class="top">
+				
+						<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['.', 'pages']}, [pageOrder:1] ).toJSON(): %>
+						<a   href="<%- document.url %>" class="<%= 'active'  if @document.url is document.url %>"><%= document.title %></a>
+						<% end %>	  
+				
+		</nav>
+
+	</header>
+
+	<article class="content" class="clearfix">
 		<%- @content %>
 	</article>
-	<footer></footer>
 
+</div>
+
+	<footer>
+		<ul>
+		<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['imgdoc']} ).toJSON(): %>
+		   <li class="tinylogo"><a href="<%- document.tags %>"><img class="sponsorlogo"src="../images/logot/<%= document.basename %>.png"></a></li>
+		<% end %>
+		</ul>
+	</footer>
+	
 	<!-- jQuery -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="/vendor/jquery.js"><\/script>')</script>
 
 	<!-- DocPad Scripts + Our Own -->
 	<%- @getBlock('scripts').add(@site.scripts).toHTML() %>
+
 </body>
 </html>

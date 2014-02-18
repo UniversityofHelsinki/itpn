@@ -100,6 +100,11 @@ docpadConfig = {
 					res.redirect(newUrl+req.url, 301)
 				else
 					next()
+
+		collections:
+		        imagedesc: ->
+
+	            @getCollection("html").findAllLive({relativeOutDirPath: 'imgdoc'})
 }
 
 # Export our DocPad Configuration

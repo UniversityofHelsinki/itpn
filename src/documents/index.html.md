@@ -1,9 +1,53 @@
 ---
 layout: 'default'
-title: 'What now?'
+title: 'Etusivu'
+tags: './images/kirahvi_iso.png'
 ---
-
-## Not sure what to do now? Here's some useful links:
-
-- [DocPad Documentation](http://docpad.org/docs)
-- [IRC Chat Room](irc://irc.freenode.net/docpad)
+<div class="pageupper">
+	<div id="loveit">
+	<img src="./images/love_it.png">
+	<p>Korkeakoulujen valtakunnalliset IT-päivät 2014 <br/>  4-5.112014 Marina Congress Center, Helsinki</p>
+	</div>
+</div>
+<div class="pagelower" class="clearfix">
+	<a href="puhujat.html"><div class="frontbox">
+	<div id="first">
+	</div>
+	<h2>
+	Tutustu upeisiin</br> puhujiimme!
+	</h2>
+	<p>
+	IT-Päivät ylpeänä esittää mielenkiintoisen esiintyjäkaartin. Puhujiksi on valjastettu yliopistojen ja korkeakoulujen kokeneet IT-hankkeiden asiantuntijat. Myös korkeakoulusektorin ulkopuolisia puhujia on saatu mukaan, mikä tuokin uutta näkökulmaa aiheisiin. 
+	</p>
+	</div></a>
+		<a href="puhujat.html"><div class="frontbox">
+	<div id="first">
+	</div>
+	<h2>
+	Tutustu upeisiin</br> puhujiimme!
+	</h2>
+	<p>
+	IT-Päivät ylpeänä esittää mielenkiintoisen esiintyjäkaartin. Puhujiksi on valjastettu yliopistojen ja korkeakoulujen kokeneet IT-hankkeiden asiantuntijat. Myös korkeakoulusektorin ulkopuolisia puhujia on saatu mukaan, mikä tuokin uutta näkökulmaa aiheisiin. 
+	</p>
+	</div></a>
+	<a href="puhujat.html"><div class="frontbox">
+	<div id="first">
+	</div>
+	<h2>
+	Tutustu upeisiin</br> puhujiimme!
+	</h2>
+	<p>
+	IT-Päivät ylpeänä esittää mielenkiintoisen esiintyjäkaartin. Puhujiksi on valjastettu yliopistojen ja korkeakoulujen kokeneet IT-hankkeiden asiantuntijat. Myös korkeakoulusektorin ulkopuolisia puhujia on saatu mukaan, mikä tuokin uutta näkökulmaa aiheisiin. 
+	</p>
+	</div></a>
+	<a href="puhujat.html"><div class="frontbox">
+	<div id="first">
+	</div>
+	<h2>
+	Tutustu upeisiin</br> puhujiimme!
+	</h2>
+	<p>
+	IT-Päivät ylpeänä esittää mielenkiintoisen esiintyjäkaartin. Puhujiksi on valjastettu yliopistojen ja korkeakoulujen kokeneet IT-hankkeiden asiantuntijat. Myös korkeakoulusektorin ulkopuolisia puhujia on saatu mukaan, mikä tuokin uutta näkökulmaa aiheisiin. 
+	</p>
+	</div></a>
+</div>
