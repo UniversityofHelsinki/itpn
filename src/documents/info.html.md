@@ -1,5 +1,5 @@
 ---
 layout: 'default'
 title: 'Info'
-pageOrder: '5'
+pageOrder: '6'
 ---
