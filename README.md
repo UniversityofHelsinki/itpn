@@ -1,7 +1,7 @@
 #Website source code for it2014.fi 
 
-#Uses [HTML5 Boilerplate](http://html5boilerplate.com/) skeleton for [DocPad](https://github.com/bevry/docpad)
-#Visual design by Risto Vauras, Grass Business Oy
+##Uses [HTML5 Boilerplate](http://html5boilerplate.com/) skeleton for [DocPad](https://github.com/bevry/docpad)
+Visual design by Risto Vauras, Grass Business Oy
 Bare essentials for building a modern website with best practices
 
 
