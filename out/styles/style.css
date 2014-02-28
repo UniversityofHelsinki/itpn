@@ -1,0 +1,516 @@
+/* CSS by Anne-Mari Seppola,
+     graphic design by Risto Vauras/ Grass Business OY, grass.fi
+
+Built with love for UniHelsinki! 
+Tsirp!
+*/
+/*
+CSS structured along the lines of smacss, see smacss.com. Well, at least somewhat along the lines.
+*/
+
+
+/*1. Base rules: 
+".. is defining the default styling for how that element should look in all occurrences on the page. -- Base styles include setting heading sizes, default link styles, default font styles, and body backgrounds. " 
+***************/
+
+
+
+	h1,h2, body{
+		font-family: 'Share Tech', sans-serif;
+		color: #666666; 
+		margin-top: 0;
+	}
+
+	body{
+		font-size: 16px;
+		background-color: #f2f2f2;
+	}
+
+	h1{
+		font-size: 1em;
+		text-transform: uppercase;
+		margin: 0;
+	}
+	h2{
+		font-size: 1em;
+		text-transform: uppercase;
+		margin: 0;
+	}
+
+	a{
+		color: #000000; 
+		text-decoration: none;
+		font-size: 100%;
+	}
+
+	
+	nav.top > a { 
+		text-transform: uppercase; 
+		font-size: 0.8em;
+	}
+	
+
+
+/*2. Layout rules
+***************/
+
+	/*I'm not that fond of the idea of wrappers but so far this is how I've managed to get the footer to stay at the
+	 bottom of the page even with small amount of content*/	
+	#wrapper{
+		min-height:100%;
+		height: auto !important;
+		height: 100%;
+		margin: 0 auto -4em;
+		overflow: hidden;
+			}
+	
+	html, body{
+		height: 95%;
+		margin:0;
+		padding:0;
+	}
+	
+	/* to make the turquise underline after nav element*/
+	.top>a:after, h2:after { 
+		content: "_";
+		color: #00ffff ;
+		margin-right:0;
+	}
+
+	/*we want a cute, pink, border on top of the page*/
+	body{
+	
+		width: 100%;
+	}
+
+	/*To get the black line behind the logo..*/
+	#viiva{
+		content: "";  
+		display: block;
+		border-top: solid 1px #282828;
+		 border-top: solid 1px #aaaaaa;
+		width: 100%;  
+		height: 1px;  
+		position: absolute;  
+		top: 2%;  
+		z-index: -1;  
+	}
+
+	/*the grey nav-border needs to be close to the nav element and modernize.css seems to add margin to ul which I'm not fond of'*/
+
+	
+	/*To get left edge of the logo and first element on nav line up*/
+	
+	.top{
+		display: block;
+		float: left;
+		margin: 0 10% 0 10%;
+		padding: 1% 0% 0 1%;
+		width: 79%;
+	}
+
+	.top > a{
+		display: block;
+		float: left;
+		margin-right: 1%;
+		padding-right: 15%;	
+	}
+
+	.top>a:last-child{
+		padding-right: 0%;
+		margin-right: 0%;
+	}
+
+
+	.top>a:first-child{
+		display:none;
+	}
+
+	.top>a:nth-child(2){
+		padding-left: 0%
+	}
+
+
+	header{
+		margin-top: 0px;
+		padding-top: 0px;
+		border-bottom: solid 1px #282828;
+		border-top: solid 1px #ff00ff;
+		padding-bottom: 15px;
+		max-height: 213px;
+		margin-bottom: 0;
+	}
+
+
+	article.content{
+		display: block;
+		margin-top: 0;
+		height: 100%;
+		padding-bottom: 100px;
+		
+	}
+	
+	.day > a:hover{
+		color: #00ffff ;
+}
+
+/*
+Layouts for the front page, the big banner imate (.pageupper) and lower part (.pagelower) with four boxes (.frontbox)
+*/
+		.pagelower{
+		display:block;
+		margin-left: 10%;
+		margin-right: 1%;
+		padding-left: 4%;
+	}
+
+	.frontbox{
+		width: 20%;
+		display: block;
+		float: left;
+		padding-right: 5%;
+	}
+
+
+	.frontbox:last-child{
+	padding-right: 2%;
+	}
+	
+	.frontbox img {
+		margin-bottom: 10px;
+		width: 100%;
+	}
+	
+	.frontbox > div{
+		display:block;
+		background-repeat:no-repeat;
+		background-size:contain;
+		width: 250px;
+		height: 250px;
+		margin-right: 50px;
+		
+	}
+
+	#first{
+		width: 100%;
+	}
+	
+	.pagelower a, .newslist a{
+		color:  #666666;
+	}
+
+	#first{
+		background-image: url('../images/asuntovaunu.png');
+	}
+	
+	h2{
+		font-size: 14px;
+	}
+
+	footer {
+		display:block;
+		width:100%;
+		height:80px;
+		clear: before;
+		float: left;
+		margin-top: 60px;	
+		border-top: solid 1px #aaaaaa;  
+	}
+
+	
+
+
+
+/*3. Module rules: for front page, these are the image boxes and ingresses, for schedule, this includes the actual table of schedules
+****************/
+
+
+	/*layout for the logo on top of the page*/
+	.love{
+		margin-left: 10%;
+		width: 250px;
+		
+	}
+	
+	#logoy{
+		border-bottom: solid 1px #aaaaaa;
+	}
+
+	/*Styling for front page big banner logo*/
+	.pageupper{
+		padding: 60px;
+		background-image:url('../images/kirahvi_iso.jpg');
+		background-position:center top;
+		background-repeat:no-repeat;
+		background-size:cover;
+		min-height: 300px;
+		margin-bottom: 2%;
+		}
+	
+	#loveit{
+		text-align: center;
+		max-width: 50%;	
+		margin: 5% auto;
+		color: #ff00ff;
+		overflow: hidden;
+		}
+
+	#loveit img{
+		display: block;
+		margin-bottom: 5%;
+		max-width: 100%;
+	}
+
+	#loveit > p{
+		color: #ff00ff;
+		font-size: 1.3em;
+		text-transform: uppercase;
+		
+	}
+
+
+
+	/*Logos in the footer*/
+	footer{
+	
+	}
+
+	footer > ul {
+		margin-left: 9%;
+	}
+
+
+	.tinylogo{
+		text-decoration: none;
+		list-style-type: none; 
+		display: block;
+		float: left;
+	}
+
+	.sponsorlogo{
+		width: 50px;
+		max-height: 40px;
+		margin-right: 10px;
+		}
+	
+
+/*News (uutiset)-page. The latest news is shown in full, second to last as recaps*/
+
+	.newslist > li:first-child{
+
+	}
+
+
+	.newsupper{
+		padding: 60px;
+		min-height: 300px;
+		margin-bottom: 2%;
+		}
+	
+
+	/*TABLE RULES*/
+	/*Rules for the table in ohjelma.html*/
+
+			#taulukko{
+			    width: 70%;
+			    margin-left: 10%;
+			}
+
+			table { 
+			  width: 100%; 
+			  border-collapse: collapse; 
+			}
+			
+			/* Zebra striping */
+			tr:nth-of-type(odd) { 
+			  background: #eee; 
+			}
+			th { 
+			  background: #333; 
+			  color: white; 
+			  font-weight: bold; 
+			}
+			td, th { 
+			  padding: 6px; 
+			  border: 1px solid #ccc; 
+			  text-align: left; 
+			}
+
+
+
+			
+
+/*4. State rules
+***************/
+
+	a:hover{
+		color: #00ffff ;
+	}
+
+	.top > a.active{
+		color: #00ffff ;
+	}
+	
+	#first:hover{
+	background-image: url('../images/asuntovaunu_mouseoveri.png');	
+	}
+	a>.frontbox:hover>h2, a:hover > h2{
+	color: #00ffff ;
+	}
+
+		.day > a:checked {
+		color: #00ffff ;
+}
+	
+/*5. Theme rules: colors for this particular color scheme
+***************/
+@media all and (min-width: 1400px ) {
+	
+	.frontbox > div{
+		width: 300px;
+		height: 300px;
+		margin-right: 20px;
+		
+	}
+	.frontbox{
+		padding-right: 20px;
+	}
+	#first{
+	width: 100%;
+	}
+}
+
+@media all and (max-width: 980px ) {
+
+		.top{
+				margin: 0 0 0 5%;
+				min-width: 95%;
+			}
+
+		#loveit{
+			  width: 400px;
+	}
+		.frontbox{
+		width: 40%;
+	}
+}
+
+	@media all and (max-width: 600px ) {
+
+		.top{
+				margin: 0 0 0 4%;
+				min-width: 99%;
+			}
+		
+		.top > a{
+				padding-right: 4%;
+				
+				
+		}
+
+		.top > a {
+				 font-size: 1em;
+		}
+
+		.love{
+			width: 100px;
+	}
+		#viiva{
+			display: none;
+		}
+}
+
+	@media all and (max-width: 500px ) {
+
+		#loveit > img{
+			display:none;
+	}
+
+
+	#loveit{
+		min-width: 70%;
+	}
+	.frontbox{
+		width: 80%;
+		margin-left: 10%;
+		margin-right:10%;
+	}
+}
+	
+
+/*RESPONSIVE TABLE*/
+
+@media only screen and (max-width: 1000px) {
+				#taulukko {
+					margin-left: 2%;	
+}
+}
+@media only screen and (max-width: 890px),
+			(min-device-width: 768px) and (max-device-width: 1024px)  {
+				#taulukko{ overflow: hidden;}
+				#taulukko:before {
+					content: "Ohjelma aikasloteittain. Huom: mobiileille on myös oma appsinsa, jossa voit suunnitella oman lukujärjestyksesi!";	
+				}
+				/* Force table to not be like tables anymore */
+				table, thead, tbody, th, td, tr { 
+					display: block; 
+				}
+	
+				/* Hide table headers (but not display: none;, for accessibility) */
+				thead tr { 
+					position: absolute;
+					top: -9999px;
+					left: -9999px;
+				}
+	
+				tr { border: 1px solid #ccc; }
+	
+				td { 
+					/* Behave  like a "row" */
+					border: none;
+					border-bottom: 1px solid #eee; 
+					position: relative;
+					padding-left: 30%; 
+				}
+	
+				td:before { 
+					/* Now like a table header */
+					position: absolute;
+					/* Top/left values mimic padding */
+					top: 6px;
+					left: 6px;
+					width: 45%; 
+					padding-right: 10px; 
+					white-space: nowrap;
+				}
+			    
+			    tr:nth-of-type(1:)before {
+				content: "A";
+			    }
+	
+				/*
+				Label the data
+				*/
+				td:nth-of-type(1) {
+					clear: after;
+					color: red;
+					text-align: left;
+			}
+
+				td:nth-of-type(1) {
+					padding-left: 10%;
+				}
+				td:nth-of-type(1):before { content: "KLO";
+				 }
+				td:nth-of-type(2):before { content: "A"; }
+				td:nth-of-type(3):before { content: "B"; }
+				td:nth-of-type(4):before { content: "C"; }
+				td:nth-of-type(5):before { content: "D--"; }
+				td:nth-of-type(6):before { content: "E"; }
+				td:nth-of-type(7):before { content: "F"; }
+
+			}
+
+
+
+
