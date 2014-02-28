@@ -1,6 +1,7 @@
 #Website source code for it2014.fi 
 
 #Uses [HTML5 Boilerplate](http://html5boilerplate.com/) skeleton for [DocPad](https://github.com/bevry/docpad)
+#Visual design by Risto Vauras, Grass Business Oy
 Bare essentials for building a modern website with best practices
 
 
@@ -17,7 +18,7 @@ Bare essentials for building a modern website with best practices
 	docpad run
 	```
 
-1. [Open http://localhost:9778/](http://localhost:9778/)
+1. [Open http://localhost:3000/](http://localhost:9778/)
 
 1. Start hacking away by modifying the `src` directory
 
