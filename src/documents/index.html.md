@@ -2,10 +2,11 @@
 layout: 'default'
 title: 'Etusivu'
 tags: './images/kirahvi_iso.png'
+pageOrder: '0'
 ---
 <div class="pageupper">
 	<div id="loveit">
-	<img src="./images/love_it.png">
+	<img src="./images/IT_iso.png">
 	<p>Korkeakoulujen valtakunnalliset IT-päivät 2014 <br/>  4-5.112014 Marina Congress Center, Helsinki</p>
 	</div>
 </div>

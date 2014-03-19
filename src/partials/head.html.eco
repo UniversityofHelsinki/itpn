@@ -1,0 +1,22 @@
+<head>
+	<!-- Standard  Meta -->
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Site Properities -->
+	<title>IT-Päivät 2014</title>
+	 <meta name="description" content="IT-Päivät 2014" /> 
+	 <meta name="keywords" content="IT-Päivät 2014, IT-Päivät Helsinki" /> 
+
+	<!-- DocPad Meta -->
+	<%- @getBlock('meta').toHTML() %>
+
+	<!-- DocPad Styles + Our Own -->
+	<%- @getBlock('styles').add(@site.styles).toHTML() %> 
+	<link href='http://fonts.googleapis.com/css?family=Share+Tech' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="../styles/style.css">
+	<link rel="stylesheet" href="../vendor/h5bp.css">
+<link rel="stylesheet" href="../vendor/normalize.css">
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+</head>

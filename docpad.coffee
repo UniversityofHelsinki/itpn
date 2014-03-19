@@ -16,12 +16,11 @@ docpadConfig = {
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: [
-				'www.website.com',
-				'website.herokuapp.com'
+				'www.it2014.fi'
 			]
 
 			# The default title of our website
-			title: "Your Website"
+			title: "IT-Päivät"
 
 			# The website description (for SEO)
 			description: """
@@ -105,6 +104,7 @@ docpadConfig = {
 		        imagedesc: ->
 
 	            @getCollection("html").findAllLive({relativeOutDirPath: 'imgdoc'})
+
 }
 
 # Export our DocPad Configuration

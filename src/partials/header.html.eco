@@ -1,0 +1,14 @@
+	<header class="clearfix">
+		<div id="viiva" class="clearfix"></div>
+		<div id="logoy"><a href="../index.html"><img class="love" src="../images/IT_header.png"></a>
+
+		</div>
+			<nav class="top">
+				
+						<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['.','pages']}, [pageOrder:1] ).toJSON(): %>
+						<a   href="<%- document.url %>" class="<%= 'active'  if @document.url is document.url %>"><%= document.title %></a>
+						<% end %>	  
+				
+		</nav>
+
+	</header>

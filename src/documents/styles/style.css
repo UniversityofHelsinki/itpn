@@ -35,6 +35,7 @@ CSS structured along the lines of smacss, see smacss.com. Well, at least somewha
 		font-size: 1em;
 		text-transform: uppercase;
 		margin: 0;
+
 	}
 
 	a{
@@ -50,7 +51,8 @@ CSS structured along the lines of smacss, see smacss.com. Well, at least somewha
 	}
 	
 
-
+blockquote {
+}
 /*2. Layout rules
 ***************/
 
@@ -61,6 +63,7 @@ CSS structured along the lines of smacss, see smacss.com. Well, at least somewha
 		height: auto !important;
 		height: 100%;
 		margin: 0 auto -4em;
+		overflow: hidden;
 			}
 	
 	html, body{
@@ -70,7 +73,7 @@ CSS structured along the lines of smacss, see smacss.com. Well, at least somewha
 	}
 	
 	/* to make the turquise underline after nav element*/
-	nav>a:after, h2:after { 
+	.top>a:after, h2:after { 
 		content: "_";
 		color: #00ffff ;
 		margin-right:0;
@@ -86,13 +89,13 @@ CSS structured along the lines of smacss, see smacss.com. Well, at least somewha
 	#viiva{
 		content: "";  
 		display: block;
-		border-top: solid 1px #282828;
-		 border-top: solid 1px #aaaaaa;
+		 border-top: solid 1px #282828;
 		width: 100%;  
 		height: 1px;  
-		position: absolute;  
+		margin-top: 1.5%;
 		top: 2%;  
-		z-index: -1;  
+		
+		clear: after;  
 	}
 
 	/*the grey nav-border needs to be close to the nav element and modernize.css seems to add margin to ul which I'm not fond of'*/
@@ -100,7 +103,7 @@ CSS structured along the lines of smacss, see smacss.com. Well, at least somewha
 	
 	/*To get left edge of the logo and first element on nav line up*/
 	
-	nav{
+	.top{
 		display: block;
 		float: left;
 		margin: 0 10% 0 10%;
@@ -108,24 +111,24 @@ CSS structured along the lines of smacss, see smacss.com. Well, at least somewha
 		width: 79%;
 	}
 
-	nav > a{
+	.top > a{
 		display: block;
 		float: left;
 		margin-right: 1%;
 		padding-right: 15%;	
 	}
 
-	nav>a:last-child{
+	.top>a:last-child{
 		padding-right: 0%;
 		margin-right: 0%;
 	}
 
 
-	nav>a:first-child{
+	.top>a:first-child{
 		display:none;
 	}
 
-	nav>a:nth-child(2){
+	.top>a:nth-child(2){
 		padding-left: 0%
 	}
 
@@ -148,6 +151,30 @@ CSS structured along the lines of smacss, see smacss.com. Well, at least somewha
 		padding-bottom: 100px;
 		
 	}
+		.newscontent{
+		display:block;
+		margin-left: auto;
+		margin-right: auto;
+		width:  80%;
+	}
+		
+
+	.nostokuva {
+		float: left;
+		margin-right: 35px;
+		padding-top: 2em;
+		max-width: 20%;
+	}
+
+	.day{
+		margin-left: 5%;
+	}
+	.day > a{
+	padding-right: 1%;
+	}
+	.day > a:hover{
+		color: #00ffff ;
+}
 
 /*
 Layouts for the front page, the big banner imate (.pageupper) and lower part (.pagelower) with four boxes (.frontbox)
@@ -158,6 +185,25 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		margin-right: 1%;
 		padding-left: 4%;
 	}
+/*Layout for the newspage uutiset.html*/
+	.restofnews{
+		display:block;
+		margin-left: 10%;
+		margin-right: 1%;
+		padding-left: 4%;
+		min-width: 80%;
+		clear: before;
+		float: left;
+	}
+	.restofnews > ul > li {
+		list-style-type:none;
+	}
+	 .restlist:nth-child(2n +1) {
+	  clear:left;
+	  float:left;
+	padding-right: 1em;
+	}
+
 
 	.frontbox{
 		width: 20%;
@@ -229,6 +275,8 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 	
 	#logoy{
 		border-bottom: solid 1px #aaaaaa;
+		padding-top: 5px;
+		padding-bottom: 5px;
 	}
 
 	/*Styling for front page big banner logo*/
@@ -241,7 +289,11 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		min-height: 300px;
 		margin-bottom: 2%;
 		}
-	
+	.newsupper{
+		width: 80%;
+		margin-left: auto;
+		margin-right: auto;
+	}
 	#loveit{
 		text-align: center;
 		max-width: 50%;	
@@ -250,10 +302,12 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		overflow: hidden;
 		}
 
-	#loveit img{
+	#loveit > img{
 		display: block;
 		margin-bottom: 5%;
 		max-width: 100%;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 	#loveit > p{
@@ -263,7 +317,10 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		
 	}
 
-
+	/*News*/
+	.newscontent > p{
+	font-size:  1.2em;
+	}
 
 	/*Logos in the footer*/
 	footer{
@@ -283,17 +340,13 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 	}
 
 	.sponsorlogo{
-		width: 50px;
-		max-height: 40px;
+		height: 50px;
+		max-width: 150px;
 		margin-right: 10px;
 		}
 	
 
 /*News (uutiset)-page. The latest news is shown in full, second to last as recaps*/
-
-	.newslist > li:first-child{
-
-	}
 
 
 	.newsupper{
@@ -303,27 +356,110 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		}
 	
 
+	/*TABLE RULES*/
+	/*Rules for the table in ohjelma.html*/
+
+			#taulukko{
+			    width: 70%;
+			    margin-left: 0%;
+			}
+
+			#keskiviikko, #tiistai { 
+			border-collapse: separate; 
+			border-spacing: 13px;
+			}
+			
+		
+			th { 
+			  background: #F2F2F2; 
+			  color: white; 
+			  font-weight: bold; 
+			}
+			td{background-color: white;}
+			td:first-child{background-color: #F2F2F2; }
+			td, th { 
+			  padding: 0px 6px 6px 6px; 
+			  /*border: 1px solid #ccc;*/ 
+			  text-align: left; 
+			}
+			
+			table td{margin-right:10px;}
+		/*Backgrounds for td cells and headers ie. tracks*/
+			table tr td {height 100px; color: black;}
+			tr.lunch td{ height:100px;  }
+			table td:nth-child(1) {color: #666666; min-width: 50px; margin-left:0px; margin-right: 50px; vertical-align: top; }
+			table td:nth-child(2) {margin-top: 100px; }
+			tr th:nth-child(2){background-color: #FF6600; }	
+			tr th:nth-child(3), table td:nth-child(3) {background-color:#0000FF;}
+			tr th:nth-child(4), table td:nth-child(4) {background-color:#00FF00;}
+			tr th:nth-child(5), table td:nth-child(5) {background-color:#6600CC; }
+			tr th:nth-child(6), table td:nth-child(6) {background-color:#FF0000;}
+			table td.lounas{ 
+				height 100px;  
+				min-width: 200px;
+				
+				background-repeat:no-repeat;
+				background-size:250px 180px;
+				
+				}
+			img.icon{margin-right:5px;}
+			td p{font-size: 1em; margin:0 0 0 0;}
+			td h3{font-size: 1em; margin:0px 0 0 0;}
+			.time:before{content: "_"; color:#FF00FF;}
+			.cell2{}
+			
 
 /*4. State rules
 ***************/
 
-	a:hover{
-		color: #00ffff ;
-	}
+		a:hover{
+			color: #00ffff ;
+		}
 
-	nav > a.active{
-		color: #00ffff ;
+		.top > a.active{
+			color: #00ffff ;
 	}
 	
-	#first:hover{
-	background-image: url('../images/asuntovaunu_mouseoveri.png');	
-	}
-	a>.frontbox:hover>h2, a:hover > h2{
-	color: #00ffff ;
-	}
+		#first:hover{
+			background-image: url('../images/asuntovaunu_mouseoveri.png');
+		}
+		
+		a>.frontbox:hover>h2, a:hover > h2{
+			color: #00ffff ;
+		}
 
+	/*mouseovers and images of second box*/
+		#second{
+		
+		}
 	
-	
+
+		.day > a:checked {
+		color: #00ffff ;
+}
+		#keskiviikko, #tiistai{
+			display:block;
+		}
+
+		#keskiviikko:target{
+			display:none;
+			color: #00ffff ;
+		}
+
+		#tiistai:target{
+			display:none;
+			color: #00ffff ;
+	}
+		a{   
+   			color:#000;
+			}
+		a:active {
+		    color: #00ffff ;
+		}
+		a[tabindex]:focus {
+		    color:#00ffff;
+		    outline: none;
+		}
 /*5. Theme rules: colors for this particular color scheme
 ***************/
 @media all and (min-width: 1400px ) {
@@ -344,7 +480,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 
 @media all and (max-width: 980px ) {
 
-		nav{
+		.top{
 				margin: 0 0 0 5%;
 				min-width: 95%;
 			}
@@ -359,18 +495,18 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 
 	@media all and (max-width: 600px ) {
 
-		nav{
+		.top{
 				margin: 0 0 0 4%;
 				min-width: 99%;
 			}
 		
-		nav > a{
+		.top > a{
 				padding-right: 4%;
 				
 				
 		}
 
-		nav.top > a {
+		.top > a {
 				 font-size: 1em;
 		}
 
@@ -400,7 +536,79 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 }
 	
 
-/**/
+/*RESPONSIVE TABLE*/
+
+@media only screen and (max-width: 1000px) {
+				#taulukko {
+					margin-left: 2%;	
+}
+}
+@media only screen and (max-width: 890px),
+			(min-device-width: 768px) and (max-device-width: 1024px)  {
+				#taulukko{ overflow: hidden;}
+				#taulukko:before {
+					content: "Ohjelma aikasloteittain. Huom: mobiileille on tulossa, kiitos yhteistyökumppanimme Digian, myös oma appsinsa, jossa voit suunnitella oman lukujärjestyksesi!";	
+				}
+				/* Force table to not be like tables anymore */
+				table, thead, tbody, th, td, tr { 
+					display: block; 
+				}
+	
+				/* Hide table headers (but not display: none;, for accessibility) */
+				thead tr { 
+					position: absolute;
+					top: -9999px;
+					left: -9999px;
+				}
+	
+				tr { border: 1px solid #ccc; }
+	
+				td { 
+					/* Behave  like a "row" */
+					border: none;
+					border-bottom: 1px solid #eee; 
+					position: relative;
+					padding-left: 30%; 
+				}
+	
+				td:before { 
+					/* Now like a table header */
+					position: absolute;
+					/* Top/left values mimic padding */
+					top: 6px;
+					left: 6px;
+					width: 45%; 
+					padding-right: 10px; 
+					white-space: nowrap;
+				}
+			    
+			    tr:nth-of-type(1:)before {
+				content: "A";
+			    }
+	
+				/*
+				Label the data
+				*/
+				td:nth-of-type(1) {
+					clear: after;
+					color: red;
+					text-align: left;
+			}
+
+				td:nth-of-type(1) {
+					padding-left: 10%;
+				}
+				td:nth-of-type(1):before { content: "KLO";
+				 }
+				td:nth-of-type(2):before { content: "A"; }
+				td:nth-of-type(3):before { content: "B"; }
+				td:nth-of-type(4):before { content: "C"; }
+				td:nth-of-type(5):before { content: "D--"; }
+				td:nth-of-type(6):before { content: "E"; }
+				td:nth-of-type(7):before { content: "F"; }
+
+			}
+
 
 
 

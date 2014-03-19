@@ -1,8 +1,8 @@
 ---
-layout: 'default'
-title: 'Neljäs uutinen'
-date: 2014-02-17
-ingress: 'heipähei, tässä ingressiä pukkaa'
+layout: 'news'
+title: 'Toinen uutinen'
+date: 2014-06-16
+ingress: 'Tämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapa'
 ---
-Hei vaan heiheihei, tsirp.
+Hei vaan hei, tsirp.<img src="../images/logo.png">
 

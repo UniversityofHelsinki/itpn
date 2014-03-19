@@ -1,0 +1,7 @@
+	<footer>
+		<ul>
+		<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['imgdoc']} ).toJSON(): %>
+		   <li class="tinylogo"><a href="<%- document.tags %>"><img class="sponsorlogo"src="../images/logot/<%= document.basename %>.png"></a></li>
+		<% end %>
+		</ul>
+	</footer>
