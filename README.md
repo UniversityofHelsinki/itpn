@@ -5,7 +5,7 @@ Visual design by Risto Vauras, Grass Business Oy
 Bare essentials for building a modern website with best practices
 
 
-## Getting Started
+## Getting Started with Docpad
 
 1. [Install DocPad](https://github.com/bevry/docpad)
 
@@ -18,7 +18,7 @@ Bare essentials for building a modern website with best practices
 	docpad run
 	```
 
-1. [Open http://localhost:3000/](http://localhost:9778/)
+1. [Open http://localhost:3000/](http://localhost:3000/)
 
 1. Start hacking away by modifying the `src` directory
 
