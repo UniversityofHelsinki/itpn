@@ -62,7 +62,7 @@ blockquote {
 		min-height:100%;
 		height: auto !important;
 		height: 100%;
-		margin: 0 auto -4em;
+		margin: 0 0 -4em 0;
 		overflow: hidden;
 			}
 	
@@ -337,6 +337,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		list-style-type: none; 
 		display: block;
 		float: left;
+		margin-right: 25px;
 	}
 
 	.sponsorlogo{
@@ -360,13 +361,16 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 	/*Rules for the table in ohjelma.html*/
 
 			#taulukko{
-			    width: 70%;
-			    margin-left: 0%;
+			max- width: 100%;
+			 margin-left: -2.5%;
+			padding-left: 0;
 			}
 
 			#keskiviikko, #tiistai { 
 			border-collapse: separate; 
-			border-spacing: 13px;
+			border-spacing: 50px 20px;
+			max-width:100%;			
+			overflow: auto;
 			}
 			
 		
@@ -375,40 +379,48 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 			  color: white; 
 			  font-weight: bold; 
 			}
-			td{background-color: white;}
-			td:first-child{background-color: #F2F2F2; }
+			td{background-color: white; min-width:5%;}
+			td:first-child{background-color: #F2F2F2; width:1%;}
 			td, th { 
-			  padding: 0px 6px 6px 6px; 
+			  padding: 0px 0px 0px 0px; 
 			  /*border: 1px solid #ccc;*/ 
 			  text-align: left; 
 			}
 			
-			table td{margin-right:10px;}
+			table td{margin-right:0px;}
 		/*Backgrounds for td cells and headers ie. tracks*/
 			table tr td {height 100px; color: black;}
-			tr.lunch td{ height:100px;  }
-			table td:nth-child(1) {color: #666666; min-width: 50px; margin-left:0px; margin-right: 50px; vertical-align: top; }
-			table td:nth-child(2) {margin-top: 100px; }
+			tr.lunch td{ text-align: top;} 
+			table td:nth-child(1) {color: #666666; min-width: 10px; padding-left:0px; padding-right: 0px; vertical-align: top; border-spacing: 50px 10px;}
+			/*table td:nth-child(2) {margin-top: 10px; } */
 			tr th:nth-child(2){background-color: #FF6600; }	
-			tr th:nth-child(3), table td:nth-child(3) {background-color:#0000FF;}
-			tr th:nth-child(4), table td:nth-child(4) {background-color:#00FF00;}
-			tr th:nth-child(5), table td:nth-child(5) {background-color:#6600CC; }
-			tr th:nth-child(6), table td:nth-child(6) {background-color:#FF0000;}
+			tr th:nth-child(3) {background-color:#0000FF;}
+			tr th:nth-child(4) {background-color:#00FF00;}
+			tr th:nth-child(5){background-color:#6600CC; }
+			tr th:nth-child(6){background-color:#FF0000;}
 			table td.lounas{ 
 				height 100px;  
-				min-width: 200px;
+				min-width: 50px;
 				
 				background-repeat:no-repeat;
-				background-size:250px 180px;
+	/*				background-size:250px 180px;*/
 				
 				}
-			img.icon{margin-right:5px;}
+			img.icon{margin-right:5px;  margin-left: 0px; padding-left: 0;}
 			td p{font-size: 1em; margin:0 0 0 0;}
 			td h3{font-size: 1em; margin:0px 0 0 0;}
 			.time:before{content: "_"; color:#FF00FF;}
 			.cell2{}
-			
+			.time{ padding: 0 2px 0 0; margin: 0;} 
+			td:nth-child(1) img { position: absolute; left: -30px; top: 13px; }
+			.trackeista{margin-left: 5%;}
 
+
+		#upper-right { position: absolute; top: 0; right: 0; }
+		#lower-left { position: absolute; bottom: 0; left: 0; }
+		#upper-left { position: absolute; top: 0; left: 0; }
+		#lower-right { position: absolute; bottom: 0; right: 0; }
+		#outside { position: absolute; left: 120%; top: 13px; }
 /*4. State rules
 ***************/
 
@@ -540,12 +552,12 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 
 @media only screen and (max-width: 1000px) {
 				#taulukko {
-					margin-left: 2%;	
+					margin-left: -2.5%;	
 }
 }
 @media only screen and (max-width: 890px),
 			(min-device-width: 768px) and (max-device-width: 1024px)  {
-				#taulukko{ overflow: hidden;}
+				#taulukko{ overflow: hidden; margin-left: 5%; width: 70%;}
 				#taulukko:before {
 					content: "Ohjelma aikasloteittain. Huom: mobiileille on tulossa, kiitos yhteistyökumppanimme Digian, myös oma appsinsa, jossa voit suunnitella oman lukujärjestyksesi!";	
 				}
@@ -553,7 +565,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 				table, thead, tbody, th, td, tr { 
 					display: block; 
 				}
-	
+				tr{margin: 15px;}
 				/* Hide table headers (but not display: none;, for accessibility) */
 				thead tr { 
 					position: absolute;
@@ -561,7 +573,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 					left: -9999px;
 				}
 	
-				tr { border: 1px solid #ccc; }
+				tr { border: 1px solid black; }
 	
 				td { 
 					/* Behave  like a "row" */
@@ -569,6 +581,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 					border-bottom: 1px solid #eee; 
 					position: relative;
 					padding-left: 30%; 
+					padding-bottom: 5px;
 				}
 	
 				td:before { 
@@ -598,15 +611,22 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 				td:nth-of-type(1) {
 					padding-left: 10%;
 				}
-				td:nth-of-type(1):before { content: "KLO";
+				td:nth-of-type(1):before { content: "";
 				 }
-				td:nth-of-type(2):before { content: "A"; }
-				td:nth-of-type(3):before { content: "B"; }
-				td:nth-of-type(4):before { content: "C"; }
-				td:nth-of-type(5):before { content: "D--"; }
-				td:nth-of-type(6):before { content: "E"; }
-				td:nth-of-type(7):before { content: "F"; }
+				td:nth-of-type(2):before { content: "Track 1"; }
+				td:nth-of-type(2){background-color: #FF6600;}
+				td:nth-of-type(3) {background-color:#0000FF;}
+				td:nth-of-type(4){background-color:#00FF00;}
+				td:nth-of-type(5){background-color:#6600CC; }
+				td:nth-of-type(6){background-color:#FF0000;}
 
+				td:nth-of-type(3):before { content: "Track 2"; }
+				td:nth-of-type(4):before { content: "Track 3"; }
+				td:nth-of-type(5):before { content: "Track 4"; }
+				td:nth-of-type(6):before { content: "Track 5"; }
+				td:nth-of-type(7):before { content: "Track 1"; }
+				td:nth-of-type(-n+5).lounas { display: none;}
+				td:nth-of-type(6).lounas:before{ content: "Kaikki trackit";}
 			}
 
 

@@ -3,6 +3,7 @@ layout: 'default'
 title: 'Ohjelma'
 pageOrder: '1'
 ---
+<p class="trackeista"><i>Pssst. Lue lisää ohjelmasta, trackijaosta ja aihioista!</i></p>
 <nav class="day">
 	<a href="#tiistai">Tiistai</a>
 	<a href="#keskiviikko">Keskiviikko</a>
@@ -13,11 +14,11 @@ pageOrder: '1'
 	<thead>
 		<tr>
 			<th> </th>
-			<th>Track 01</th>
-			<th>Track 02</th>
-			<th>Track 03</th>
-			<th>Track 04</th>
-			<th>Track 05</th>
+			<th>Track 01: palvelut ja tuotteet</th>
+			<th>Track 02: koodia ja kantoja</th>
+			<th>Track 03: tutkimuksen IT</th>
+			<th>Track 04: Bitti ja rauta</th>
+			<th>Track 05: tietohallinto ja asiantuntijatyön johtaminen</th>
 		</tr>
 </thead>
     <tbody>
@@ -41,9 +42,12 @@ pageOrder: '1'
 	</tr>
 <tr class="lunch">
 			<td><p class="time">1100</p></td>
+
+			<td class="lounas">lounas</td>
+
+			<td class="lounas">lounas</td>
+
 			<td class="lounas"><img class="icon" src="../images/icons/lunch1.png" >LOUNASTAUKO</td>
-			<td class="lounas">LOUNASTAUKO</td>
-			<td class="lounas">LOUNASTAUKO</td>
 			<td class="lounas">LOUNASTAUKO</td>
 			<td class="lounas">LOUNASTAUKO</td>
 	
