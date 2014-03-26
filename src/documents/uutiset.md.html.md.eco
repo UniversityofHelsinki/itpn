@@ -6,7 +6,7 @@ pageOrder: '3'
 <div class="pagelower" class="clearfix">
 <h1>Ajankohtaista IT-Päivillä</h1>
 <ul class="newslist">
-<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['news']}, [{date: 1}]).toJSON()[0..5]: %>
+<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['news']}, [{date: -1}]).toJSON()[0..5]: %>
             <li class="frontbox">
 		<a href="<%= document.url %>">
                 <h2><%= document.title %></h2>

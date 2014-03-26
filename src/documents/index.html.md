@@ -15,10 +15,10 @@ pageOrder: '0'
 	<div id="first">
 	</div>
 	<h2>
-	Tutustu upeisiin</br> puhujiimme!
+	Tutustu IT-päivien aiheisiin ja </br> ohjelmaan!
 	</h2>
 	<p>
-	IT-Päivät ylpeänä esittää mielenkiintoisen esiintyjäkaartin. Puhujiksi on valjastettu yliopistojen ja korkeakoulujen kokeneet IT-hankkeiden asiantuntijat. Myös korkeakoulusektorin ulkopuolisia puhujia on saatu mukaan, mikä tuokin uutta näkökulmaa aiheisiin. 
+	IT-päivien aiheisiin 
 	</p>
 	</div></a>
 		<a href="puhujat.html"><div class="frontbox">
