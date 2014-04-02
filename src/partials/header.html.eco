@@ -1,6 +1,6 @@
 	<header class="clearfix">
 		<div id="viiva" class="clearfix"></div>
-		<div id="logoy"><a href="../index.html"><img class="love" src="../images/IT_header.png"></a>
+		<div id="logoy"><a href="index.html"><img class="love" src="./images/IT_header.png"></a>
 
 		</div>
 			<nav class="top">

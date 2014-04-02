@@ -1,5 +1,5 @@
 ---
-layout: 'news'
+layout: 'news2'
 title: 'Verkkosivut julkaistu!'
 date: 2014-04-04
 ingress: 'Sivut ja alustava hahmoitelma trackeista ja sessioista on nyt julki!'
