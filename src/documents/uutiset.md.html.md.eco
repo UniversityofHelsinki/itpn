@@ -3,19 +3,23 @@ layout: 'default'
 title: 'uutiset'
 pageOrder: '3'
 ---
+<div class="pageupperu">
+	<div id="loveitu">
+	<img class="otsikkokuva" src="./images/IT_iso.png">
+	<p>Mitä uutta?</p>
+	</div>
+</div>
 <div class="pagelower" class="clearfix">
 <h1>Ajankohtaista IT-Päivillä</h1>
-<ul class="newslist">
-<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['news']}, [{date: -1}]).toJSON()[0..5]: %>
-            <li class="frontbox">
-		<a href="<%= document.url %>">
-                <h2><%= document.title %></h2>
-		<img src="../images/newsimages/<%= document.basename %>.png">
-		<p><%- document.ingress %></p>
+<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['uutiset']}, [{date: -1}]).toJSON()[0..5]: %>
+<a href="<%= document.url %>">
+<div class="frontbox">
+<div class="newsnosto"><img src="../images/newsimages/<%= document.basename %>.png"></div>
+<h2><%= document.title %></h2>
+<p><%- document.ingress %></p>
+</div>
 </a>
-            </li>
-        <% end %>
-    </ul>
+<% end %>
 </div>
 <div class="restofnews">
 <ul>

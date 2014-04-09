@@ -28,7 +28,7 @@ pageOrder: '0'
 	</div>
 </a>
 
-<a href="news/sivuauki.html">
+<a href="uutiset/sivuauki.html">
 		<div class="frontbox">
 			<div id="first">
 				</div>
@@ -43,14 +43,26 @@ pageOrder: '0'
 
 
 
-	<a href="puhujat.html"><div class="frontbox">
+	<a href="sponsorit.html"><div class="frontbox">
 	<div id="first">
 	</div>
 	<h2>
-	Pääyhteistyökumppaneina</br> Gofore ja Cerion! 
+	Pääyhteistyö-<br/>kumppaneina</br> Gofore ja Cerion! 
 	</h2>
 	<p>
 	Kiitollisena ja ylpeinä toivotamme pääyhteistyökumppanimme</br> Goforen ja Cerionin mukaan tiimiin! Digia Oy puolestaan tekee tapahtuman virallisen mobiiliappsin, joka julkaistaan hieman ennen tapahtumaa. Appsissa pääset tekemään omaa "lukujärjestystäsi". 
 	</p>
-	</div></a>
+	</div>
+</a>
+<!--	<a href="puhujat.html">
+<div class="frontbox">
+	<div id="first">
+	</div>
+	<h2>
+	Pääyhteistyö-<br/>kumppaneina</br> Gofore ja Cerion! 
+	</h2>
+	<p>
+	Kiitollisena ja ylpeinä toivotamme pääyhteistyökumppanimme</br> Goforen ja Cerionin mukaan tiimiin! Digia Oy puolestaan tekee tapahtuman virallisen mobiiliappsin, joka julkaistaan hieman ennen tapahtumaa. Appsissa pääset tekemään omaa "lukujärjestystäsi". 
+	</p>
+	</div></a>-->
 </div>

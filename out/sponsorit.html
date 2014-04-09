@@ -14,11 +14,14 @@
 	 <meta name="description" content="IT-Päivät 2014" /> 
 	 <meta name="keywords" content="IT-Päivät 2014, IT-Päivät Helsinki" /> 
 
-	<!-- DocPad Meta -->
 	<meta name="generator" content="DocPad v6.54.10" />
 
-	<!-- DocPad Styles + Our Own -->
-	<link  rel="stylesheet" href="/vendor/normalize.css" /><link  rel="stylesheet" href="/vendor/h5bp.css" /><link  rel="stylesheet" href="/styles/style.css" /> 
+
+	<style >html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}</style><link  rel="stylesheet" href="/vendor/normalize.css" /><link  rel="stylesheet" href="/vendor/h5bp.css" /><link  rel="stylesheet" href="/styles/style.css" /> 
 	<link href='http://fonts.googleapis.com/css?family=Share+Tech' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="./styles/style.css">
 	<link rel="stylesheet" href="./vendor/h5bp.css">
@@ -55,10 +58,47 @@
 	</header>
 
 	<article class="content" class="clearfix">
-		
+		<div class="pageupperu">
+    <div id="loveitu">
+    <img class="otsikkokuva" src="./images/IT_iso.png">
+    <p>IT-Päivät kiittää upeita yhteistyökumppaneitaan tämän tapahtuman mahdollistamisesta! <br/>Haluatko yritykesi logon tämän porukan jatkoksi? Ota rohkeasti yhteyttä! </p>
+    </div>
+</div>
+<div class="pagelower" class="clearfix">
+    <div class="pspons"><h2>Pääyhteistyökumppanit</h2>
+    <div class="sponssiloota">
+        <div>
+        <a href="http://cerion.fi"><img class="sponsorlogo"src="../images/logot/cerion.png"></a>
+        </div>
+        <h3>Cerion Solutions Oy</h3>
+        <p>Cerion toimittaa toiminnan ja tiedolla johtamisen IT-ratkaisuja ja palveluja, jotka antavat asiakkaalle ajanmukaista tukea organisaation kokonaisvaltaiseen johtamiseen. IT-ratkaisut tukevat asiakkaan strategista ja operatiivista tavoitteiden asettelua.</p>
+        </div>
+        <div class="sponssiloota">
+        <div>
+        <a href="http://gofore.com"><img class="sponsorlogo"src="../images/logot/gofore.png"></a>
+        </div>
+        <h3>Gofore Oy</h3>
+        <p>Gofore on uuden opetusalan ekosysteemin integraattori ja arkkitehti. Työskentelemme keskeisten opetusalan uudistusten kuten Opetushallituksen Oppija -verkkopalvelun sekä Helsingin Yliopiston verkkopalveluhankkeiden parissa.</p>
+        </div>
+    </div>
+    <div class="sponsdigia"><h3>Yhteistyökumppanit</h3>
+    <div class="sponssiloota">
+    <a href="http://digia.com/fi/"><img class="sponsorlogo"src="../images/logot/digia.png"></a>
+    <h3> Digia Oyj</h3>
+    <p>
+Digia tarjoaa julkiselle sektorille sovelluskehityspalveluita, portaaliratkaisuja,  integraatioratkaisuja, sekä näihin liittyviä ylläpito- ja tukipalveluita. Digian ratkaisuja löytyy monilta elämän alueilta keskus- ja paikallishallinnosta sekä julkisista palveluista.</p>
+<p>IT-päivät 2014 tapahtumaa olemme sponsoroineet toteuttamalla tapahtuman mobiilisovelluksen, käyttäen Digian maailmanlaajuisesti tunnustettua Qt- kehitysympäristöä.
+    </p>
+    </div>
+    <div class="tulemukaan">
+    <p class="clearfix">Oletko kiinnostunut yhteistyökumppanuudesta IT-päivillä? Lue <a href="/uutiset/yhteistyokumppaniksi.html">täältä</a> lisää siitä, kuinka voit olla mukana tai ota suoraan yhteyttä info at it2014.fi!</p></div>
+    </div>
+
+<p></div></p>
+
 	</article>
 </div>
-	<footer>
+	<footer class="foot">
 		<ul>
 		
 		   <li class="tinylogo"><a href="http://cerion.fi"><img class="sponsorlogo"src="../images/logot/cerion.png"></a></li>
@@ -75,7 +115,52 @@
     <script>window.jQuery || document.write('<script src="/vendor/jquery.js"><\/script>')</script>
 
 	<!-- DocPad Scripts + Our Own -->
-	<script defer="defer"  src="/vendor/log.js"></script><script defer="defer"  src="/vendor/modernizr.js"></script><script defer="defer"  src="/scripts/script.js"></script>
+	<script >(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage && console && console.log && true);
+if ( log && localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data && data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();</script><script defer="defer"  src="/vendor/log.js"></script><script defer="defer"  src="/vendor/modernizr.js"></script><script defer="defer"  src="/scripts/script.js"></script>
 
 </body>
 </html>

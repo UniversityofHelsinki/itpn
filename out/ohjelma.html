@@ -14,11 +14,14 @@
 	 <meta name="description" content="IT-Päivät 2014" /> 
 	 <meta name="keywords" content="IT-Päivät 2014, IT-Päivät Helsinki" /> 
 
-	<!-- DocPad Meta -->
 	<meta name="generator" content="DocPad v6.54.10" />
 
-	<!-- DocPad Styles + Our Own -->
-	<link  rel="stylesheet" href="/vendor/normalize.css" /><link  rel="stylesheet" href="/vendor/h5bp.css" /><link  rel="stylesheet" href="/styles/style.css" /> 
+
+	<style >html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}</style><link  rel="stylesheet" href="/vendor/normalize.css" /><link  rel="stylesheet" href="/vendor/h5bp.css" /><link  rel="stylesheet" href="/styles/style.css" /> 
 	<link href='http://fonts.googleapis.com/css?family=Share+Tech' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="./styles/style.css">
 	<link rel="stylesheet" href="./vendor/h5bp.css">
@@ -120,7 +123,7 @@
                 <h3>Ajankohtaista julkis IT:ssä</h3>
                 <ul>
                 <li>Hankintadirektiivi 2016: mikä muuttuu?</li>
-                <li>Yliopistojen avoimet rajapinnat: mahdollisuus innovaatioihin?</li>
+                <li>Pilvipalvelusopimukset: kuinka SAAS-palvelut paketoidaan sopimuksissa?</li>
                 <li>Muutokset tietoturvan lainsäädännössä, EU:n tietosuojalaki</li>
                 </ul>
                 </div><div class="hashtags">#agile #hankinnat #avoin #titu</div>
@@ -180,7 +183,7 @@
             </td>
 
             <td class="startcell">
-                <div>1545&gt;1630
+                <div>1300&gt;1400
                 <h3>Ketterä projektinhallinta kolmen yliopiston yhteishankkeessa</h3>
                 <ul>
                     <li>OTM-hankkeessa on kuusi product owneria, kuinka sujuu yhteistyö yliopistojen ja paikkakuntien välillä?</li>
@@ -272,13 +275,7 @@
 
             <td class="startcell">
                 <div>1545&gt;1630
-                <h3>Ketterä projektinhallinta kolmen yliopiston yhteishankkeessa</h3>
-                <ul>
-                    <li>OTM-hankkeessa on kuusi product owneria, kuinka sujuu yhteistyö yliopistojen ja paikkakuntien välillä?</li>
-                    <li>Kuinka omien kehittäjien, toimittajien ja eri korkeakoulujen asiantuntijoiden kesken saadaan tehokkaasti näkyvää aikaiseksi?</li>
-                    <li></li>
-                </ul>
-
+                <h3>TBA</h3>
                 </div>
                 <div class="speaker"></div>
                 <div class="hashtags"></div>
@@ -351,7 +348,11 @@
 
             <td class="startcell">
                 <div>0915&gt;1030
-                <h3>TBA</h3>
+                <h3>Teknologia-arkkitehtuuri yliopistoilla</h3>
+                <ul>
+                    <li>Kuinka (ja miksi) TA-periaatteet luodaan?</li>
+                    <li>Kuinka samalla varmistutaan siitä, että käytetään moderneja teknologioita ja seurataan kehitystä?</li>
+                </ul>
                 </div>
                 <div class="speaker"></div>
                 <div class="hashtags"></div>
@@ -478,7 +479,7 @@
 </div>
 	</article>
 </div>
-	<footer>
+	<footer class="foot">
 		<ul>
 		
 		   <li class="tinylogo"><a href="http://cerion.fi"><img class="sponsorlogo"src="../images/logot/cerion.png"></a></li>
@@ -495,7 +496,52 @@
     <script>window.jQuery || document.write('<script src="/vendor/jquery.js"><\/script>')</script>
 
 	<!-- DocPad Scripts + Our Own -->
-	<script defer="defer"  src="/vendor/log.js"></script><script defer="defer"  src="/vendor/modernizr.js"></script><script defer="defer"  src="/scripts/script.js"></script>
+	<script >(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage && console && console.log && true);
+if ( log && localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data && data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();</script><script defer="defer"  src="/vendor/log.js"></script><script defer="defer"  src="/vendor/modernizr.js"></script><script defer="defer"  src="/scripts/script.js"></script>
 
 </body>
 </html>

@@ -69,7 +69,7 @@ pageOrder: '1'
 				<h3>Ajankohtaista julkis IT:ssä</h3>
 				<ul>
 				<li>Hankintadirektiivi 2016: mikä muuttuu?</li>
-				<li>Yliopistojen avoimet rajapinnat: mahdollisuus innovaatioihin?</li>
+				<li>Pilvipalvelusopimukset: kuinka SAAS-palvelut paketoidaan sopimuksissa?</li>
 				<li>Muutokset tietoturvan lainsäädännössä, EU:n tietosuojalaki</li>
 				</ul>
 				</div><div class="hashtags">#agile #hankinnat #avoin #titu</div>
@@ -130,7 +130,7 @@ pageOrder: '1'
 			</td>
 
 			<td class="startcell">
-				<div>1545>1630
+				<div>1300>1400
 				<h3>Ketterä projektinhallinta kolmen yliopiston yhteishankkeessa</h3>
 				<ul>
 					<li>OTM-hankkeessa on kuusi product owneria, kuinka sujuu yhteistyö yliopistojen ja paikkakuntien välillä?</li>
@@ -222,13 +222,7 @@ pageOrder: '1'
 
 			<td class="startcell">
 				<div>1545>1630
-				<h3>Ketterä projektinhallinta kolmen yliopiston yhteishankkeessa</h3>
-				<ul>
-					<li>OTM-hankkeessa on kuusi product owneria, kuinka sujuu yhteistyö yliopistojen ja paikkakuntien välillä?</li>
-					<li>Kuinka omien kehittäjien, toimittajien ja eri korkeakoulujen asiantuntijoiden kesken saadaan tehokkaasti näkyvää aikaiseksi?</li>
-					<li></li>
-				</ul>
-				
+				<h3>TBA</h3>
 				</div>
 				<div class="speaker"></div>
 				<div class="hashtags"></div>
@@ -302,7 +296,11 @@ pageOrder: '1'
 	
 			<td class="startcell">
 				<div>0915>1030
-				<h3>TBA</h3>
+				<h3>Teknologia-arkkitehtuuri yliopistoilla</h3>
+				<ul>
+					<li>Kuinka (ja miksi) TA-periaatteet luodaan?</li>
+					<li>Kuinka samalla varmistutaan siitä, että käytetään moderneja teknologioita ja seurataan kehitystä?</li>
+				</ul>
 				</div>
 				<div class="speaker"></div>
 				<div class="hashtags"></div>
