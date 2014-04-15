@@ -338,17 +338,18 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		background-repeat:no-repeat;
 		background-size:cover;
 		min-height: 300px;
-		margin-bottom: 2%;
-		}
-/*.pageupperu{
-		padding: 60px;
-		background-image:url('../images/kirahvi_iso.jpg');
-		background-position:center top;
-		background-repeat:no-repeat;
-		background-size:cover;
 		max-height: 350px;
 		margin-bottom: 2%;
-		}*/
+		}
+.pageupperu{
+		padding: 60px;
+		/*background-image:url('../images/kirahvi_iso.jpg');
+		background-position:center top;
+		background-repeat:no-repeat;
+		background-size:cover;*/
+		max-height: 350px;
+		margin-bottom: 2%;
+		}
 	.newsupper{
 		width: 80%;
 		margin-left: auto;

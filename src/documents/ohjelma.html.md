@@ -41,7 +41,7 @@ pageOrder: '1'
 				<div>1000>1100<h3>Verkkosivualusta palveluna</h3></div>
 				<ul>
 				<li>Verkkopalveluiden yhdenmukaisuus yksiköissä  vs. vapaus valita paras teknologia?</li>
-				<li>Case: Drupal multicore & yksikkötemplatet.</li>
+				<li>Case: Drupal multisite & yksikkötemplatet.</li>
 				</ul>
 				<div class="speaker"></div><div class="hashtags">#drupal #verkkosivut #cms</div>
 			</td>

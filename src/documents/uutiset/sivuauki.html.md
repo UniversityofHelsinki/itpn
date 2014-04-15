@@ -12,14 +12,20 @@ Tapahtuman **verkkosivu** on nyt tuotannossa, kuten näkyy. Muutama sana tästä
 
 Sivu on vahvasti work in progress, joten käykäähän täällä ahkerasti, sekä seuratkaa meitä [twitterissä](https://twitter.com/itp2014), niin pysytte kehissä tapahtumista ja sivun päivityksistä.
 
-**Ilmoittautuminen ja lipunmyynti avataan 2.5.2014!**
+**Ilmoittautuminen ja lipunmyynti avataan toukokuussa!**
 <br/>
+
+##Sisällöistä
+Nyt julkaistu sivusto antaa perustiedot tapahtumasta. Sivua kuitenkin kehitetään koko ajan ja ohjelmakin on vasta esimerkinomainen hahmotelma siitä, mitä tuleman pitää. 
+Etusivulle keräämme kiinnostavia nostoja, lisäksi kaikki uusimmat tiedotteet ja uutiset nostamme "uutiset"-sivulle. Pääsivujen kokonaisuus täydentyy kesän aikana vielä "puhujat"-osiolla jahka puhujavirtuoosimme selviävät. Info-osuus puolestaan täydentyy vielä käytännön majoitustiedoilla ja Helsinki-vinkeilläkin. 
+
+Haluaisitko sivulle jotain muuta? Puuttuuko jotain? Anna palautetta [twitterissä](https://twitter.com/itp2014) tai [wiki-sivullamme](https://wiki.helsinki.fi/display/IT2014)! 
 
 ## Visuaalisesta ilmeestä
 
->"Siis toi kirahvi on tossa muutamasta syystä. Ensinnäkin, kirahvit on kivoja. Vaeltelee tuolla savanneilla ihan minding their own business ja ovat hauskoja. Sitten toisaalta Helsingin yliopistollahan on toi kirahvikorttelit tuolla päärakennuksen hoodeilla, että siitäkin syystä kirahvi valikoitui tunnuseläimeksi. " -  Anne-Mari Seppola.
+>"Kirahvihan on mukana muutamasta syystä. Ensinnäkin, kirahvit on kivoja. Vaeltelee tuolla savanneilla ihan minding their own business ja ovat hauskoja. Sitten toisaalta Helsingin yliopiston päärakennushan sijaitsee Kirahvi-korttelissa, mikä myös puolustaa kirahvin valikoitumista tunnuseläimeksi." -  Anne-Mari Seppola.
 
-Visuaalisesta ilmeestä tapahtumassa vastaa ihanan [Grass Business Oy:n](http://www.grass.fi/) Risto Vauras. Toimeksiantona oli jotain iloista, jotain kreisiä, ravistelevaa ja ei-virastomaista. Sitä myös saatiin! IT on iloinen asia ja IT-päivät varsinkin ovat iloinen ja kiinnostava verkostoitumismahdollisuus, tätä myös visuaalisen ilmeen on ilmentävän.
+Visuaalisesta ilmeestä tapahtumassa vastaa ihanan [Grass Business Oy:n](http://www.grass.fi/) Risto Vauras. Toimeksiantona oli jotain iloista, jotain kreisiä, ravistelevaa ja ei-virastomaista. Sitä myös saatiin! IT on iloinen asia ja IT-päivät varsinkin ovat iloinen ja kiinnostava verkostoitumismahdollisuus, tätä myös visuaalisen ilmeen on ilmennettävä.
 
 ## Tekniikasta
 
