@@ -6,7 +6,7 @@ pageOrder: '4'
 <div class="pageupperu">
 	<div id="loveitu">
 	<img class="otsikkokuva" src="./images/Sponsorit_ots.png">
-	<p>IT-Päivät kiittää upeita yhteistyökumppaneitaan tämän tapahtuman mahdollistamisesta! <br/>Haluatko yritykesi logon tämän porukan jatkoksi? Ota rohkeasti yhteyttä! </p>
+	<p>IT-Päivät kiittää upeita yhteistyökumppaneitaan tämän tapahtuman mahdollistamisesta! <br/>Haluatko yritykesi logon tämän porukan jatkoksi? <a href="/uutiset/yhteistyokumppaniksi.html">Ota rohkeasti yhteyttä!</a> </p>
 	</div>
 </div>
 <div class="pagelower" class="clearfix">
