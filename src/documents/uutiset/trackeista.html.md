@@ -14,13 +14,13 @@ Workshopeissa ja palautteessa, jota sain, tuli seuraavanlaista palautetta (mutuf
 4. Tutkimuksen palveluille myös näkyvyyttä
 5. Tarpeeksi juomaa iltajuhlaan
 
-Osaan näistä on helppo reagoida, esimerkiksi tutkimuksen IT:lle perustettiin oma track, teknisemmälle kamalle puolestaan työnimellä "bitti ja rauta" myöskin. Teknisemmissä trackeissä ongelmaksi muodostuu se, että useat haluaisivat kuulla ihan kunnon teknisiä esiintyjiä, mutta valittavan harva asiantuntija on itse mielellään lavalla. Tätä rakoa on pyrinyt kuromaan yhteistyössä yritysten kanssa, mielenkiinnolla seuraankin, kuinka tähän reagoidaan. 
+Osaan näistä on helppo reagoida, esimerkiksi tutkimuksen IT:lle perustettiin oma track, teknisempi näkökulma sai puolestaan omansa, joka kulkee työnimellä "bitti ja rauta". Teknisemmissä trackeissä ongelmaksi on muodostunut hieman se, että useat haluaisivat kuulla ihan kunnon teknisiä esiintyjiä, mutta valitettavan harva asiantuntija tuntuu haluavan itse mielellään lavalle. Tätä rakoa on pyrinyt kuromaan yhteistyössä yritysten kanssa, mielenkiinnolla seuraankin, kuinka tähän reagoidaan. 
 
 ##Mitä tapahtui tietoturvatrackille?
 
 Toisaalta osa asioista on niin tärkeitä ja kokonaisvaltaisia, että niitä ei haluttu rajoittaa vain yhteen trackkin. Näinollen rakenne on tällä kertaa  **matriisimuotoinen**. Tämä tarkoittaa sitä, että esimerkiksi mobiiliasiat, **tietoturva**, ketteryys ja kokonaisarkkitehtuuri on läsnä kaikilla trackeilla mahdollisuuksien mukaan. Voit siis esimerkiksi seurata eri trackien tietoturva-aihetta (etsi ohjelmasta #titu-tagit) tai olla koko tapahtuman vaikka ohjelmistokehityksen trackilla, jolloin kuulet niin tietoturvan, kokonaisarkkitehtuurin, ketteryyden ja mobiilinäkökulman esityksiä. Tämä aihot on merkitty ohjelmaan hashtagein. Periaatteessahan hashtagien käyttö on vähän passé, mutta visualisoinee teille ohjelman rakennetta. 
 
-Nyt heitänkin teille haasteen ja pyydän edelleenkin kontribuutiota. Haluatko sinä olla mukana IT-päivillä? **Olisiko sinulla ideaa tai toivetta aiheesta?** Tiedätkö organisaatiossa olevan hyvän puhujan, jonka toivoisit pääsevän ääneen? Haluaisitko tulla demoamaan uutta järjestelmää tai kertomaan kuinka olette palveluitanne toteuttaneet? Myös huonot kokemukset ja mönkään menneet hankkeet ovat kullanarvoisia, sillä samantyyppisiä ongelmiahan me eri yliopistoissa ratkomme!
+Nyt heitänkin teille haasteen ja pyydän edelleenkin kontribuutiota. Haluatko sinä olla mukana IT-päivillä? **Olisiko sinulla ideaa tai toivetta aiheesta?** Tiedätkö organisaatiossa olevan hyvän puhujan, jonka toivoisit pääsevän ääneen? Haluaisitko tulla demoamaan uutta järjestelmää tai kertomaan kuinka olette palveluitanne toteuttaneet? Myös huonot kokemukset ja mönkään menneet hankkeet ovat kullanarvoisia, sillä samantyyppisiä ongelmiahan me eri korkeakouluissa ratkomme!
 
 Mailaa ehdotuksesi info at it2014.fi, kommentoi [wikisivuilla](https://wiki.helsinki.fi/display/IT2014/Home+of+IT2014) tai vaikkapa [twitterissä](https://twitter.com/itp2014) !
 

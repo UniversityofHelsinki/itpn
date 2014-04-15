@@ -3,7 +3,7 @@ layout: 'default'
 title: 'Ohjelma'
 pageOrder: '1'
 ---
-<p class="trackeista">Huom: ohjelma on vasta <b>alustava</b> skeleton, hyvin moni asia saattaa muuttua, esimerkiksi palautteen pohjalta. Tämän sivun on kevään ajan tarkoitus herättää keskustelua, saada lisäkommentteja tai aihe-ehdotuksia sekä visualisoida tapahtuman teemoja ja lähestymistapaa. Anna siis palautetta, ehdotuksia tai tarjoudu puhujaksi info at it2014.fi! <br/><i>Lue lisää ohjelmasta, <a href="../news/kolmas-uutinen.html">trackijaosta ja aihioista!</a></i></p>
+<p class="trackeista">Huom: ohjelma on vasta <b>alustava</b> skeleton, hyvin moni asia saattaa muuttua, esimerkiksi palautteen pohjalta. Tämän sivun on kevään ajan tarkoitus herättää keskustelua, saada lisäkommentteja tai aihe-ehdotuksia sekä visualisoida tapahtuman teemoja ja lähestymistapaa. Anna siis palautetta, ehdotuksia tai tarjoudu puhujaksi info at it2014.fi! <br/><i> <a href="../uutiset/trackeista.html">Lue lisää ohjelmasta,trackijaosta ja aihioista!</a></i></p>
 <!--<nav class="day">
 	<a href="#tiistai">Tiistai</a>
 	<a href="#keskiviikko">Keskiviikko</a>
@@ -66,7 +66,7 @@ pageOrder: '1'
 
 			<td class="startcell">
 				<div>1000>1100
-				<h3>Ajankohtaista julkis IT:ssä</h3>
+				<h3>Ajankohtaista julkishallinnon IT:ssä</h3>
 				<ul>
 				<li>Hankintadirektiivi 2016: mikä muuttuu?</li>
 				<li>Pilvipalvelusopimukset: kuinka SAAS-palvelut paketoidaan sopimuksissa?</li>

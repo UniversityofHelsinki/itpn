@@ -2,9 +2,9 @@
 layout: 'news2'
 title: 'Yhteistyökumppaniksi IT-päiville?'
 date: 2014-01-09
-ingress: 'Haluatko mukaan yhteistyökumppaniksi IT-päiville? Katso täältä, kuinka se onnistuu!Tämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapaTämä uutinen käsittelee diipadaapa'
+ingress: 'Haluatko mukaan yhteistyökumppaniksi IT-päiville? Katso täältä, kuinka se onnistuu!'
 ---
-<img class="nostokuva" src="../images/newsimages/ensimmainen-uutinen.png" >
+<img class="nostokuva" src="../images/sponsori_v01.png" >
 
 Yhteistyökumppaniksi?
 ==========

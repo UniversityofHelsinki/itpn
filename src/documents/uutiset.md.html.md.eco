@@ -5,18 +5,16 @@ pageOrder: '3'
 ---
 <div class="pageupperu">
 	<div id="loveitu">
-	<img class="otsikkokuva" src="./images/IT_iso.png">
-	<p>Mitä uutta?</p>
+	<img class="otsikkokuva" src="./images/Uutiset_ots.png">
 	</div>
 </div>
 <div class="pagelower" class="clearfix">
-<h1>Ajankohtaista IT-Päivillä</h1>
 <% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['uutiset']}, [{date: -1}]).toJSON()[0..5]: %>
 <a href="<%= document.url %>">
 <div class="frontbox">
 <div class="newsnosto"><img src="../images/newsimages/<%= document.basename %>.png"></div>
 <h2><%= document.title %></h2>
-<p><%- document.ingress %></p>
+<p><%- document.ingress %><br/><u>lue lisää</u></p>
 </div>
 </a>
 <% end %>

@@ -255,9 +255,14 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 	}
 
 	#first{
-		background-image: url('../images/asuntovaunu.png');
+		background-image: url('../images/ohjelmisto_v01.png');
 	}
-	
+	#second{
+		background-image: url('../images/open_v01.png');
+	}
+#third{
+		background-image: url('../images/sponsori_v01.png');
+	}
 	
 	footer {
 		display:block;
@@ -335,7 +340,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		min-height: 300px;
 		margin-bottom: 2%;
 		}
-.pageupperu{
+/*.pageupperu{
 		padding: 60px;
 		background-image:url('../images/kirahvi_iso.jpg');
 		background-position:center top;
@@ -343,7 +348,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		background-size:cover;
 		max-height: 350px;
 		margin-bottom: 2%;
-		}
+		}*/
 	.newsupper{
 		width: 80%;
 		margin-left: auto;
@@ -380,6 +385,9 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		
 	}
 
+.otsikkokuva{
+		max-width: 90%;
+		}
 	/*News*/
 	.newscontent > p{
 	font-size:  1.2em;
@@ -396,7 +404,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 	}
 
 	footer > ul {
-		margin-left: 15%;
+		margin-left: 17%;
 	}
 
 
@@ -411,7 +419,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 	.sponsorlogo{
 		height: 50px;
 		max-width: 150px;
-		margin-right: 10px;
+		margin-right: 40px;
 		margin-bottom: 10px;
 		}
 	
@@ -507,7 +515,13 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 	}
 	
 		#first:hover{
-			background-image: url('../images/asuntovaunu_mouseoveri.png');
+			background-image: url('../images/ohjelmisto_v01_hoveri.png');
+		}
+			#second:hover{
+			background-image: url('../images/open_v01_hoveri.png');
+		}
+			#third:hover{
+			background-image: url('../images/sponsori_v01_hoveri.png');
 		}
 		
 		a>.frontbox:hover>h2, a:hover > h2{
@@ -615,10 +629,11 @@ width: 95%;
 		.frontbox{
 		width: 30%;
 	}
-	.pagelower{
+	.pagelower, footer >ul{
 		margin-left: 5%;
 	}
-	.frontbox{
+	.otsikkokuva{
+		max-width: 90%;
 		}
 	}
 

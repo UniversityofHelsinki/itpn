@@ -1,12 +1,19 @@
 ---
-layout: 'default'
+layout: 'news2'
 title: 'Info'
 pageOrder: '6'
 ---
-##h1
-1. 3
-2. i
- accepted
-	
+#Tietoa käytännön järjestelyistä
+Tälle sivulle tulee tietoa kesän aikana käytännön järjestelyistä, kuten majoituksesta.
+##Liput
+Lipunmyynti aloitetaan toukokuun aikana. Lippujen hinnat ovat seuraavat
+###Early bird, ilmoittauduttu 15.8.2014 mennessä:
+* Kahden päivän lippu, sisältäen iltajuhlan 350e sis. alv
+* Yhden päivän lippu sisältäen iltajuhlan 250e sis alv
+* Pelkkä iltajuhlalippu (esim. avec-lippu tai lippu yhteistyökumppaneille) 80e sis alv
+### Tavallinen lippu 15.8.2014 jälkeen
+* Kahden päivän lippu, sisältäen iltajuhlan 400e sis. alv
+* Yhden päivän lippu sisältäen iltajuhlan 300e sis alv
+* Pelkkä iltajuhlalippu (esim. avec-lippu tai lippu yhteistyökumppaneille) 100e sis alv
 
 

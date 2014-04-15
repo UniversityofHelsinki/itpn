@@ -1,6 +1,6 @@
 	<footer class="foot">
 		<ul>
-		<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['imgdoc']} ).toJSON(): %>
+		<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['imgdoc']},[pageOrder:1] ).toJSON(): %>
 		   <li class="tinylogo"><a href="<%- document.tags %>"><img class="sponsorlogo"src="../images/logot/<%= document.basename %>.png"></a></li>
 		<% end %>
 		</ul>
