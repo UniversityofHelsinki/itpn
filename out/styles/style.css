@@ -300,10 +300,11 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		display: block;
 		float: left;
 		width: 30%;
-		padding-right: 5%;
+		padding-right: 15%;
 		margin-bottom: 2%;
 		margin-top: 2%;
 	}
+	.sponssiloota:last-child{padding-right:5%;}
 	.tulemukaan{
 	display: block;
 	float: left;
