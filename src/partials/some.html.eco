@@ -1,0 +1,5 @@
+<div class="some">
+<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['uutiset']} ).toJSON():  %>
+	 <div class="fb-share-button"  id="<%= 'dontshowsome'  if @document.url isnt document.url %>" data-width="100" data-type="icon_link"></div>
+	<% end %>
+</div>

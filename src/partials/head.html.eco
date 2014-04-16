@@ -17,11 +17,4 @@
 
 	<%- @getBlock('styles').add(@site.styles).toHTML() %> 
 	<link href='http://fonts.googleapis.com/css?family=Share+Tech' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="./styles/style.css">
-<link rel="stylesheet" href="../styles/style.css">
-<link rel="stylesheet" href="./vendor/h5bp.css">
-<link rel="stylesheet" href="../vendor/h5bp.css">
-<link rel="stylesheet" href="./vendor/normalize.css">
-<link rel="stylesheet" href="../vendor/normalize.css">
-	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 </head>

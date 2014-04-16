@@ -12,6 +12,7 @@
 <%- @partial('headernews') %>
 	<article class="newscontent" class="clearfix">
 		<%- @content %>
+<!-- <%- @partial('some') %> -->
 	</article>
 
 </div>

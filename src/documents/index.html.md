@@ -36,7 +36,7 @@ pageOrder: '0'
 				Verkkosivut</br> julki!
 				</h2>
 				<p>
-				Verkkosivut on nyt julkaistu. Täältä saat tietoa ohjelmasta, yhteistyökumppaneista sekä tulevaisuudessa pääset myös tutustumaan puhujiin. Ilmoittautuminen avataan puolestaan 2.5.2014!
+				Verkkosivut on nyt julkaistu. Täältä saat tietoa ohjelmasta, yhteistyökumppaneista sekä tulevaisuudessa pääset myös tutustumaan puhujiin. Ilmoittautuminen avataan puolestaan toukokuussa!
 				<br/><u>lue lisää</u></p>
 	</div>
 </a>

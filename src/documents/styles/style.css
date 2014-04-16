@@ -1,5 +1,5 @@
 /* CSS by Anne-Mari Seppola,
-     graphic design by Risto Vauras/ Grass Business OY, grass.fi
+Graphic design by Risto Vauras/ Grass Business OY, grass.fi
 
 Built with love for UniHelsinki! 
 Tsirp!
@@ -10,10 +10,7 @@ CSS structured along the lines of smacss, see smacss.com. Well, at least somewha
 
 
 /*1. Base rules: 
-".. is defining the default styling for how that element should look in all occurrences on the page. -- Base styles include setting heading sizes, default link styles, default font styles, and body backgrounds. " 
 ***************/
-
-
 
 	h1,h2, body{
 		font-family: 'Share Tech', sans-serif;
@@ -57,8 +54,8 @@ CSS structured along the lines of smacss, see smacss.com. Well, at least somewha
 	}
 	
 
-blockquote {
-}
+	blockquote {
+	}
 /*2. Layout rules
 ***************/
 
@@ -78,16 +75,15 @@ blockquote {
 		padding:0;
 	}
 	
-	/* to make the turquise underline after nav element*/
+	/* to make the turquoise underline after nav element*/
+
 	.top>a:after, h2:after, .newscontent >h1:after, .pspons >h3:after, .sponsdigia > h3:after, .spons >h3:after, .sponssiloota >h3:after{ 
 		content: "_";
 		color: #00ffff ;
 		margin-right:0;
 	}
 
-	/*we want a cute, pink, border on top of the page*/
-	body{
-	
+	body{	
 		width: 100%;
 	}
 
@@ -104,10 +100,9 @@ blockquote {
 		clear: after;  
 	}
 
-	/*the grey nav-border needs to be close to the nav element and modernize.css seems to add margin to ul which I'm not fond of'*/
 
 	
-	/*To get left edge of the logo and first element on nav line up*/
+	/*Rules for top navigation*/
 	
 	.top{
 		display: block;
@@ -157,7 +152,7 @@ blockquote {
 		padding-bottom: 100px;
 		
 	}
-		.newscontent{
+	.newscontent{
 		display:block;
 		margin-left: 20%;
 		margin-right: auto;
@@ -173,16 +168,13 @@ blockquote {
 		padding-left: 10px;
 		max-width: 50%;
 	}
-
-	.day{
-		margin-left: 5%;
+	.nostokuva2 {
+		float: right;
+		margin-right: 25px;
+		margin-top:  -25px;
+		padding-left: 10px;
+		max-width: 50%;
 	}
-	.day > a{
-	padding-right: 1%;
-	}
-	.day > a:hover{
-		color: #00ffff ;
-}
 
 /*
 Layouts for the front page, the big banner imate (.pageupper) and lower part (.pagelower) with four boxes (.frontbox)
@@ -193,7 +185,10 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		margin-right: 1%;
 		padding-left: 4%;
 	}
-.newslist li{width: 20%;}
+.newslist li{
+		width: 20%;
+	}
+
 /*Layout for the newspage uutiset.html*/
 	.restofnews{
 		display:block;
@@ -213,9 +208,8 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 	padding-right: 1em;
 	}
 
-
+/*Box used on frontpage but also on uutiset*/
 	.frontbox{
-
 		width: 25%;
 		display: block;
 		float: left;
@@ -225,7 +219,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 	
 
 	.frontbox:last-child{
-	padding-right: 2%;
+		padding-right: 2%;
 	}
 	
 	.frontbox img {
@@ -243,9 +237,10 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		
 	}
 
-	.frontbox p{
-		
+	#first, #second, #third{
+		margin-bottom:4%;
 	}
+
 	#first, .newsnosto{
 		width: 80%;
 	}
@@ -253,14 +248,14 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 	.pagelower a, .newslist a{
 		color:  #666666;
 	}
-
+/*Frontpage boxes, background since wanted the hover*/
 	#first{
 		background-image: url('../images/ohjelmisto_v01.png');
 	}
 	#second{
 		background-image: url('../images/open_v01.png');
 	}
-#third{
+	#third{
 		background-image: url('../images/sponsori_v01.png');
 	}
 	
@@ -304,13 +299,18 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		margin-bottom: 2%;
 		margin-top: 2%;
 	}
-	.sponssiloota:last-child{padding-right:5%;}
+	.sponssiloota:last-child{
+		padding-right:5%;}
+
 	.tulemukaan{
-	display: block;
-	float: left;
-	width: 100%;
+		display: block;
+		float: left;
+		width: 100%;
+		}
+
+	.tulemukaan > p> a {
+		color: #00ffff ;
 	}
-	.tulemukaan > p> a {color: #00ffff ;}
 
 
 
@@ -395,20 +395,28 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 	font-size:  1.2em;
 	}
 	.newslist{
-	width: 100%;
-	margin-left: 1%;
-	margin-right: 1%;
+		width: 100%;
+		margin-left: 1%;
+		margin-right: 1%;
 	}
 
 	/*Logos in the footer*/
-	footer{
-	
-	}
 
 	footer > ul {
 		margin-left: 17%;
 	}
 
+	
+	#dontshowsome{
+	display:none;
+	}
+	.some{
+	display: block;
+	margin-bottom: 2%;
+	}
+	.fb-share-button{
+		
+	}
 
 	.tinylogo{
 		text-decoration: none;
@@ -422,10 +430,11 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		height: 50px;
 		max-width: 150px;
 		margin-right: 40px;
-		margin-bottom: 10px;
+		margin-bottom: 25px;
+		margin-top: 25px;
 		}
+	.sponsorlogo2{max-width: 300px;}
 	
-
 /*News (uutiset)-page. The latest news is shown in full, second to last as recaps*/
 
 

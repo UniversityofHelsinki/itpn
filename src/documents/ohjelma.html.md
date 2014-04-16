@@ -4,11 +4,6 @@ title: 'Ohjelma'
 pageOrder: '1'
 ---
 <p class="trackeista">Huom: ohjelma on vasta <b>alustava</b> skeleton. Tämän sivun on kevään ajan tarkoitus herättää keskustelua sekä visualisoida tapahtuman teemoja ja lähestymistapaa. Anna siis palautetta, ehdotuksia tai tarjoudu puhujaksi info at it2014.fi! <br/><i> <a href="../uutiset/trackeista.html">Lue lisää ohjelmasta,trackijaosta ja aihioista!</a></i></p>
-<!--<nav class="day">
-	<a href="#tiistai">Tiistai</a>
-	<a href="#keskiviikko">Keskiviikko</a>
-	<a href="#">Koko ohjelma</a>
-</nav> -->
 <div id="taulukko">
 <table id="keskiviikko">
 	<thead>	

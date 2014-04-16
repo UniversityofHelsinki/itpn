@@ -101,10 +101,13 @@ docpadConfig = {
 					next()
 
 		collections:
+			news: ->
+            @getCollection("html").findAllLive({relativeOutDirPath: 'uutiset'})
 		        imagedesc: ->
 
 	            @getCollection("html").findAllLive({relativeOutDirPath: 'imgdoc'})
 
+		
 }
 
 # Export our DocPad Configuration
