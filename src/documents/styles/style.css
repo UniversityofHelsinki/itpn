@@ -444,6 +444,9 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		margin-bottom: 2%;
 		}
 	
+	.newsnosto{
+		margin-bottom:10%;
+	}
 
 	/*TABLE RULES*/
 	/*Rules for the table in ohjelma.html*/
