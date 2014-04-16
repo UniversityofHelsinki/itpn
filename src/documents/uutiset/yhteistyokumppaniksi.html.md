@@ -1,6 +1,6 @@
 ---
 layout: 'news2'
-title: 'Yhteistyökumppaniksi IT-päiville?'
+title: 'Sponsoriksi IT-päiville?'
 date: 2014-01-09
 ingress: 'Haluatko mukaan yhteistyökumppaniksi IT-päiville? Katso täältä, kuinka se onnistuu!'
 ---

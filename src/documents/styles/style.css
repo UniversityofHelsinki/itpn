@@ -605,7 +605,7 @@ width: 95%;
 	}
 .newslist li{width: 25%;}
 .newsnosto > img{max-width: 80%;}
-.frontbox img, #first {
+.frontbox img, #first, #second, #third {
 margin-bottom: 10px;
 width: 95%;
 }
@@ -636,6 +636,9 @@ width: 95%;
 	.otsikkokuva{
 		max-width: 90%;
 		}
+	.newscontent{
+		max-width:90%;	
+	}
 	}
 
 	@media all and (max-width: 600px ) {
@@ -654,30 +657,40 @@ width: 95%;
 		.top > a {
 				 font-size: 1em;
 		}
-
+		#loveit{max-width:90%;}
 		.love{
 			width: 100px;
 	}
 		#viiva{
 			display: none;
 		}
+		.sponssiloota{min-width:70%;}
 }
 
+@media all and (min-width: 500px) and (max-width: 750px){
+			.newsnosto > img{max-width: 60%;}
+}
 	@media all and (max-width: 500px ) {
 
 		#loveit > img{
 			display:none;
 	}
-
-
-	#loveit{
-		min-width: 70%;
-	}
-	.frontbox{
+.frontbox{
 		width: 80%;
 		margin-left: 10%;
 		margin-right:10%;
 	}
+
+
+	#loveit{
+		min-width: 80%;
+	}
+#loveitu{
+		min-width: 90%;
+	}
+	#loveitu p{min-width:100%;}
+	.newsnosto > img {max-width:95%; margin-bottom:30%;}
+	.newsnosto{margin-bottom:100px;}
 }
 	
 
@@ -688,7 +701,7 @@ width: 95%;
 /*					margin-left: -2.5%;	*/
 /*}*/
 /*}*/
-@media only screen and (max-width: 1155px) and (min-width: 891px){
+@media only screen and (max-width: 1155px) and (min-width: 799px){
 				tr td:nth-child(1), th:nth-child(1){display:none;}
 				#keskiviikko, #tiistai { 
 				border-collapse: separate; 
@@ -696,18 +709,27 @@ width: 95%;
 				max-width:100%;		
 				overflow: auto;
 				}
-				#taulukko{margin-left: 2%;}
+				#taulukko{margin-left: 0%;}
 				tr td{width:22.5%}
+				.trackeista{margin-left: 5%;}
 }
-/*This is for the table to look decent (or at least bearable) with views less than 890px*/
-
-@media only screen and (max-width: 890px),
-			(min-device-width: 768px) and (max-device-width: 1024px)  {
-
-				#taulukko{ overflow: hidden; margin-left: 5%; width: 70%;}
-				#taulukko:before {
-					content: "Katselet isohkoa taulukkoa nyt ilmeisesti pienellä näytöllä tahi mobiililla. Tässä näkymässä selkeyden vuoksi ohjelma aikasloteittain. Huom: mobiileille on tulossa, kiitos yhteistyökumppanimme Digian, myös oma appsinsa, jossa voit suunnitella oman lukujärjestyksesi!";	
+@media only screen and (max-width: 840px) and (min-width: 800px){
+				#keskiviikko, #tiistai{ 
+				border-spacing: 5px 13px;
+				border-collapse: separate;
 				}
+				#taulukko tr td:last-child{width:90%}
+}
+/*This is for the table to look decent (or at least bearable) with views less than 799px*/
+
+@media only screen and (max-width: 799px){
+
+				#taulukko{ overflow: hidden; margin-left: 5%; width: 90%;}
+				#taulukko:before {
+					content: "Katselet isohkoa taulukkoa nyt ilmeisesti mobiililla.  Tässä näkymässä selkeyden vuoksi ohjelma aikasloteittain. Huom: mobiileille on tulossa, kiitos yhteistyökumppanimme Digian,  oma appsinsa, jossa voit mm. suunnitella oman lukujärjestyksesi!";	}
+			.trackeista{
+			margin-left: 5%;
+	}
 
 				/* Force table to not be like tables anymore */
 				table, thead, tbody, th, td, tr { 
@@ -721,16 +743,17 @@ width: 95%;
 					left: -9999px;
 				}
 				/*Layout-rules for the mobile view				*/
-				tr, td { border: 1px solid black; }
+				tr { border: 1px solid black; }
+				/*tr{width:60%;} */
 				tr td{width:60%;}
-				tr{margin: 15px;}
+				tr{margin: 5px;}
 
 				td { 
 					/* Behave  like a "row" */
 					border: none;
 					border-bottom: 1px solid black; 
 					position: relative;
-					padding-left: 30%; 
+					padding-left: 37%; 
 					padding-bottom: 5px;
 				}
 	
@@ -758,19 +781,19 @@ width: 95%;
 					color: red;
 					text-align: left;
 			}
-
+				tr td:nth-child(6){padding-right: 5px;}
 				td:nth-of-type(1) {
 					padding-left: 10%;
 					
 				}
 				td:nth-of-type(1):before { content: "";
 				 }
-				
-				td:nth-of-type(2){background-color:#eee;}
+				td{background-color: #f2f2f2;}
+/*				td:nth-of-type(2){background-color: #f2f2f2;}
 				td:nth-of-type(3) {background-color:#eee;}
 				td:nth-of-type(4){background-color:#eee;}
 				td:nth-of-type(5){background-color:#eee; }
-				td:nth-of-type(6){background-color:#eee;}
+				td:nth-of-type(6){background-color:#eee;} */
 
 				/*td's are now rows.. let's give them track names'*/
 				td:nth-of-type(2):before { content: "Track 1"; }
@@ -781,7 +804,7 @@ width: 95%;
 				td:nth-of-type(7):before { content: "Track 1"; }
 				td:nth-of-type(-n+5).lounas { display: none;}
 				td:nth-of-type(6).lounas:before{ content: "Kaikki trackit";}
-				td.lounas{background-color:#eee; }
+				td.lounas{background-color: #f2f2f2; }
 			}
 
 
