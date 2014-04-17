@@ -678,8 +678,6 @@ width: 95%;
 		
 		.top > a{
 				padding-right: 4%;
-				
-				
 		}
 
 		.top > a {
@@ -714,12 +712,15 @@ width: 95%;
 	#loveit{
 		min-width: 80%;
 	}
-#loveitu{
+		
+		#loveitu{
 		min-width: 90%;
 	}
+
 	#loveitu p{min-width:100%;}
+
 	.newsnosto > img {max-width:95%; margin-bottom:30%;}
-	.newsnosto + h2{padding-top:100px;}
+	.newsnosto + h2{padding-top:50px;}
 }
 	
 
