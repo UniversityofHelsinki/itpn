@@ -472,7 +472,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 			td{background-color: white; min-width:5%;}
 			td:first-child{background-color: #F2F2F2; width:1%;}
 			td, th { 
-			  padding: 0px 0px 0px 0px; 
+			  padding: 0px 0px 0px 5px; 
 			  /*border: 1px solid #ccc;*/ 
 			  text-align: left; 
 			}

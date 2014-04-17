@@ -2,7 +2,7 @@
 layout: 'news2'
 title: 'Sponsoriksi IT-päiville?'
 date: 2014-01-09
-ingress: 'Haluatko mukaan yhteistyökumppaniksi IT-päiville? Katso täältä, kuinka se onnistuu!'
+ingress: 'Haluatko mukaan yhteistyökumppaniksi IT-päiville? Tapahtumassa on monipuolisesti mahdollisuuksia olla mukana messupaikasta aina puhujanpönttöön. Myös iltajuhlaan on mahdollista osallistua. Katso täältä esimerkkejä sponsorointipaketeista!'
 ---
 <img class="nostokuva" src="../images/sponsori_v01.png" >
 

@@ -20,7 +20,7 @@ pageOrder: '0'
 			<div id="first">
 			</div>
 				<h2>
-				Tutustu IT-päivien<br/> aiheisiin ja ohjelmaan!
+				Tutustu aiheisiin<br/> ja ohjelmaan!
 				</h2>
 				<p>
 				Mukana uusia trackeja, vanhoja luotettuja sekä paljon vielä myös mahdollisuuksia vaikuttaa tulevaan ohjelmaan! Katsasta ohjelman ensimmäinen luonnostelu, anna palautetta ja tule mukaan tekemään kaikkien aikojen IT-päiviä!
