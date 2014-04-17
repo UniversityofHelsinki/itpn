@@ -21,19 +21,19 @@ pageOrder: '1'
 <!--First row-->
 	<tr>
 			<td><p class="time">0930</p></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">0915>1000<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">0915>1000<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">0915>1000<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">0915>1000<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">0915>1000<h3>Keynote</h2><p>TBA</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>TBA</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>TBA</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>TBA</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>TBA</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>TBA</p></div></td>
 		
 		</tr>
 <!--Second row-->
 		<tr>
-			<td><p class="time">1000</p></td>
+			<td><p class="time">1030</p></td>
 
 			<td class="startcell">
-				<div>1000>1100<h3>Verkkosivualusta palveluna</h3></div>
+				<div>1030>1130<h3>Verkkosivualusta palveluna</h3></div>
 				<ul>
 				<li>Verkkopalveluiden yhdenmukaisuus yksiköissä  vs. vapaus valita paras teknologia?</li>
 				<li>Case: Drupal multisite & yksikkötemplatet.</li>
@@ -42,7 +42,7 @@ pageOrder: '1'
 			</td>
 
 			<td class="startcell"> 
-				<div>1000>1100<h3>Työkalut & parhaat käytännöt </h3>
+				<div>1030>1130<h3>Työkalut & parhaat käytännöt </h3>
 				<ul>
 				<li>Vapise mobile first, nyt tulee API first! </li>
 				<li>Jenkinssillä ketterästi deployaten.</li>
@@ -53,14 +53,14 @@ pageOrder: '1'
 			</td>
 
 			<td class="startcell">
-				<div>1000>1100
+				<div>1030>1130
 				<h3>Datan merkitys tieteelle ja tutkimukselle, suurin mullistus sitten internetin?</h3></div>
 			</td>
 
-			<td class="startcell"><div>1000>1100 <h3>TBA</h3></div></td>
+			<td class="startcell"><div>1030>1130 <h3>TBA</h3></div></td>
 
 			<td class="startcell">
-				<div>1000>1100
+				<div>1030>1130
 				<h3>Ajankohtaista julkishallinnon IT:ssä</h3>
 				<ul>
 				<li>Hankintadirektiivi 2016: mikä muuttuu?</li>
@@ -74,7 +74,7 @@ pageOrder: '1'
 <!--Third row-->
 
 	<tr class="lunch">
-			<td><p class="time">1100</p></td>
+			<td><p class="time">1130</p></td>
 
 			<td class="lounas"><img class="icon" src="../images/icons/lautanen_kelt.png" >LOUNAS</td>
 
@@ -87,21 +87,21 @@ pageOrder: '1'
 	</tr>
 <!--Fourth row-->
 	<tr>
-			<td><p class="time">1300</p></td>
+			<td><p class="time">1245</p></td>
 
 			<td class="startcell">
-				<div>1300>1415
+				<div>1245>1345
 				<h3>TBA</h3></div>
 				<div class="hashtags"></div>
 			</td>
 
 			<td class="startcell">
-				<div>1300>1400
+				<div>1245>1345
 				<h3>DEMO:</h3>Mobiiliappsin devaus käyttäen ember.js-kehystä.</div>
 				<div class="hashtags">#demo #handson #javascript #frontend #mobile</div> </td>
 
 			<td class="startcell">
-				<div>1300>1400<h3>Kansainvälistä tutkimusdataa</h3>
+				<div>1245>1345<h3>Kansainvälistä tutkimusdataa</h3>
 				<ul>
 				<li>Tutkimusdatan kansainväliset ulottuvuudet ja yhteistyö</li>
 				<li> EUDAT, RDA</li><li> EU:n Horizon 2020 ja sen vaatimukset </li>
@@ -110,7 +110,7 @@ pageOrder: '1'
 
 
 			<td class="startcell">
-				<div>1300>1400
+				<div>1245>1345
 				<h3>Työasemaylläpidon iltapäivä</h3>
 				</div>
 				<ul>
@@ -125,7 +125,7 @@ pageOrder: '1'
 			</td>
 
 			<td class="startcell">
-				<div>1300>1400
+				<div>1245>1345
 				<h3>Ketterä projektinhallinta kolmen yliopiston yhteishankkeessa</h3>
 				<ul>
 					<li>OTM-hankkeessa on kuusi product owneria, kuinka sujuu yhteistyö yliopistojen ja paikkakuntien välillä?</li>
@@ -141,7 +141,7 @@ pageOrder: '1'
 </tr>
 
 <tr>
-<td><p class="time">1415</p></td>
+<td><p class="time">1345</p></td>
 <td class="lounas"><img class="icon" src="../images/icons/kaffe_kelt.png" >KAHVIA!</td>
 <td class="lounas"><img class="icon" src="../images/icons/kaffe_sin.png" >KAHVIA!</td>
 <td class="lounas"><img class="icon" src="../images/icons/kaffe_vihr.png" >KAHVIA!</td>
@@ -150,14 +150,14 @@ pageOrder: '1'
 </tr>
 
 <tr>
-			<td><p class="time">1445</p></td>
-			<td class="startcell"><div>1445>1545 <h3>TBA</h3></div></td>
-			<td class="startcell"><div>1445>1545<h3>JS-frameworkkien tietoturva: angular.js, backbone.js </h3></div><div class="hashtags">#tietoturva #frontend #javascript</div></td>
+			<td><p class="time">1415</p></td>
+			<td class="startcell"><div>1415>1530 <h3>TBA</h3></div></td>
+			<td class="startcell"><div>1415>1530<h3>JS-frameworkkien tietoturva: angular.js, backbone.js </h3></div><div class="hashtags">#tietoturva #frontend #javascript</div></td>
 			
-		<td class="startcell"><div>1445>1545<h3>Paneelikeskustelu dataintensiivisestä tutkimuksesta ja sen välineistä</h3></div></td>
+		<td class="startcell"><div>1415>1530<h3>Paneelikeskustelu dataintensiivisestä tutkimuksesta ja sen välineistä</h3></div></td>
 			
 			<td class="startcell">
-				<div>1445>1530
+				<div>1415>1530
 				<h3>Työasemaylläpidon iltapäivä jatkuu</h3>
 				</div>
 			<div class="speaker">
@@ -165,7 +165,7 @@ pageOrder: '1'
 			</td>
 
 		<td class="startcell">
-				<div>1445>1530
+				<div>1415>1530
 				<h3>Korkeakoulujen yhteistyömallit</h3>
 				</div>
 				<div class="speaker">
@@ -175,16 +175,16 @@ pageOrder: '1'
 
 	</tr>
 <tr>
-			<td><p class="time">1545</p></td>
+			<td><p class="time">1530</p></td>
 
 			<td class="startcell">
-				<div>1545>1630 
+				<div>1530>1630 
 				<h3>TBA</h3>
 				</div>
 			</td>
 			
-			<td>
-				<div>1545>1630
+			<td class="startcell">
+				<div>1530>1630
 				<h3>Ohjelmointikielet, mihin menette?</h3>
 				<ul>
 					<li>Funktionaaliset kielet isoissa projekteissa: case Clojure.</li>
@@ -196,7 +196,7 @@ pageOrder: '1'
 			</td>
 
 			<td class="startcell">
-				<div>1545>1630
+				<div>1530>1630
 				<h3>Käytännön ratkaisuesittelyt tutkimuksen IT:n toteutuksista</h3>
 				<ul>
 				<li>Teknopinot: alustat, rautapuoli, rajapinnat</li>
@@ -205,7 +205,7 @@ pageOrder: '1'
 				</div>
 	</td>
 			<td class="startcell">
-				<div>1545>1630
+				<div>1530>1630
 				<h3>Lightning talks: Työvälineet & ideat</h3>
 				<ul>
 					<li>Bash on passé, coolit tyylit käyttää zsh:ta!</li>
@@ -216,7 +216,7 @@ pageOrder: '1'
 		</td>
 
 			<td class="startcell">
-				<div>1545>1630
+				<div>1530>1630
 				<h3>TBA</h3>
 				</div>
 				<div class="speaker"></div>
