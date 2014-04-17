@@ -402,6 +402,9 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 .otsikkokuva{
 		max-width: 90%;
 		}
+.otsikkokuva > p{
+	
+}
 	/*News*/
 	.newscontent > p{
 	font-size:  1.2em;
@@ -590,7 +593,11 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		}
 /*5. Responsive rules
 ***************/
-
+@media all and (min-width: 1400px ) {
+	.pagelower{
+		padding-left: 8%;
+}
+}
 @media all and (min-width: 1400px ) {
 		.newscontent{
 		display:block;

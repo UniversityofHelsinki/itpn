@@ -4,10 +4,9 @@ title: 'Sponsoriksi IT-päiville?'
 date: 2014-01-09
 ingress: 'Haluatko mukaan yhteistyökumppaniksi IT-päiville? Tapahtumassa on monipuolisesti mahdollisuuksia olla mukana messupaikasta aina puhujanpönttöön. Myös iltajuhlaan on mahdollista osallistua. Katso täältä esimerkkejä sponsorointipaketeista!'
 ---
-<img class="nostokuva" src="../images/sponsori_v01.png" >
-
 Yhteistyökumppaniksi?
 ==========
+<img class="nostokuva" src="../images/sponsori_v01.png" >
 IT-päivät tarjoavat erinomaisia mahdollisuuksia toimittajille tuoda omaa osaamistaan esille. Repertuaarista löytyy messustandia, yhteistyökumppanuutta lightning talkilla sekä monia räätälöitäviä mahdollisuuksia.
 
 Standin perushinta on 2700e + alv. Tähän sisältyy standi messualueella sekä sisäänpääsyt lounaineen kahdelle yrityksen edustajalle. Standin vuokraajilla on myös mahdollisuus lunastaa lippuja iltajuhlaan hintaan 80e + alv. 
