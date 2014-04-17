@@ -586,14 +586,19 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		margin-top: 2%;
 		width:  660px;
 	}
+	.pagelower{
+		margin-left: 20%;
+	}
 		
 	.frontbox > div{
-		width: 300px;
+		max-width: 100%;
 		height: 300px;
-		margin-right: 20px;		
+		margin-right: 50%;	
+		margin-bottom: 10%;	
 	}
 	.frontbox{
-		padding-right: 20px;s
+		padding-right: 20px;
+		width: 20%;
 	}
 
 	#first, #second, #third{
@@ -606,8 +611,8 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		height: 230px;
 	}
 .frontbox img, #first {
-margin-bottom: 10px;
-width: 95%;
+	margin-bottom: 10px;
+	width: 95%;
 }
 }
 @media all and (max-width: 1200px ) {
@@ -630,19 +635,29 @@ width: 95%;
 				margin: 0 0 0 5%;
 				padding-left: 0;
 			}
-		.top > a { margin-left: 0;}
+		.top > a { 
+				margin-left: 0;
+}
 		.love{
 			margin-left: 5%;
 		}
+
 		.newscontent{
-		margin-left: 5%;
+			margin-left: 5%;
 	}
 		#loveit{
 			  width: 400px;
 	}
 		.frontbox{
-		width: 30%;
+		width: 28%;
 	}
+		.frontbox > div{
+			width:100%;
+	}
+		.newsnosto > img{
+		max-width:100%;
+	}
+		.newsnosto{margin-bottom: 20%;}
 	.pagelower, footer >ul{
 		margin-left: 5%;
 	}
@@ -681,17 +696,18 @@ width: 95%;
 }
 
 @media all and (min-width: 500px) and (max-width: 750px){
-			.newsnosto > img{max-width: 60%;}
+			.newsnosto > img{max-width: 90%;}
+			
 }
 	@media all and (max-width: 500px ) {
 
-		#loveit > img{
+		#loveit > img, .nostokuva, .nostokuva2{
 			display:none;
 	}
-.frontbox{
-		width: 80%;
-		margin-left: 10%;
-		margin-right:10%;
+		.frontbox{
+			width: 80%;
+			margin-left: 10%;
+			margin-right:10%;
 	}
 
 
@@ -703,7 +719,7 @@ width: 95%;
 	}
 	#loveitu p{min-width:100%;}
 	.newsnosto > img {max-width:95%; margin-bottom:30%;}
-	.newsnosto{margin-bottom:100px;}
+	.newsnosto + h2{padding-top:100px;}
 }
 	
 
