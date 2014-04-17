@@ -593,10 +593,10 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		margin-right: 20px;		
 	}
 	.frontbox{
-		padding-right: 20px;
+		padding-right: 20px;s
 	}
 
-	#first{
+	#first, #second, #third{
 	width: 100%;
 	}
 }

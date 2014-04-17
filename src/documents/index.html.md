@@ -23,7 +23,7 @@ pageOrder: '0'
 				Tutustu IT-päivien<br/> aiheisiin ja ohjelmaan!
 				</h2>
 				<p>
-				Mukana uusia trackeja, vanhoja hyväksitodettuja sekä paljon vielä myös mahdollisuuksia vaikuttaa tulevaan ohjelmaan!
+				Mukana uusia trackeja, vanhoja luotettuja sekä paljon vielä myös mahdollisuuksia vaikuttaa tulevaan ohjelmaan! Katsasta ohjelman ensimmäinen luonnostelu, anna palautetta ja tule mukaan tekemään kaikkien aikojen IT-päiviä!
 				<br/><u>lue lisää</u></p>
 	</div>
 </a>
@@ -36,7 +36,7 @@ pageOrder: '0'
 				Verkkosivut</br> julki!
 				</h2>
 				<p>
-				Verkkosivut on nyt julkaistu. Täältä saat tietoa ohjelmasta, yhteistyökumppaneista sekä tulevaisuudessa pääset myös tutustumaan puhujiin. Ilmoittautuminen avataan puolestaan toukokuussa!
+				Verkkosivut on nyt julkaistu. Näiltä sivuilta saat tietoa ohjelmasta, yhteistyökumppaneista sekä tulevaisuudessa pääset myös tutustumaan puhujiin. Ilmoittautuminen avataan puolestaan toukokuussa!
 				<br/><u>lue lisää</u></p>
 	</div>
 </a>
@@ -47,10 +47,10 @@ pageOrder: '0'
 	<div id="third">
 	</div>
 	<h2>
-	Pääyhteistyö-<br/>kumppaneina</br> Gofore ja Cerion! 
+	Tapahtuman mahdollistavat </br> Gofore ja Cerion! 
 	</h2>
 	<p>
-	Kiitollisena ja ylpeinä toivotamme pääyhteistyökumppanimme</br> Goforen ja Cerionin mukaan tiimiin! Digia Oy puolestaan tekee tapahtuman virallisen mobiiliappsin, joka julkaistaan hieman ennen tapahtumaa. Appsissa pääset tekemään omaa "lukujärjestystäsi". 
+	Kiitollisena ja ylpeinä toivotamme pääyhteistyökumppanimme</br> Goforen ja Cerionin mukaan tiimiin! Digia Oy puolestaan tekee tapahtuman virallisen mobiiliappsin, joka julkaistaan hieman ennen tapahtumaa. Appsissa pääset mm. tekemään omaa "lukujärjestystäsi". 
 	<br/><u>lue lisää</u></p>
 	</div>
 </a>
