@@ -9,7 +9,7 @@ pageOrder: '1'
 	<thead>	
 		<tr><h2 class="keh2">Tiistai 4.11.2014</h2>
 			<th> </th>
-			<th>Track 01: <br/><span class="bigfont">palvelut ja projektit </span></th>
+			<th>Track 01: <br/><span class="bigfont">palvelut </span></th>
 			<th>Track 02:<br/><span class="bigfont"> sovelluskehitys</span></th>
 			<th>Track 03: <br/><span class="bigfont">tutkimuksen IT</span></th>
 			<th>Track 04:<br/> <span class="bigfont">bitti ja rauta</span></th>
@@ -49,7 +49,7 @@ pageOrder: '1'
 				<li>Vagrant, ide pystyyn minuuteissa!</li>
 				</ul>
 				</div>
-				<div class="hashtags">#agile #demo #tools</div>
+				<div class="hashtags">#ketteryys #demo #tools</div>
 			</td>
 
 			<td class="startcell">
@@ -67,7 +67,7 @@ pageOrder: '1'
 				<li>Pilvipalvelusopimukset: kuinka SAAS-palvelut paketoidaan sopimuksissa?</li>
 				<li>Muutokset tietoturvan lainsäädännössä, EU:n tietosuojalaki</li>
 				</ul>
-				</div><div class="hashtags">#agile #hankinnat #avoin #titu</div>
+				</div><div class="hashtags">#ketteryys #hankinnat #avoin #titu</div>
 			</td>
 		
 	</tr>
@@ -233,11 +233,11 @@ pageOrder: '1'
 		<thead>
 		<tr>
 			<th> </th>
-			<th>Track 01: <br/><span class="bigfont">palvelut ja tuotteistaminen</span></th>
+			<th>Track 01: <br/><span class="bigfont">palvelut</span></th>
 			<th>Track 02:<br/><span class="bigfont"> sovelluskehitys</span></th>
 			<th>Track 03: <br/><span class="bigfont">tutkimuksen IT</span></th>
 			<th>Track 04:<br/> <span class="bigfont">bitti ja rauta</span></th>
-			<th>Track 05: <br/><span class="bigfont">tietohallinto ja  johtaminen</span></th>
+			<th>Track 05: <br/><span class="bigfont">tietohallinto</span></th>
 		</tr>
 </thead>
     <tbody>
@@ -261,7 +261,7 @@ pageOrder: '1'
 				</ul>
 				
 				</div>
-				<div class="hashtags">#palvelut #projektinhallinta #agile
+				<div class="hashtags">#palvelut #projektinhallinta #ketteryys
 				</div>
 			</td>
 
@@ -317,7 +317,7 @@ pageOrder: '1'
 				<h3>Kokonaisarkkitehtuuri käytännön työssä: kuinka  periaatteet näkyvät kehittäjän arjessa?</h3>
 				</div>
 				<div class="speaker"></div>
-				<div class="hashtags">#ka #agile</div>
+				<div class="hashtags">#ka #ketteryys</div>
 			</td>
 
 			<td class="perussolu">1030>1130<h3>Kansalliset tutkimusdatan palvelut</h3>

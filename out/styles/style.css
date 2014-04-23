@@ -597,6 +597,12 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 	.pagelower{
 		padding-left: 8%;
 }
+	.foot > ul {
+		margin-left: 17%;
+	}
+	.foot2 > ul {
+		margin-left: 25%;
+	}
 }
 @media all and (min-width: 1400px ) {
 		.newscontent{
@@ -780,6 +786,9 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 			min-height: 100px;
 			margin-bottom: 4%;
 }
+	.pagelower {
+		padding-left: 2%;
+}
 		#loveit > img, .nostokuva, .nostokuva2{
 			display:none;
 	}
@@ -848,16 +857,20 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 
 				#taulukko{ overflow: hidden; margin-left: 5%; width: 90%;}
 				#taulukko:before {
-					content: "Katselet isohkoa taulukkoa nyt ilmeisesti mobiililla.  Tässä näkymässä selkeyden vuoksi ohjelma aikasloteittain. Huom: mobiileille on tulossa, kiitos yhteistyökumppanimme Digian,  oma appsinsa, jossa voit mm. suunnitella oman lukujärjestyksesi!";	}
+					content: "Tässä mobiilinäkymässä selkeyden vuoksi ohjelma aikasloteittain. Huom: mobiileille on tulossa, kiitos yhteistyökumppanimme Digian,  oma appsinsa, jossa voit mm. suunnitella oman lukujärjestyksesi! "; 
+					
+}
+			#taulukko > h2{margin-top:50px;}
 			.trackeista{
 			margin-left: 5%;
+			
 	}
 
 				/* Force table to not be like tables anymore */
 				table, thead, tbody, th, td, tr { 
 					display: block; 
 				}
-				
+				.trackeista{width:90%;}
 				/* Hide table headers (but not display: none;, for accessibility) */
 				thead tr { 
 					position: absolute;
@@ -868,7 +881,8 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 				tr { border: 1px solid black; }
 				/*tr{width:60%;} */
 				tr td{
-					width:60%;}
+					width:74%;}
+				
 				tr{
 					margin: 5px;
 					}
@@ -878,7 +892,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 					border: none;
 					border-bottom: 1px solid black; 
 					position: relative;
-					padding-left: 37%; 
+					padding-left: 25%; 
 					padding-bottom: 5px;
 				}
 			
@@ -888,7 +902,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 					/* Top/left values mimic padding */
 					top: 6px;
 					left: 6px;
-					width: 15%; 
+					width: 40%; 
 					padding-right: 10px; 
 					white-space: nowrap;
 				}
@@ -906,9 +920,11 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 					color: red;
 					text-align: left;
 			}
-				tr td:nth-child(6){padding-right: 5px;}
-				td:nth-of-type(1) {
-					padding-left: 10%;
+				tr td:nth-child(6){padding-right: 0px;}
+				tr td:nth-of-type(1) {
+					padding-left: 0%;
+					border-bottom: none;
+					width: 10px;
 					
 				}
 				td:nth-of-type(1):before { content: "";
@@ -930,6 +946,14 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 				td:nth-of-type(-n+5).lounas { display: none;}
 				td:nth-of-type(6).lounas:before{ content: "Kaikki trackit";}
 				td.lounas{background-color: #f2f2f2; }
+				td:nth-of-type(6) .time:after{content: "Kaikki trackit";}
+
+				/*td:nth-of-type(3) > div:before { content: "Track 2 \A"; white-space: pre;}
+				td:nth-of-type(3) > div{width: 100%;}
+				td:nth-of-type(3) {
+					padding-left: 5%;
+					
+				}*/	
 			}
 
 

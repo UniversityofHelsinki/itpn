@@ -1,5 +1,5 @@
 ---
-layout: 'default'
+layout: 'default2'
 title: 'Etusivu'
 tags: './images/kirahvi_iso.png'
 pageOrder: '0'
@@ -8,7 +8,7 @@ pageOrder: '0'
 
 	<div id="loveit">
 	<img src="./images/IT_iso.png">
-	<p>Korkeakoulujen valtakunnalliset IT-päivät 2014 <br/>  4-5.112014 Marina Congress Center, Helsinki</p>
+	<p>Korkeakoulujen valtakunnalliset IT-päivät 2014 <br/>  4-5.11.2014 Marina Congress Center, Helsinki</p>
 	</div>
 </div>
 
@@ -23,7 +23,7 @@ pageOrder: '0'
 				Tutustu aiheisiin<br/> ja ohjelmaan!
 				</h2>
 				<p>
-				Mukana uusia trackeja, vanhoja luotettuja sekä paljon vielä myös mahdollisuuksia vaikuttaa tulevaan ohjelmaan! Katsasta ohjelman ensimmäinen luonnostelu, anna palautetta ja tule mukaan tekemään kaikkien aikojen IT-päiviä!
+				Mukana uusia trackeja, vanhoja luotettuja ja paljon vielä  mahdollisuuksia vaikuttaa tulevaan ohjelmaan! Katsasta ohjelman ensimmäinen luonnos, anna palautetta ja tule mukaan tekemään kaikkien aikojen IT-päiviä!
 				<br/><u>lue lisää</u></p>
 	</div>
 </a>
