@@ -896,15 +896,15 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 					padding-bottom: 5px;
 				}
 			
-				td:before { 
+				tr td:before { 
 					/* Now like a table header */
 					position: absolute;
 					/* Top/left values mimic padding */
 					top: 6px;
 					left: 6px;
-					width: 40%; 
-					padding-right: 10px; 
-					white-space: nowrap;
+					width: 20%; 
+					padding-right: 0px; 
+					/*white-space: nowrap;*/
 				}
 			    
 			    tr:nth-of-type(1:)before {
