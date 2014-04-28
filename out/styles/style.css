@@ -344,9 +344,8 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 	}
 
 	/*Styling for front page big banner logo*/
-	.pageupper{
+	.pageupper, .pageupperu, .pageuppers{
 		padding: 60px;
-		background-image:url('../images/kirahvi_iso.jpg');
 		background-position:center top;
 		background-repeat:no-repeat;
 		background-size:cover;
@@ -354,34 +353,37 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		max-height: 350px;
 		margin-bottom: 2%;
 		}
-.pageupperu{
-		padding: 60px;
-		/*background-image:url('../images/kirahvi_iso.jpg');
-		background-position:center top;
-		background-repeat:no-repeat;
-		background-size:cover;*/
-		max-height: 350px;
-		margin-bottom: 2%;
+	.pageupper{
+		background-image:url('../images/itkirahvi.jpg');
+	}
+
+	.pageupperu{
+			background-image:url('../images/it_news.jpg');
 		}
+
+.pageuppers{
+			background-image:url('../images/itspons.jpg');
+		}
+
 	.newsupper{
 		width: 80%;
 		margin-left: auto;
 		margin-right: auto;
 	}
-	#loveit{
+	#loveit, #loveitu{
 		text-align: center;
 		max-width: 50%;	
 		margin: 5% auto;
 		color: #ff00ff;
 		overflow: hidden;
 		}
-#loveitu{
+/*#loveitu{
 		text-align: center;
 		max-width: 70%;	
 		margin: 1% auto;
 		color: #ff00ff;
 		overflow: hidden;
-		}
+		}*/
 
 	#loveit > img{
 		display: block;
@@ -498,7 +500,14 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		/*Backgrounds for td cells and headers ie. tracks*/
 			table tr td {height 100px; color: black;}
 			tr.lunch td{ text-align: top;} 
-			table td:nth-child(1) {color: #666666; min-width: 10px; padding-left:0px; padding-right: 0px; vertical-align: top; border-spacing: 50px 10px;}
+			table td:nth-child(1) {
+				color: #666666; 
+				min-width: 10px; 
+				padding-left:0px; 
+				padding-right: 0px; 
+				vertical-align: top; 
+				border-spacing: 50px 10px;
+				}
 			/*table td:nth-child(2) {margin-top: 10px; } */
 			tr th:nth-child(2){background-color: #ffff00; color: #0000ff;}	
 			tr th:nth-child(3) {background-color:#0000ff; color: #ffff00;}
