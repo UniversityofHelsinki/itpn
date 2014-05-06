@@ -8,7 +8,8 @@ pageOrder: '0'
 
 	<div id="loveit">
 	<img src="./images/IT_iso.png">
-	<p>Korkeakoulujen valtakunnalliset IT-päivät 2014 <br/>  4-5.11.2014 Marina Congress Center, Helsinki</p>
+	<p>Korkeakoulujen valtakunnalliset IT-päivät 2014 <br/>  4-5.11.2014 Marina Congress Center, Helsinki<p>
+	<div id="ilmoittaudu"><a href="https://ilmo.contio.fi/meetingsmill/main.aspx?id=103" target="_blank"><img src="../images/ilmo.png" width="150" height="42"></a></div>	
 	</div>
 </div>
 
@@ -28,15 +29,15 @@ pageOrder: '0'
 	</div>
 </a>
 
-<a href="uutiset/sivuauki.html">
+<a href="ilmoittaudu.html">
 		<div class="frontbox">
 			<div id="second">
 				</div>
 				<h2>
-				Verkkosivut</br> julki!
+				Ilmoittautuminen</br> auki!
 				</h2>
 				<p>
-				Verkkosivut on nyt julkaistu. Näiltä sivuilta saat tietoa ohjelmasta, yhteistyökumppaneista sekä tulevaisuudessa pääset myös tutustumaan puhujiin. Ilmoittautuminen avataan puolestaan toukokuussa!
+				Ilmoittautuminen on nyt avattu ja jatkuu 15.10.2014 saakka. Early Bird-hinnat ovat voimassa 15.8.2014 saakka.  IT-päivien ilmoittautumislomakkeen kautta voit myös ilmoittaa erikoisruokavaliosi ja ostaa lippuja iltajuhlaan avecillesi. Katso lippujen hinnat ja ilmoittaudu! 
 				<br/><u>lue lisää</u></p>
 	</div>
 </a>

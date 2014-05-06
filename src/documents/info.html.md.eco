@@ -1,39 +1,48 @@
 ---
-layout: 'infol'
+layout: 'default'
 title: 'Info'
 pageOrder: '6'
 ---
-#Mitkä IT-päivät?
+<div class="pageupperi">
+	<div id="loveitu">
+	<img class="otsikkokuva" src="./images/Info_ots.png">
+	</div>
+</div>
+	<div class="newscontent" class="clearfix">
+<h1>Mitkä IT-päivät?</h1>
 <img class="nostokuva2" src="../images/newsimages/tike2.png" >
-It-päivät on kaksipäiväinen konferenssi, jonka tarkoitus on edistää korkeakoulujen yhteistyötä ja tiedonvaihtoa. Tarkoitus on siis sekä päivittää tietoutta, keskustella ja väitelläkin ajankohtaisista aiheista sekä verkostoitua niin korkeakoulujen, kuin toimittajienkin suuntaan.
-
-IT-päivien järjestysvastuu kiertää Suomen korkeakouluilla. Vuoden 2014 IT-päivät järjestää [Helsingin yliopiston tietotekniikkakeskus](http://www.helsinki.fi/atk/tike/tike/index.html). 
-#Tietoa käytännön järjestelyistä
-Tälle sivulle tulee tietoa kesän aikana käytännön järjestelyistä, kuten majoituksesta.
-##Liput
-Lipunmyynti aloitetaan toukokuun aikana. Lippujen hinnat ovat seuraavat:
-###Early bird, ilmoittauduttu 15.8.2014 mennessä:
-* Kahden päivän lippu, sisältäen iltajuhlan 350e sis. alv
-* Yhden päivän lippu sisältäen iltajuhlan 250e sis alv
-* Pelkkä iltajuhlalippu (esim. avec-lippu tai lippu yhteistyökumppaneille) 80e sis alv
-
-###Tavallinen lippu, ilmoittauduttu 15.8.2014 jälkeen
-* Kahden päivän lippu, sisältäen iltajuhlan 400e sis. alv
-* Yhden päivän lippu sisältäen iltajuhlan 300e sis alv
-* Pelkkä iltajuhlalippu (esim. avec-lippu tai lippu yhteistyökumppaneille) 100e sis alv
-
-##Majoitus
+<p>It-päivät on kaksipäiväinen konferenssi, jonka tarkoitus on edistää korkeakoulujen yhteistyötä ja tiedonvaihtoa. Tarkoitus on siis sekä päivittää tietoutta, keskustella ja väitelläkin ajankohtaisista aiheista sekä verkostoitua niin korkeakoulujen, kuin toimittajienkin suuntaan.
+</p>
+<p>IT-päivien järjestysvastuu kiertää Suomen korkeakouluilla. Vuoden 2014 IT-päivät järjestää [Helsingin yliopiston tietotekniikkakeskus](http://www.helsinki.fi/atk/tike/tike/index.html). </p>
+<h1>Tietoa käytännön järjestelyistä</h1>
+<p>Tälle sivulle tulee tietoa kesän aikana käytännön järjestelyistä, kuten majoituksesta.</p>
+<h1>Liput</h1>
+Lipunmyynti on aloitettu! Lippujen hinnat ovat seuraavat:
+<h3>Early bird, ilmoittauduttu 15.8.2014 mennessä:</h3>
+<ul>
+<li> Kahden päivän lippu, sisältäen iltajuhlan 350e sis. alv</li>
+<li>Yhden päivän lippu sisältäen iltajuhlan 250e sis alv </li>
+<li>Pelkkä iltajuhlalippu (esim. avec-lippu tai lippu yhteistyökumppaneille) 80e sis alv</li>
+</ul>
+<h3>Tavallinen lippu, ilmoittauduttu 15.8.2014 jälkeen</h3>
+<ul><li> Kahden päivän lippu, sisältäen iltajuhlan 400e sis. alv</li>
+<li>  Yhden päivän lippu sisältäen iltajuhlan 300e sis alv</li>
+<li>  Pelkkä iltajuhlalippu (esim. avec-lippu tai lippu yhteistyökumppaneille) 100e sis alv</li>
+</ul>
+<div id="ilmoittaudu"><a href="https://ilmo.contio.fi/meetingsmill/main.aspx?id=103" target="_blank"><img src="../images/ilmo.png" width="150" height="42"></a></div>	
+<h2>Majoitus</h2>
 Majoitusyhteistyökumppanina vuoden 2014 IT-päivissä on Scandic Grand Marina. Hotelli tarjoaa tilaisuuden yhteyteen tasokasta majoitusta edulliseen hintaan.  
-* 129e, yhden hengen huone/vrk 
-* 149e, kahden hengen huone/vrk 
+<ul>
+<li>  129e, yhden hengen huone/vrk </li>
+<li>  149e, kahden hengen huone/vrk </li>
+</ul>
+<p>Majoitukseen sisältyy aina runsas aamiainen, aamusauna sekä kuntohuoneen käyttö. </p>
 
-Majoitukseen sisältyy aina runsas aamiainen, aamusauna sekä kuntohuoneen käyttö. 
+<h3>VARAUSOHJEET </h3>
+<p>Jokainen kävijä (tai jokainen korkeakoulu) varaa huoneensa itse, sitä siis **ei** tehdä IT-päivien lipunoston yhteydessä IT-päivien lomakkeella!</p>
 
-###VARAUSOHJEET 
-Jokainen kävijä (tai jokainen korkeakoulu) varaa huoneensa itse, sitä siis **ei** tehdä IT-päivien lipunoston yhteydessä IT-päivien lomakkeella!
-
-Huonevaraukset 20.10.2014 mennessä varauskoodilla BHEL041114.
+<p>Huonevaraukset 20.10.2014 mennessä varauskoodilla BHEL041114.
 Varauksen voi tehdä joko [netistä](http://www.scandichotels.fi/grandmarina), sähköpostilla grandmarina@scandichotels.com tai puhelimitse +358 9 16 661.
 Varatessa on mainittava varauskoodi.
-
-
+</p>
+</div>
