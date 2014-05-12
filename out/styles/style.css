@@ -490,7 +490,9 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 
 	/*TABLE RULES*/
 	/*Rules for the table in ohjelma.html*/
-
+			table, tbody, tr, th, td {
+				border-collapse: collapse;
+			}
 			#taulukko{
 			
 			 margin-left: -2%;
@@ -506,7 +508,6 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 			}
 			th { 
 			  background: #F2F2F2; 
-			  color: white; 
 			  font-weight: bold; 
 			}
 			td{background-color: white; min-width:5%;}

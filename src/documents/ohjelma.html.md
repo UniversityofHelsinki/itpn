@@ -8,7 +8,7 @@ pageOrder: '1'
 <table id="keskiviikko">
 	<thead>	
 		<tr><h2 class="keh2">Tiistai 4.11.2014</h2>
-			<th> </th>
+			<th>Klo</th>
 			<th>Track 01: <br/><span class="bigfont">palvelut </span></th>
 			<th>Track 02:<br/><span class="bigfont"> sovelluskehitys</span></th>
 			<th>Track 03: <br/><span class="bigfont">tutkimuksen IT</span></th>
@@ -232,7 +232,7 @@ pageOrder: '1'
 <h2 class="keh2">Keskiviikko 5.11.2014</h2>
 		<thead>
 		<tr>
-			<th> </th>
+			<th>Klo </th>
 			<th>Track 01: <br/><span class="bigfont">palvelut</span></th>
 			<th>Track 02:<br/><span class="bigfont"> sovelluskehitys</span></th>
 			<th>Track 03: <br/><span class="bigfont">tutkimuksen IT</span></th>
@@ -353,26 +353,26 @@ pageOrder: '1'
 	
 	</tr>
 
-		<tr>	
-				<td><p class="time">1230</p></td>
-
-				<td class="startcell">
+		<tr>		
+			<td><p class="time">1230</p></td>
+			<td class="startcell">
 					<div>1230>1345<h3>Opetusteknologian iltapäivä</h3></div><ul>
 						<li> Sessiossa nostetaan kolmen eri teeman kautta parhaiten menestyneitä, isoimmin flopanneita, unholaan jo jääneitä tai edelleen vahvasti porskuttavia opetusteknologian palveluita, strategioita sekä ilmiöitä.</li>
 	
 					</ul>
 					<div class="speaker">Jere Majava</div>
 					<div class="hashtags">#moocs #palvelut</div>
-				</td>
-<td class="startcell">
+			</td>
+
+			<td class="startcell">
 <div>1230>1345<h3>Tietokantasessio</h3>
 <ul>
 	<li>Graafikannat?</li>
 	<li>Muita ehdotuksia? Laita toiveita info at it2014.fi</li>
 	
 </ul>
-
-</div><div class="speaker"></div><div class="hashtags">#db #datomic #neo4j</div></td>
+</div><div class="speaker"></div><div class="hashtags">#db #datomic #neo4j</div>
+			</td>
 
 <td class="startcell">
 	<div>1230>1345<h3>Tietoturva, arkkitehtuuri ja tutkimuksen IT</h3>
@@ -398,7 +398,10 @@ pageOrder: '1'
 			</ul>
 			<div class="hashtags"></div></td>
 		
+
 	</tr>
+
+
 <tr>
 <td><p class="time">1345</p></td>
 <td class="lounas"><img class="icon" src="../images/icons/kaffe_kelt.png" >KAHVIA!</td>
