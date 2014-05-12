@@ -503,7 +503,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 			#keskiviikko, #tiistai { 
 			border-collapse: separate; 
 			border-spacing: 35px 20px;
-			max-width:100%;			
+			max-width:100%;		
 			overflow: auto;
 			}
 			th { 
