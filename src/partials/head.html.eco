@@ -18,6 +18,9 @@
 	<%- @getBlock('styles').add(@site.styles).toHTML() %> 
 	<link href='http://fonts.googleapis.com/css?family=Share+Tech' rel='stylesheet' type='text/css'>
 <!--[if lt IE 9]>
-<script src="dist/html5shiv.js"></script>
+<script src="vendor/html5shiv.js"></script>
+<![endif]-->
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="vendor/selectivizr.js"></script>
 <![endif]-->
 </head>
