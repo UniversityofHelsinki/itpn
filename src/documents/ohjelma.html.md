@@ -6,18 +6,9 @@ pageOrder: '1'
 <p class="trackeista">Huom: ohjelma on vasta <b>alustava</b> skeleton. Tämän sivun on kevään ajan tarkoitus herättää keskustelua sekä visualisoida tapahtuman teemoja ja lähestymistapaa. Anna siis palautetta, ehdotuksia tai tarjoudu puhujaksi info at it2014.fi! <br/><i> <a href="../uutiset/trackeista.html">Lue lisää ohjelmasta,trackijaosta ja aihioista!</a></i></p>
 <div id="taulukko">
 <table id="keskiviikko">
-	<thead>	
-		<tr><h2 class="keh2">Tiistai 4.11.2014</h2>
-			<th>Klo</th>
-			<th>Track 01: <br/><span class="bigfont">palvelut </span></th>
-			<th>Track 02:<br/><span class="bigfont"> sovelluskehitys</span></th>
-			<th>Track 03: <br/><span class="bigfont">tutkimuksen IT</span></th>
-			<th>Track 04:<br/> <span class="bigfont">bitti ja rauta</span></th>
-			<th>Track 05: <br/><span class="bigfont">tietohallinto</th>
-		</tr>
-</thead>
-    <tbody>
-
+<thead>
+		<tr><h2 class="keh2">Tiistai 4.11.2014</h2><th>Klo</th><th>Track 01: <br/><span class="bigfont">palvelut </span></th><th>Track 02:<br/><span class="bigfont"> sovelluskehitys</span></th><th>Track 03: <br/><span class="bigfont">tutkimuksen IT</span></th><th>Track 04:<br/> <span class="bigfont">bitti ja rauta</span></th><th>Track 05: <br/><span class="bigfont">tietohallinto</th></tr></thead>
+<tbody>
 <!--First row-->
 	<tr>
 			<td><p class="time">0930</p></td>
@@ -354,17 +345,13 @@ pageOrder: '1'
 	</tr>
 
 		<tr>		
-			<td><p class="time">1230</p></td>
-			<td class="startcell">
+			<td><p class="time">1230</p></td><td class="startcell">
 					<div>1230>1345<h3>Opetusteknologian iltapäivä</h3></div><ul>
 						<li> Sessiossa nostetaan kolmen eri teeman kautta parhaiten menestyneitä, isoimmin flopanneita, unholaan jo jääneitä tai edelleen vahvasti porskuttavia opetusteknologian palveluita, strategioita sekä ilmiöitä.</li>
-	
 					</ul>
 					<div class="speaker">Jere Majava</div>
 					<div class="hashtags">#moocs #palvelut</div>
-			</td>
-
-			<td class="startcell">
+			</td><td class="startcell">
 <div>1230>1345<h3>Tietokantasessio</h3>
 <ul>
 	<li>Graafikannat?</li>
@@ -372,9 +359,7 @@ pageOrder: '1'
 	
 </ul>
 </div><div class="speaker"></div><div class="hashtags">#db #datomic #neo4j</div>
-			</td>
-
-<td class="startcell">
+			</td><td class="startcell">
 	<div>1230>1345<h3>Tietoturva, arkkitehtuuri ja tutkimuksen IT</h3>
 		<ul><li>Kokonaisarkkitehtuuri ja tutkimus, kuinka käy tietohallinnolta rock'n'roll</li>
 		<li>Tutkijan sähköinen identiteetti Suomessa, näin se käy</li>
@@ -383,15 +368,12 @@ pageOrder: '1'
 	<div class="hashtags">
 	#ka #titu
 	</div>
-</td>
-		<td class="startcell"><div>1230>1345
+</td><td class="startcell"><div>1230>1345
 			<h3>TBA</h3>
 			</div>
 			<div class="speaker"></div>
 			<div class="hashtags"></div>
-		</td>
-
-			<td class="startcell"><div>1230>1345<h3>Ketterät hankinnat</h3></div><ul>
+		</td><td class="startcell"><div>1230>1345<h3>Ketterät hankinnat</h3></div><ul>
 				<li>Kuinka hankintoja voi tehdä ketteriä menetelmiä hyödyntäen, noudattaen kuitenkin hankintalakia?</li>
 				<li>HY:n ketterän puitesopimuksen syntyminen ja hyödyntäminen</li>
 				
@@ -400,8 +382,6 @@ pageOrder: '1'
 		
 
 	</tr>
-
-
 <tr>
 <td><p class="time">1345</p></td>
 <td class="lounas"><img class="icon" src="../images/icons/kaffe_kelt.png" >KAHVIA!</td>
