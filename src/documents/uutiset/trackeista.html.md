@@ -1,11 +1,11 @@
 ---
 layout: 'news2'
 title: 'Trackit - mitä ihmettä?'
-date: 2014-04-08
-ingress: ' Syksyllä 2013 aloitimme HY:llä konseptointi- ja workshoppaustyön aiheista, trackeistä ja puhujista. Kuulimme HY:llä eri ryhmiä , edellisvuosien järjestäjiä ja muita kiinnostuneita. '
+date: 2014-05-05
+ingress: ' Syksyllä 2013 aloitimme HY:llä konseptointityön aiheista, trackeistä ja puhujista. Kuulimme HY:llä eri ryhmiä, edellisvuosien järjestäjiä ja muita kiinnostuneita. Haluatko sinä olla mukana IT-päivillä? Olisiko sinulla ideaa tai toivetta aiheesta?'
 ---
 #Trackeistä
-Muutaman sanasen haluaisin sanoa trackeista ja ohjelmistosta. Syksyllä 2013 aloitin konseptointi- ja workshoppaustyön aiheista, trackeistä ja puhujista. Haastattelin HY:llä eri ryhmiä, tapasin edellisvuosien järjestäjiä, pyysin palautetta niin tietotekniikkeskuksen sisäisen lehden kautta, julkisten [wikisivujen](https://wiki.helsinki.fi/display/IT2014/Home+of+IT2014) ja [twitterin](https://twitter.com/itp2014) välityksellä sekä yritin innostaa mahdollisimman paljon henkilöitä kommentoimaan ja kontribuoimaan. 
+Muutaman sanasen haluaisin sanoa trackeista ja ohjelmistosta. Syksyllä 2013 aloitin konseptointityön aiheista, trackeistä ja puhujista. Haastattelin HY:llä eri ryhmiä, tapasin edellisvuosien järjestäjiä, pyysin palautetta niin tietotekniikkeskuksen sisäisen lehden kautta, julkisten [wikisivujen](https://wiki.helsinki.fi/display/IT2014/Home+of+IT2014) ja [twitterin](https://twitter.com/itp2014) välityksellä sekä yritin innostaa mahdollisimman paljon henkilöitä kommentoimaan ja kontribuoimaan. 
 
 Workshopeissa ja palautteessa, jota sain, tuli seuraavanlaista palautetta (mutufiiliksellä suosituimmuusjärjestyksessä)
 1. Enemmän "pellin alta" teknisisiä esityksiä, ei vain "päällikkötason näkökulmaa"

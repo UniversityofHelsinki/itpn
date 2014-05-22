@@ -45,7 +45,7 @@ pageOrder: '1'
 				<div>1030>1130<h3>Työkalut & parhaat käytännöt </h3>
 				<ul>
 				<li>Vapise mobile first, nyt tulee API first! </li>
-				<li>Jenkinssillä ketterästi deployaten.</li>
+				<li>Jenkinsillä ketterästi deployaten.</li>
 				<li>Vagrant, ide pystyyn minuuteissa!</li>
 				</ul>
 				</div>
@@ -114,8 +114,8 @@ pageOrder: '1'
 				<h3>Työasemaylläpidon iltapäivä</h3>
 				</div>
 				<ul>
-					<li>Configuration Manager-esittelyä</li>
-					<li>Applelaitteiden hallinta</li>
+					<li>Configuration Manager -esittelyä</li>
+					<li>Apple-laitteiden hallinta</li>
 					<li>Lisenssoinnin haasteet työasemaylläpidon näkökulmasta (ohjelmistot eri ympäristöistä)</li>
 	 				<li>Työasemien virtualisointi opiskelijoiden omiin työasemiin.</li>
 				</ul>		
@@ -128,7 +128,7 @@ pageOrder: '1'
 				<div>1245>1345
 				<h3>Ketterä projektinhallinta kolmen yliopiston yhteishankkeessa</h3>
 				<ul>
-					<li>OTM-hankkeessa on kuusi product owneria, kuinka sujuu yhteistyö yliopistojen ja paikkakuntien välillä?</li>
+					<li>OTM-hankkeessa on kuusi tuoteomistajaa, kuinka sujuu yhteistyö yliopistojen ja paikkakuntien välillä?</li>
 					<li>Kuinka omien kehittäjien, toimittajien ja eri korkeakoulujen asiantuntijoiden kesken saadaan tehokkaasti näkyvää aikaiseksi?</li>
 					
 				</ul>
@@ -208,7 +208,7 @@ pageOrder: '1'
 				<div>1530>1630
 				<h3>Lightning talks: Työvälineet & ideat</h3>
 				<ul>
-					<li>Bash on passé, coolit tyylit käyttää zsh:ta!</li>
+					<li>Bash on passé, coolit tyypit käyttää zsh:ta?</li>
 					<li>Open Stack: avoin pilvipino</li>
 					<li>... muuta? Ehdota välinettä/aihetta, josta haluaisit lt:n pitää! info at it2014.fi</li>
 				</ul>
@@ -392,7 +392,7 @@ pageOrder: '1'
 		</td>
 
 			<td class="startcell"><div>1230>1345<h3>Ketterät hankinnat</h3></div><ul>
-				<li>Voiko hankintoja voi tehdä ketterien menetelmiä hyödyntäen, noudattaen kuitenkin hankintalakia?</li>
+				<li>Kuinka hankintoja voi tehdä ketteriä menetelmiä hyödyntäen, noudattaen kuitenkin hankintalakia?</li>
 				<li>HY:n ketterän puitesopimuksen syntyminen ja hyödyntäminen</li>
 				
 			</ul>

@@ -275,9 +275,18 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		width: 80%;
 	}
 	
+.frontbox > #first > p > h2, #second p, #third p{
+		a:hover{
+			color: #666666;
+		}
+}
+
 	.pagelower a, .newslist a{
 		color:  #666666;
 	}
+.pagelower a:hover, .newslist a:hover{
+		color:  black;
+}
 /*Frontpage boxes, background since wanted the hover*/
 	#first{
 		background-image: url('../images/ohjelmisto_v01.png');
@@ -703,7 +712,13 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 @media all and (max-width: 980px ) {
 		.newsnosto + h2, .frontbox > h2{
 				font-size: 1.2em;
+				margin-top: 10%;
 	}
+		.newsnosto + h2 {
+			
+				margin-top: 40%;
+	}
+		
 		.top{
 				margin: 0 0 0 10%;
 				padding-left: 0;
@@ -786,6 +801,11 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 	#first, #second, #third{
 		height:200px;
 	}
+	
+	h2{
+ 		margin-top: 25%;
+ 	}
+
 }
 @media all and (min-width: 600px) and (max-width: 800px){
 	.frontbox > div{
@@ -815,7 +835,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 }
 
 			.newsnosto + h2{
-				padding-top:5%;}
+				padding-top:25%;}
 	
 			.newsnosto{
 				margin-bottom:1%;
@@ -880,7 +900,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 	
 
 
-@media only screen and (max-width: 1155px) and (min-width: 799px){
+@media only screen and (max-width: 1155px) and (min-width: 768px){
 				tr td:nth-child(1), th:nth-child(1){display:none;}
 				#keskiviikko, #tiistai { 
 				border-collapse: separate; 
@@ -892,7 +912,10 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 				tr td{width:22.5%}
 				.trackeista{margin-left: 5%;}
 }
-@media only screen and (max-width: 840px) and (min-width: 800px){
+@media only screen and (max-width: 900px) and (min-width: 768px){
+			#keskiviikko, #tiistai{border-spacing: 3px 10px;}
+}
+@media only screen and (max-width: 840px) and (min-width: 768px){
 				#keskiviikko, #tiistai{ 
 				border-spacing: 5px 13px;
 				border-collapse: separate;
@@ -901,7 +924,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 }
 /*This is for the table to look decent (or at least bearable) with views less than 799px*/
 
-@media only screen and (max-width: 799px){
+@media only screen and (max-width: 767px){
 
 				#taulukko{ overflow: hidden; margin-left: 5%; width: 90%;}
 				#taulukko:before {
