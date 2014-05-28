@@ -9,7 +9,7 @@ Yhteistyökumppaniksi?
 <img class="nostokuva" src="../images/sponsori_v01.png" >
 IT-päivät tarjoavat erinomaisia mahdollisuuksia toimittajille tuoda omaa osaamistaan esille. Repertuaarista löytyy messustandia, yhteistyökumppanuutta lightning talkilla sekä monia räätälöitäviä mahdollisuuksia.
 
-Standin perushinta on 2700e + alv. Tähän sisältyy standi messualueella sekä sisäänpääsyt lounaineen kahdelle yrityksen edustajalle. Standin vuokraajilla on myös mahdollisuus lunastaa lippuja iltajuhlaan hintaan 80e + alv. 
+Standin perushinta on 2700e + alv. Tähän sisältyy standi messualueella sekä sisäänpääsyt lounaineen kahdelle yrityksen edustajalle. Standin vuorkraan kuuluu pöytä ja tuoli sekä mahdollisuus tuoda omaa rekvisiittaa alueelle. Tarvittaessa sähköt voi tilata ilmoittautumislomakkeen kautta. Standin vuokraajilla on myös mahdollisuus lunastaa lippuja iltajuhlaan hintaan 80e + alv. 
 
 Yhteistyökumppanuudet on hinnoiteltu alkaen 5000e + alv ja näihin sisältyy kaksi lippua iltajuhlaan sekä mahdollisuus osallistua varsinaiseen ohjelmaan (lightning-talk, paneelit jne). 
 

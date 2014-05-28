@@ -245,7 +245,7 @@ pageOrder: '1'
 			
 			<td class="startcell">
 				<div>0915>1030
-				<h3>Ratkaisukonsultointia yksiköille IT-hankkeissa</h3>
+				<h3>Ratkaisukonsultointia yksiköille<br/> IT-hankkeissa</h3>
 				<ul>
 					<li>Tietojärjestelmähankintojen tukipalvelun järjestäminen</li>
 					
