@@ -10,6 +10,6 @@ Ilmoittautuminen on nyt avattu ja jatkuu 15.10.2014 saakka. IT-päivien ilmoitta
 
 Early Bird-ilmoittautuminen on auki 15.8.2014 saakka.
 
-**Huom**; Puhujat-ilmoittautuminen on tarkoitettu vain etukäteen sovittujen puhujien rekisteröimiseksi, älä siis käytä tuota lomaketta ehdottaaksesi aihetta, vaan tee se [twitterissä](https://twitter.com/itp2014), [wiki-sivuilla](https://wiki.helsinki.fi/display/IT2014) tai suoraan sähköpostilla info at it2014.fi. 
+**Huom**; Puhujat-ilmoittautuminen on tarkoitettu vain etukäteen sovittujen puhujien rekisteröimiseksi.
 
 [Katso lippujen hinnat ja ilmoittaudu täältä](http://it2014.fi/ilmoittaudu.html).

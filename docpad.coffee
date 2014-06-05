@@ -1,5 +1,9 @@
 # The DocPad Configuration File
 # It is simply a CoffeeScript Object which is parsed by CSON
+# Import
+#moment = require('moment')
+require('docpad-plugin-moment')
+
 docpadConfig = {
 
 	# =================================
@@ -8,7 +12,6 @@ docpadConfig = {
 	# To access one of these within our templates, refer to the FAQ: https://github.com/bevry/docpad/wiki/FAQ
 
 	templateData:
-
 		# Specify some site properties
 		site:
 			# The production url of our website
@@ -46,10 +49,9 @@ docpadConfig = {
 				'/scripts/script.js'
 			]
 
-
+		
 		# -----------------------------
 		# Helper Functions
-
 		# Get the prepared site/document title
 		# Often we would like to specify particular formatting to our page's title
 		# we can apply that formatting here

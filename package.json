@@ -41,7 +41,8 @@
     "docpad-plugin-facebookcomments": "~2.0.4",
     "docpad-plugin-navlinks": "~2.0.2",
     "docpad-plugin-related": "~2.2.2",
-    "docpad-plugin-nativecomments": "~2.1.1"
+    "docpad-plugin-nativecomments": "~2.1.1",
+    "docpad-plugin-moment": "~2.0.2"
   },
   "devDependencies": {
     "docpad-plugin-livereload": "~2.5.3"

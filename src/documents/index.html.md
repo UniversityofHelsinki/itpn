@@ -21,10 +21,10 @@ pageOrder: '0'
 			<div id="first">
 			</div>
 				<h2>
-				Tutustu aiheisiin<br/> ja ohjelmaan!
+				Tutustu IT- päivien ohjelmaan!
 				</h2>
 				<p>
-				Mukana uusia trackeja, vanhoja luotettuja ja paljon vielä  mahdollisuuksia vaikuttaa tulevaan ohjelmaan! Katsasta ohjelman ensimmäinen luonnos, anna palautetta ja tule mukaan tekemään kaikkien aikojen IT-päiviä!
+				Mukana on vanhaa, uutta ja yllättävää. Nyt voit myös vaikuttaa IT-päivien ohjelmaan. Tutustu ohjelmaluonnokseen, anna palautetta ja tule mukaan tekemään kaikkien aikojen IT-päiviä!
 				<br/><u>lue lisää</u></p>
 	</div>
 </a>
@@ -37,7 +37,7 @@ pageOrder: '0'
 				Ilmoittautuminen</br> auki!
 				</h2>
 				<p>
-				Ilmoittautuminen on nyt avattu ja jatkuu 15.10.2014 saakka. Early Bird-hinnat ovat voimassa 15.8.2014 saakka.  IT-päivien ilmoittautumislomakkeen kautta voit myös ilmoittaa erikoisruokavaliosi ja ostaa lippuja iltajuhlaan avecillesi. Katso lippujen hinnat ja ilmoittaudu! 
+				Ilmoittautuminen on avattu, ja se jatkuu 15.10.2014 asti. Early Bird -etuhinnat ovat voimassa 15.8.2014 saakka. Ilmoittautumislomakkeella voit myös ilmoittaa erikoisruokavaliosi ja ostaa lippuja iltajuhlaan avecillesi.
 				<br/><u>lue lisää</u></p>
 	</div>
 </a>
@@ -51,7 +51,7 @@ pageOrder: '0'
 	Tapahtuman mahdollistavat </br> Gofore ja Cerion! 
 	</h2>
 	<p>
-	Kiitollisena ja ylpeinä toivotamme pääyhteistyökumppanimme</br> Goforen ja Cerionin mukaan tiimiin! Digia Oy puolestaan tekee tapahtuman virallisen mobiiliappsin, joka julkaistaan hieman ennen tapahtumaa. Appsissa pääset mm. tekemään omaa "lukujärjestystäsi". 
+	Pääyhteistyökumppanimme ovat Gofore ja Cerion. IT-päivien virallinen mobiilisovellus on puolestaan Digia Oy:n käsialaa. Syksyllä julkaistavan sovelluksen avulla voit mm. laatia oman IT-päivien "lukujärjestyksesi".
 	<br/><u>lue lisää</u></p>
 	</div>
 </a>

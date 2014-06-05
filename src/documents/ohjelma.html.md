@@ -3,7 +3,8 @@ layout: 'default'
 title: 'Ohjelma'
 pageOrder: '1'
 ---
-<p class="trackeista">Huom: ohjelma on vasta <b>alustava</b> skeleton. Tämän sivun on kevään ajan tarkoitus herättää keskustelua sekä visualisoida tapahtuman teemoja ja lähestymistapaa. Anna siis palautetta, ehdotuksia tai tarjoudu puhujaksi info at it2014.fi! <br/><i> <a href="../uutiset/trackeista.html">Lue lisää ohjelmasta,trackijaosta ja aihioista!</a></i></p>
+<p class="trackeista">Huom! Ohjelma on vielä alustava. Nyt Sinulla on tilaisuus vaikuttaa ohjelman sisältöön! Anna palautetta, ehdota puhujaa tai tarjoudu sellaiseksi itse: info at it2014.fi.<br/><a href="../uutiset/trackeista.html">Lue lisää ohjelmasta</a> </p>
+
 <div id="taulukko">
 <table id="keskiviikko">
 <thead>
@@ -26,8 +27,8 @@ pageOrder: '1'
 			<td class="startcell">
 				<div>1030>1130<h3>Verkkosivualusta palveluna</h3></div>
 				<ul>
-				<li>Verkkopalveluiden yhdenmukaisuus yksiköissä  vs. vapaus valita paras teknologia?</li>
-				<li>Case: Drupal multisite & yksikkötemplatet.</li>
+				<li>Verkkosivujen ja portaalien luomisen välineet palveluina yksiköille: hyödyt ja haasteet.</li>
+				<li>Case: Drupal</li>
 				</ul>
 				<div class="speaker"></div><div class="hashtags">#drupal #verkkosivut #cms</div>
 			</td>
@@ -82,8 +83,15 @@ pageOrder: '1'
 
 			<td class="startcell">
 				<div>1245>1345
-				<h3>TBA</h3></div>
-				<div class="hashtags"></div>
+				<h3>Projektitoimistot korkeakouluissa</h3>
+				<ul>
+					<li>Kuinka projektitoimistot, projektisalkut ja projektikokonaisuuksien hallinta auttavat korkeakoulujen IT-toimintojen hallintaa?</li>
+					<li>Käytännön case-esimerkin esittelyä ja keskustelua mahdollisuuksista.</li>
+					
+				</ul>
+				
+				</div>
+				<div class="hashtags">#pmo #johtaminen #projektit</div>
 			</td>
 
 			<td class="startcell">

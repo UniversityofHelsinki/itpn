@@ -11,7 +11,7 @@
 	<![endif]-->
 <%- @partial('headernews') %>
 	<article class="newscontent" class="clearfix">
-		<%- @content %>
+		<%= @moment(@document.date).lang("fi").format('ll') %><%- @content %>
 <!-- <%- @partial('some') %> -->
 	</article>
 
