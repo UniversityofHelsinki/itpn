@@ -49,17 +49,21 @@ pageOrder: '1'
 				<h3>Datan merkitys tieteelle ja tutkimukselle, suurin mullistus sitten internetin?</h3></div>
 			</td>
 
-			<td class="startcell"><div>1030>1130 <h3>TBA</h3></div></td>
+			<td class="startcell"><div>1030>1130 
+			<h3>TBA</h3>
+			</div>
+			</td>
 
 			<td class="startcell">
 				<div>1030>1130
-				<h3>Ajankohtaista julkishallinnon IT:ssä</h3>
+				<h3>Ajankohtaista korkekoulujen IT:ssä</h3>
 				<ul>
 				<li>Hankintadirektiivi 2016: mikä muuttuu?</li>
 				<li>Pilvipalvelusopimukset: kuinka SAAS-palvelut paketoidaan sopimuksissa?</li>
 				<li>Muutokset tietoturvan lainsäädännössä, EU:n tietosuojalaki</li>
 				</ul>
 				</div><div class="hashtags">#ketteryys #hankinnat #avoin #titu</div>
+				<div><h3>+Lighting-talk, TBA (15min) </h3></div>
 			</td>
 		
 	</tr>
@@ -125,16 +129,10 @@ pageOrder: '1'
 
 			<td class="startcell">
 				<div>1245>1345
-				<h3>Ketterä projektinhallinta kolmen yliopiston yhteishankkeessa</h3>
-				<ul>
-					<li>OTM-hankkeessa on kuusi tuoteomistajaa, kuinka sujuu yhteistyö yliopistojen ja paikkakuntien välillä?</li>
-					<li>Kuinka omien kehittäjien, toimittajien ja eri korkeakoulujen asiantuntijoiden kesken saadaan tehokkaasti näkyvää aikaiseksi?</li>
-					
-				</ul>
-				
+				<div><h3>Pääyhteistyökumppanin puheenvuoro: Tiedolla johtaminen ja yhteentoimivuus korkeakouluissa Cerion Oy</h3></div>
+<div class="speaker"> Vilho Kolehmainen, Cerion Oy
 				</div>
-				<div class="speaker">Sami Hautakangas (TaY) ja Inka Paukku (Aalto)</div>
-				<div class="hashtags">#ketteryys #projektinhallinta</div>
+<div><h3>Lightning talk: TBA (15min)</h3></div>
 			</td>
 	
 </tr>
@@ -150,7 +148,17 @@ pageOrder: '1'
 
 <tr>
 			<td><p class="time">1415</p></td>
-			<td class="startcell"><div>1415>1530 <h3>TBA</h3></div></td>
+			<td class="startcell"><div>1415>1530 <h3>Top 10 - parhaat käytännöt ketterään ostamiseen!</h3>
+<ul>
+	<li>Kuinka ketteryys ja hankintalaki sopivat yhteen?</li>
+	<li>Mitkä kymmenen asiaa mahdollistavat onnistuneen ketterän ostamisen?</li>
+<li>HY:n ketterän puitesopimuksen syntyminen ja hyödyntäminen</li>
+</ul>
+
+</div>
+<div class="speaker"></div>
+<div class="hashtags">#ketteryys, #hankinnat, #projektinhallinta</div>
+</td>
 			<td class="startcell"><div>1415>1530<h3>JS-frameworkkien tietoturva: angular.js, backbone.js </h3></div><div class="hashtags">#tietoturva #frontend #javascript</div></td>
 			
 		<td class="startcell"><div>1415>1530<h3>Paneelikeskustelu dataintensiivisestä tutkimuksesta ja sen välineistä</h3></div></td>
@@ -178,8 +186,15 @@ pageOrder: '1'
 
 			<td class="startcell">
 				<div>1530>1630 
-				<h3>TBA</h3>
+				<h3>ID Point -palvelumalli: tunnistautumispalvelua asiakastukeen</h3>
+<ul>
+	<li>ID Point on tunnistuspalvelu, jonka avulla yliopistolaiset voivat helposti ja turvallisesti käyttää henkilötunnistusta vaativia palveluita puhelimitse.</li>
+	<li>Kuinka ja miksi palvelu on toteutettu? Entä mikä on palvelumalli?</li>
+	
+</ul>
+<div class="speaker">Maria Kalske, Helsingin yliopiston tietotekniikkakeskus</div>
 				</div>
+<h3>Lightning talk: TBA</h3>
 			</td>
 			
 			<td class="startcell">
@@ -208,7 +223,7 @@ pageOrder: '1'
 				<h3>Lightning talks: Työvälineet & ideat</h3>
 				<ul>
 					<li>Bash on passé, coolit tyypit käyttää zsh:ta?</li>
-					<li>Open Stack: avoin pilvipino</li>
+					<li>Open Stack/DevStack</li>
 					<li>... muuta? Ehdota välinettä/aihetta, josta haluaisit lt:n pitää! info at it2014.fi</li>
 				</ul>
 			</div><div class="hashtags">#tools #scripting #pilvee #vapaus</div>
@@ -216,10 +231,10 @@ pageOrder: '1'
 
 			<td class="startcell">
 				<div>1530>1630
-				<h3>TBA</h3>
+				<h3>Pääyhteistyökumppanin puheenvuoro: Gofore Oy: TBA</h3>
 				</div>
 				<div class="speaker"></div>
-				<div class="hashtags"></div>
+				<div class="hashtags">#kokonaisarkkitehtuuri</div>
 			</td>
 		
 	</tr>
@@ -261,7 +276,7 @@ pageOrder: '1'
 				
 				</div>
 				<div class="hashtags">#palvelut #projektinhallinta #ketteryys
-				</div>
+				</div><div><h3>+ Lightning talk: TBA (15min)</h3></div>
 			</td>
 
 			<td class="startcell">
@@ -269,7 +284,7 @@ pageOrder: '1'
 				<h3>Backend-sessio</h3>
 				</div>Ehdotuksia otetaan vastaan! Kiinnostaako arkkitehtuurinäkökulmasta joku tietty aihe? Haluatko kuulla tietyistä rajapinnoista? 
 				<div class="speaker"></div>
-				<div class="hashtags">#backend #tea</div>
+				<div class="hashtags">#backend #tea</div><div><h3>+Lighting-talk, TBA (15min) </h3></div>
 			</td>
 
 			<td class="startcell">
@@ -297,7 +312,7 @@ pageOrder: '1'
 				</ul>
 				</div>
 				<div class="speaker"></div>
-				<div class="hashtags"></div>
+				<div class="hashtags"></div><div><h3>+Lighting-talk, TBA (15min) </h3></div>
 			</td>
 		
 	</tr>
@@ -306,9 +321,19 @@ pageOrder: '1'
 			<td><p class="time">1030</p></td>
 
 			<td class="startcell">
-				<div>1030>1130
-				<h3>TBA</h3>
+			<div>1030>1130
+				<div>
+				<h3>Ketterä projektinhallinta kolmen yliopiston yhteishankkeessa</h3>
+				<ul>
+					<li>OTM-hankkeessa on kuusi tuoteomistajaa, kuinka sujuu yhteistyö yliopistojen ja paikkakuntien välillä?</li>
+					<li>Kuinka omien kehittäjien, toimittajien ja eri korkeakoulujen asiantuntijoiden kesken saadaan tehokkaasti näkyvää aikaiseksi?</li>
+					
+				</ul>
+				
 				</div>
+				<div class="speaker">Sami Hautakangas (TaY) ja Inka Paukku (Aalto)</div>
+				<div class="hashtags">#ketteryys #projektinhallinta</div>
+			</div><div><h3>+ Lightning talk: TBA (15min)</h3></div>
 			</td>
 
 			<td class="startcell">
@@ -316,10 +341,10 @@ pageOrder: '1'
 				<h3>Kokonaisarkkitehtuuri käytännön työssä: kuinka  periaatteet näkyvät kehittäjän arjessa?</h3>
 				</div>
 				<div class="speaker"></div>
-				<div class="hashtags">#ka #ketteryys</div>
+				<div class="hashtags">#ka #ketteryys</div><div><h3>+Lighting-talk, TBA (15min) </h3></div>
 			</td>
 
-			<td class="perussolu">1030>1130<h3>Kansalliset tutkimusdatan palvelut</h3>
+			<td class="startcell">1030>1130<h3>Kansalliset tutkimusdatan palvelut</h3>
 <ul><li> Suurteholaskennan uudet koneet</li><li>Tutkimusdatan tallentamisen kansalliset välineet: IDA, PAS, Kata, REMS, AVAA</li></ul></div></td>
 
 			<td class="startcell">
@@ -381,12 +406,8 @@ pageOrder: '1'
 			</div>
 			<div class="speaker"></div>
 			<div class="hashtags"></div>
-		</td><td class="startcell"><div>1230>1345<h3>Ketterät hankinnat</h3></div><ul>
-				<li>Kuinka hankintoja voi tehdä ketteriä menetelmiä hyödyntäen, noudattaen kuitenkin hankintalakia?</li>
-				<li>HY:n ketterän puitesopimuksen syntyminen ja hyödyntäminen</li>
-				
-			</ul>
-			<div class="hashtags"></div></td>
+		</td><td class="startcell"><div>1230>1345<h3>Emootiot konsortiohankkeissa</h3></div><div class="speaker">Riitta Hekkala, Aalto yliopisto</div>
+			<div class="hashtags"></div><div><h3>+ Lightning talk: TBA (15min)</h3></div></td>
 		
 
 	</tr>

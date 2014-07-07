@@ -8,7 +8,7 @@ ingress: 'Täältä pääset ilmoittautumaan tapahtumaan! Ilmoittautuminen on ny
 
 Ilmoittautuminen on nyt avattu ja jatkuu 15.10.2014 saakka. IT-päivien ilmoittautumislomakkeen kautta voit ilmoittautua tapahtumaan. Ilmoita myös erikoisruokavaliosi ja ostaa lippuja iltajuhlaan avecillesi.
 
-Early Bird-ilmoittautuminen on auki 15.8.2014 saakka.
+Early Bird-ilmoittautuminen on auki 31.8.2014 saakka.
 
 **Huom**; Puhujat-ilmoittautuminen on tarkoitettu vain etukäteen sovittujen puhujien rekisteröimiseksi.
 

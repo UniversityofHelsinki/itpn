@@ -37,7 +37,7 @@ pageOrder: '0'
 				Ilmoittautuminen</br> auki!
 				</h2>
 				<p>
-				Ilmoittautuminen on avattu, ja se jatkuu 15.10.2014 asti. Early Bird -etuhinnat ovat voimassa 15.8.2014 saakka. Ilmoittautumislomakkeella voit myös ilmoittaa erikoisruokavaliosi ja ostaa lippuja iltajuhlaan avecillesi.
+				Ilmoittautuminen on avattu, ja se jatkuu 15.10.2014 asti. Early Bird -etuhinnat ovat voimassa 31.8.2014 saakka. Ilmoittautumislomakkeella voit myös ilmoittaa erikoisruokavaliosi ja ostaa lippuja iltajuhlaan avecillesi.
 				<br/><u>lue lisää</u></p>
 	</div>
 </a>

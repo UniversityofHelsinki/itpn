@@ -4,7 +4,7 @@
 
 		</div>
 			<nav class="top">
-				
+
 						<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['.','pages']}, [pageOrder:1] ).toJSON(): %>
 						<a   href="<%- document.url %>" class="<%= 'active'  if @document.url is document.url %>"><%= document.title %></a>
 						<% end %>	 
