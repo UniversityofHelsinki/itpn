@@ -129,10 +129,10 @@ pageOrder: '1'
 
 			<td class="startcell">
 				<div>1245>1345
-				<div><h3>Pääyhteistyökumppanin puheenvuoro: Tiedolla johtaminen ja yhteentoimivuus korkeakouluissa Cerion Oy</h3></div>
-<div class="speaker"> Vilho Kolehmainen, Cerion Oy
+				<div><h3>Pääyhteistyökumppanin puheenvuoro: Tiedolla johtaminen ja yhteentoimivuus korkeakouluissa Cerion  Solutions Oy</h3></div>
+<div class="speaker"> Vilho Kolehmainen, Cerion  Solutions Oy
 				</div>
-<div><h3>Lightning talk: TBA (15min)</h3></div>
+<div><br/><h3>Lightning talk: TBA (15min)</h3></div>
 			</td>
 	
 </tr>
