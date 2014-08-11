@@ -1046,7 +1046,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 
 @media print {
 
-	.foot, .top, #first,  #viiva, #logoy {
+	.foot, .top, #first,  #viiva, #logoy, header {
 	display: none;
 	}
 
@@ -1076,14 +1076,23 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		}
 
 tr td:nth-child(1), th:nth-child(1){display:none;}
+article{font-size: 10px;}
 .bigfont{font-size: 1em;}
 td h3{0.5em;}
 td li{font-weight:normal;  font-size: 0.8em;}
 .icon{display:none;}
 td, th{border: 1px solid black;}
-  table { page-break-inside:auto }
+table tr:nth-child(6) { page-break-after: always; }
+  table { page-break-inside:auto; }
     div   { page-break-inside:avoid; } /* This is the key */
     thead { display:table-header-group }
+#keskiviikko, #tiistai { 
+				border-collapse: separate; 
+				border-spacing: 10px 13px;
+				max-width:100%;		
+				overflow: auto;
+				}
+#taulukko{margin-left: 2%;}
 				/*
 #keskiviikko, #tiistai { 
 				border-collapse: separate; 
