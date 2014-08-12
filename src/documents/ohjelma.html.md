@@ -56,7 +56,9 @@ toimintaa ja kokemuksia sen käytöstä.
 			</td>
 
 			<td class="startcell"><div>1030>1130 
-			<h3>TBA</h3>
+			<h3>KATe2 varmistuspalvelu - tekninen arkkitehtuuri ja ratkaisut</h3>
+			<h3></h3>
+			<div class="hashtags">#KATe2</div>
 			</div>
 			</td>
 
@@ -102,6 +104,19 @@ toimintaa ja kokemuksia sen käytöstä.
 				
 				</div>
 				<div class="hashtags">#pmo #johtaminen #projektit</div>
+				<div>
+				<div> ------------------------------------
+				<h3>Ketterä projektinhallinta kolmen yliopiston yhteishankkeessa</h3>
+				<ul>
+					<li>OTM-hankkeessa on kuusi tuoteomistajaa, kuinka sujuu yhteistyö yliopistojen ja paikkakuntien välillä?</li>
+					<li>Kuinka omien kehittäjien, toimittajien ja eri korkeakoulujen asiantuntijoiden kesken saadaan tehokkaasti näkyvää aikaiseksi?</li>
+					
+				</ul>
+				
+				</div>
+				<div class="speaker">Sami Hautakangas (TaY) ja Inka Paukku (Aalto)</div>
+				<div class="hashtags">#ketteryys #projektinhallinta</div>
+			</div>
 			</td>
 
 			<td class="startcell">
@@ -277,16 +292,16 @@ toimintaa ja kokemuksia sen käytöstä.
 			<td class="startcell">
 			<div>0915>1030
 				<div>
-				<h3>Ketterä projektinhallinta kolmen yliopiston yhteishankkeessa</h3>
+				<h3>Esteettömyys ja saavutettavuus verkkopalveluissa</h3>
 				<ul>
-					<li>OTM-hankkeessa on kuusi tuoteomistajaa, kuinka sujuu yhteistyö yliopistojen ja paikkakuntien välillä?</li>
-					<li>Kuinka omien kehittäjien, toimittajien ja eri korkeakoulujen asiantuntijoiden kesken saadaan tehokkaasti näkyvää aikaiseksi?</li>
+					<li>Kuinka yliopistoissa pitäisi ottaa saavutettavuus huomioon? Millä toimenpiteillä tähän päästään? </li>
+					<li>Esityksessä käsitellään myös stivi-suosituksia (<a href="http://www.esok.fi/stivi">saavutettavat tieto-ja viestintäympäristöt</a>)</li>
 					
 				</ul>
 				
 				</div>
-				<div class="speaker">Sami Hautakangas (TaY) ja Inka Paukku (Aalto)</div>
-				<div class="hashtags">#ketteryys #projektinhallinta</div>
+				<div class="speaker">Hannu Puupponen, Jyväskylän yliopisto, Jussi </div>
+				<div class="hashtags">#saavutettavuus #yhdenvertaisuus #verkkopalvelut</div>
 			</div><div><h3>+ Lightning talk: TBA (15min)</h3></div>
 			</td>
 
@@ -311,8 +326,14 @@ toimintaa ja kokemuksia sen käytöstä.
 
 			<td class="startcell">
 				<div>0915>1030
-				<h3>TBA</h3>
-				</div>			
+				<h3>Hakuratkaisun anatomia - kurkistus pellin alle</h3>
+<ul>
+	<li> HY:n open source-pohjalle tehdyn uuden hakukoneratkaisun esittely</li>
+	<li>Puheenvuorossa katsastetaan Solr:iin perustuva ratkaisu tekniseltä kantilta-</li>
+	
+</ul>
+
+				</div><div class="hashtags">#solr #nutch #hakukone</div>			
 			</td>
 	
 			<td class="startcell">
@@ -343,7 +364,7 @@ toimintaa ja kokemuksia sen käytöstä.
 				</ul>
 				
 				</div>
-				<div class="speaker">Sari Koski-Kotiranta</div>
+				<div class="speaker">Sari Koski-Kotiranta, Helsingin yliopisto, opetusteknologiakeskus</div>
 				<div class="hashtags">#tenttiakvaario</div>
 			</div>
 			</td>
