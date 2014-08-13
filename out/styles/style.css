@@ -497,8 +497,19 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		margin-bottom: 25px;
 		margin-top: 25px;
 		}
-	.sponsorlogo2{max-width: 300px;}
-	
+	#eduix{
+		height: 100px;
+		margin-bottom: 10px;
+		margin-top: 1px;
+	}
+		.sponsorlogo2{max-width: 300px;}
+	.sponsorlogo3 {
+		height: 100px;
+		max-width: 250px;
+		margin-right: 40px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+		}
 /*News (uutiset)-page. The latest news is shown in full, second to last as recaps*/
 
 

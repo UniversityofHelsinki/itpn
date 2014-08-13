@@ -4,7 +4,7 @@
 <a href="http://www.helsinki.fi/atk/tike/tike/index.html"><img class="sponsorlogo2"src="../images/logot/hy.png"></a>
 		</li>
 		<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['imgdoc']},[pageOrder:1] ).toJSON(): %>
-<li class="tinylogo"><a href="<%- document.tags %>"><img class="sponsorlogo"src="../images/logot/<%= document.basename %>.png"></a></li>
+<li class="tinylogo"><a href="<%- document.tags %>"><img class="sponsorlogo" id="<%= document.basename %>" src="../images/logot/<%= document.basename %>.png"></a></li>
 		<% end %>
 		</ul>
 	</footer>
