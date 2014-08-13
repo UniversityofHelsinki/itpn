@@ -1,7 +1,7 @@
 ---
 layout: 'news2'
 title: 'Kutsu korkeakouluille!'
-date: 2014-07-01
+date: 2014-08-01
 ingress: 'HY:n tietohallintojohtaja Ilkka Siissalo ja IT-päivien tuottaja Anne-Mari Seppola toivottavat korkeakoulujen IT-väen lämpimästi tervetulleeksi Helsinkiin  IT-päiville 2014!'
 ---
 Tervetuloa IT-päiville 2014!

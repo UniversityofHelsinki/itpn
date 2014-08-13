@@ -18,8 +18,11 @@ pageOrder: '6'
 <li>  Pelkkä iltajuhlalippu (esim. avec-lippu tai lippu yhteistyökumppaneille) 100e sis alv</li>
 </ul>
 <h1>Ilmoittautumisohjeet</h1>
-<p>IT–päiville ilmoittaudutaan sähköistä lomaketta käyttäen.
-Osallistumismaksun maksaminen vahvistaa
+<p>IT–päiville ilmoittaudutaan sähköistä lomaketta käyttäen:</p>
+<div id="ilmoittaudu"><a href="https://ilmo.contio.fi/meetingsmill/main.aspx?id=103" target="_blank"><img src="../images/ilmo.png" width="150" height="42"></a>
+<br/>
+</div>
+<p>Osallistumismaksun maksaminen vahvistaa
 osallistumisen IT-päiville. Osallistumismaksun voi maksaa verkkopankissa,
 luottokortilla tai laskulla (e-lasku tai pdf-lasku). </p>
 <p>

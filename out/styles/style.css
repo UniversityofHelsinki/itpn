@@ -467,7 +467,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 	/*Logos in the footer*/
 
 	footer > ul {
-		margin-left: 17%;
+		margin-left: 10%;
 	}
 
 	
@@ -663,10 +663,13 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 ***************/
 @media all and (min-width: 1400px ) {
 	.foot > ul {
-		margin-left: 17%;
+		margin-left: 10%;
+	}
+		footer > ul {
+		margin-left: 10%;
 	}
 	.foot2 > ul {
-		margin-left: 25%;
+		margin-left: 17%;
 	}
 }
 @media all and (min-width: 1400px ) {
