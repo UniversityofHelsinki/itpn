@@ -661,6 +661,16 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		}
 /*5. Responsive rules
 ***************/
+@media all and (min-width: 1600px){
+	.pagelower {
+	margin-left: 23%;
+	}
+}
+@media all and (min-width: 1400px ) and (max-width:1599px) {
+	.pagelower{
+		margin-left: 20%;
+	}
+}
 @media all and (min-width: 1400px ) {
 	.foot > ul {
 		margin-left: 10%;
@@ -680,9 +690,9 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		margin-top: 2%;
 		width:  660px;
 	}
-	.pagelower{
+	/*.pagelower{
 		margin-left: 20%;
-	}
+	}*/
 	.pagelowers{
 		margin-left: 20%;
 	}
