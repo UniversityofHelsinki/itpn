@@ -242,13 +242,11 @@ toimintaa ja kokemuksia sen käytöstä.
 	</td>
 			<td class="startcell">
 				<div>1530>1630
-				<h3>Lightning talks: Työvälineet & ideat</h3>
-				<ul>
-					<li>Ansible</li>
-					<li>Open Stack/DevStack</li>
-					<li>... muuta? Ehdota välinettä/aihetta, josta haluaisit lt:n pitää! info at it2014.fi</li>
-				</ul>
-			</div><div class="hashtags">#tools #scripting #pilvee #vapaus</div>
+				<h3>Live Hacking</h3>
+				Outpost24:n tietoturvakonsultti Paul Mynarsky näyttää kuinka hyödyntämällä
+tietojärjestelmissä olevia haavoittuvuuksia on mahdollista murtautua
+organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessioon osallistuneiden kesken arvotaan Outpost24:n ethical hacker-palvelu käyttöön päiväksi!
+			</div><div class="hashtags">#titu #hacking </div>
 		</td>
 
 			<td class="startcell">
@@ -327,8 +325,8 @@ toimintaa ja kokemuksia sen käytöstä.
 				<div>0915>1030
 				<h3>Hakuratkaisun anatomia - kurkistus pellin alle</h3>
 <ul>
-	<li> HY:n open source-pohjalle tehdyn uuden hakukoneratkaisun esittely</li>
-	<li>Puheenvuorossa katsastetaan Solr:iin perustuva ratkaisu tekniseltä kantilta-</li>
+	<li> HY:n open source-pohjalle tehdyn uuden hakukoneratkaisun esittely ja arkkitehtuuri.</li>
+	<li>Puheenvuorossa katsastetaan Solr:iin perustuva ratkaisu teknisestä näkökulmasta.</li>
 	
 </ul>
 
@@ -434,10 +432,13 @@ toimintaa ja kokemuksia sen käytöstä.
 	#ka #titu
 	</div>
 </td><td class="startcell"><div>1230>1400
-			<h3>TBA</h3>
-			</div>
-			<div class="speaker"></div>
-			<div class="hashtags"></div>
+				<h3>Lightning talks: Työvälineet & ideat</h3>
+				<ul>
+					<li>Ansible</li>
+					<li>Open Stack/DevStack</li>
+					<li>... muuta? Ehdota välinettä/aihetta, josta haluaisit lt:n pitää! info at it2014.fi</li>
+				</ul>
+			</div><div class="hashtags">#tools #scripting #pilvee #vapaus</div>
 		</td><td class="startcell"><div>1230>1400<h3>Emootiot konsortiohankkeissa</h3></div><div class="speaker">Riitta Hekkala, Aalto yliopisto</div>
 			<div class="hashtags"></div><div><h3>+ Lightning talk: TBA (15min)</h3></div></td>
 		
