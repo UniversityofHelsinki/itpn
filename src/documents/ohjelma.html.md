@@ -187,9 +187,9 @@ toimintaa ja kokemuksia sen käytöstä.
 			
 			<td class="startcell">
 				<div>1415>1515
-				<h3>Red Hat 7 uutisia & tietoa RedHatin OpenStack-ratkaisusta</h3>
+				<h3>Red Hat 7-uutisia & tietoa RedHatin OpenStack-ratkaisusta</h3>
 				</div>
-			<div class="speaker">Toni Willberg, Solutions Architect, RedHat Finland
+			<div class="speaker">Toni Willberg, Solutions Architect, Red Hat Finland
 			</div><div class="hashtags">#openstack #pilvipalvelut #rhel7 #centos7</div>
 			</td>
 
@@ -244,7 +244,7 @@ toimintaa ja kokemuksia sen käytöstä.
 				<div>1530>1630
 				<h3>Lightning talks: Työvälineet & ideat</h3>
 				<ul>
-					<li>Bash on passé, coolit tyypit käyttää zsh:ta?</li>
+					<li>Ansible</li>
 					<li>Open Stack/DevStack</li>
 					<li>... muuta? Ehdota välinettä/aihetta, josta haluaisit lt:n pitää! info at it2014.fi</li>
 				</ul>
