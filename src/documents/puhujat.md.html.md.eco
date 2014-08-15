@@ -1,0 +1,50 @@
+---
+layout: 'default'
+title: 'puhujat'
+pageOrder: '2'
+---
+<div class="pageupperp">
+	<div id="loveitu">
+	<img class="otsikkokuva" src="./images/puhujat_ots.png">
+	</div>
+</div>
+
+<div class="pagelower" class="clearfix" id="puhu">
+
+<div id="keynote" class="clearfix"><h1>Keynote-puhujat</h1>
+
+<div id="key1">
+<img class="lindaim" src="../images/puhujat/liukas.jpeg">
+	<div class="lindatext">
+	<h2>Linda Liukas</h2>
+	<p></p>
+	<p>twitter: <a href="https://twitter.com/lindaliukas">@lindaliukas</a> <br/> <a href="http://lindaliukas.fi/">http://lindaliukas.fi/</a> 
+	</div>
+</div>
+<!--
+<div id="key2">
+<img class="lindaim" src="../images/puhujat/liukas.jpeg">
+	<div class="lindatext">
+	<h2>Linda Liukas</h2>
+	<p>ff</p>
+	</div>
+</div>
+-->
+</div>
+
+<div class="clearfix" id="muutpuhujat">
+<h1>Sessioiden puhujat (päivittyvät syksyn kuluessa)</h1>
+<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['puhujat']}, [{title: 1}]).toJSON()[0..5]: %>
+
+<div class="frontbox">
+<div class="newsnosto"><img class="puh" src="../images/puhujat/<%= document.basename %>.png"></div>
+<h2><%= document.title %></h2>
+<p><%- document.ingress %><br/><u><a href="https://twitter.com/<%- document.tag %>">@<%- document.tag %></a></u>
+<br/><u><a href="<%= document.pag %>"><%- document.pag %></a></u>
+</p>
+</div>
+
+<% end %>
+</div>
+
+</div>

@@ -1,7 +1,7 @@
 ---
 layout: 'default'
 title: 'Info'
-pageOrder: '6'
+pageOrder: '7'
 ---
 <div class="pageupperi">
 	<div id="loveitu">
@@ -45,6 +45,8 @@ Majoitusyhteistyökumppanina vuoden 2014 IT-päivissä on Scandic Grand Marina. 
 Varauksen voi tehdä joko [netistä](http://www.scandichotels.fi/grandmarina), sähköpostilla grandmarina@scandichotels.com tai puhelimitse +358 9 16 661.
 Varatessa on mainittava varauskoodi.
 </p>
+<h3> Tietoa näytteilleasettajille</h3>
+<p>Lue [täältä](http://it2014.fi/uutiset/kutsu_naytteilleasettajille.html) käytännön ohjeita IT-päivien näyttelyn suhteen! </p>
 <h3> Sponsoriksi tai mukaan näytteilleasettajaksi?</h3>
 Lue [täältä](http://it2014.fi/uutiset/yhteistyokumppaniksi.html), kuinka voit päästä mukaan yhteistyökumppaniksi ja ota yhteyttä info at it2014.fi sopiaksesi yrityksellesi sopivasta tavasta olla mukana!
 </div>

@@ -15,33 +15,30 @@ pageOrder: '0'
 
 
 <div class="pagelower" class="clearfix">
-
-	<a href="ohjelma.html">
+<a href="puhujat.html">
 		<div class="frontbox">
 			<div id="first">
-			</div>
-				<h2>
-				Tutustu IT- päivien ohjelmaan!
-				</h2>
-				<p>
-				Mukana on vanhaa, uutta ja yllättävää. Nyt voit myös vaikuttaa IT-päivien ohjelmaan. Tutustu ohjelmaluonnokseen, anna palautetta ja tule mukaan tekemään kaikkien aikojen IT-päiviä!
-				<br/><u>lue lisää</u></p>
-	</div>
-</a>
-
-<a href="ilmoittaudu.html">
-		<div class="frontbox">
-			<div id="second">
 				</div>
 				<h2>
-				Ilmoittautuminen</br> auki!
+				IT-päivien puhujia julkaistu!
 				</h2>
 				<p>
-				Ilmoittautuminen on avattu, ja se jatkuu 15.10.2014 asti. Early Bird -etuhinnat ovat voimassa 31.8.2014 saakka. Ilmoittautumislomakkeella voit myös ilmoittaa erikoisruokavaliosi ja ostaa lippuja iltajuhlaan avecillesi.
+				Ensimmäisiä IT-päivien puhujia on nyt julkaistu. Iloksemme saamme kertoa keynote-puhujaksi saapuvan Linda Liukkaan. 
 				<br/><u>lue lisää</u></p>
 	</div>
 </a>
-
+	<a href="ohjelma.html">
+		<div class="frontbox">
+			<div id="second">
+			</div>
+				<h2>
+				Ohjelmassa paljon lisäyksiä!
+				</h2>
+				<p>
+				Ohjelmaan on nyt päivitetty huomattava määrä puheenvuoroja. Edelleen voit myös vaikuttaa IT-päivien ohjelmaan. Tutustu ohjelmaluonnokseen, anna palautetta ja tule mukaan tekemään kaikkien aikojen IT-päiviä!
+				<br/><u>lue lisää</u></p>
+	</div>
+</a>
 
 
 	<a href="sponsorit.html"><div class="frontbox">

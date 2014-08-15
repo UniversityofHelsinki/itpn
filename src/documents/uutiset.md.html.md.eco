@@ -8,7 +8,7 @@ pageOrder: '3'
 	<img class="otsikkokuva" src="./images/Uutiset_ots.png">
 	</div>
 </div>
-<div class="pagelower" class="clearfix">
+<div class="pagelower" class="clearfix" id="uutis">
 <% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['uutiset']}, [{date: -1}]).toJSON()[0..5]: %>
 <a href="<%= document.url %>">
 <div class="frontbox">

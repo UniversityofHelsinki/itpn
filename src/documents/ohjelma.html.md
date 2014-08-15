@@ -297,7 +297,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 				</ul>
 				
 				</div>
-				<div class="speaker">Hannu Puupponen, Jyväskylän yliopisto, Jussi </div>
+				<div class="speaker">Hannu Puupponen, Jyväskylän yliopisto, Jussi  Hermunen</div>
 				<div class="hashtags">#saavutettavuus #yhdenvertaisuus #verkkopalvelut</div>
 			</div><div><h3>+ Lightning talk: TBA (15min)</h3></div>
 			</td>
