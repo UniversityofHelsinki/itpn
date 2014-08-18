@@ -262,7 +262,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		height: 400px;}
 
 	.frontbox:last-child{
-		padding-right: 2%;
+		padding-right: 20px;
 	}
 	
 	.frontbox img {
@@ -750,7 +750,7 @@ float:left;
 	}
 	.frontbox{
 		padding-right: 20px;
-		/*width: 20%;*/
+		width: 20%;
 		height: 690px;
 	}
 #puhu > .frontbox{
@@ -899,9 +899,9 @@ float:left;
 	.keh2{margin-top: 5%;}
 }
 @media all and (min-width: 600px) and (max-width: 800px){
-	.frontbox > div{
+	/*.frontbox > div{
 		height: 150px;
-	}
+	}*/
 	#first, #second, #third{
 		height:150px;
 	}

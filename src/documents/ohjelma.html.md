@@ -13,11 +13,11 @@ pageOrder: '1'
 <!--First row-->
 	<tr>
 			<td><p class="time">0930</p></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>TBA</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>Linda Liukas: mitä kaikkien tulee tietää koodaamisesta?</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>Linda Liukas: mitä kaikkien tulee tietää koodaamisesta?</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>Linda Liukas: mitä kaikkien tulee tietää koodaamisesta?</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>Linda Liukas: mitä kaikkien tulee tietää koodaamisesta?</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>Linda Liukas: mitä kaikkien tulee tietää koodaamisesta?</p></div></td>
 		
 		</tr>
 <!--Second row-->
@@ -35,7 +35,7 @@ pageOrder: '1'
 				
 				<div class="hashtags">#palvelut #projektinhallinta #ketteryys</div>
 				<div class="speaker">Teo Kirkinen, Tietotekniikkakeskus, Helsingin yliopisto</div></div>
-<div><br/><h3>+ Lightning talk: TBA (15min)</h3></div>
+<div>------------------------------------<br/><h3>+ Lightning talk: TBA (15min)</h3></div>
 			</td>
 
 			<td class="startcell"> 
@@ -60,6 +60,10 @@ toimintaa ja kokemuksia sen käytöstä.
 			<h3></h3>
 			<div class="hashtags">#KATe2</div>
 			</div>
+			<div> ------------------------------------
+			<h3>Kokemuksia Open-Stack ympäristön pystyttämisestä ja ylläpidosta</h3>
+			<div class="speaker">CSC:n puhuja</div>
+			<div class="hashtags">#OpenStack #pilvi</div>
 			</td>
 
 			<td class="startcell">
@@ -137,16 +141,10 @@ toimintaa ja kokemuksia sen käytöstä.
 
 			<td class="startcell">
 				<div>1245>1345
-				<h3>Työasemaylläpidon iltapäivä</h3>
+				<h3>Red Hat 7-uutisia & tietoa RedHatin OpenStack-ratkaisusta</h3>
 				</div>
-				<ul>
-					<li>Mobiililaitteiden etähallinta- Atea Finlandin ratkaisu</li>
-					<li>Apple-laitteiden hallinta</li>
-	 				<li>Työasemien virtualisointi - VDI.</li>
-				</ul>		
-				<div class="speaker">
-				</div>
-				<div class="hashtags">#mobile #vdi #virtualisointi</div>
+			<div class="speaker">Toni Willberg, Solutions Architect, Red Hat Finland
+			</div><div class="hashtags">#openstack #pilvipalvelut #rhel7 #centos7</div>
 			</td>
 
 			<td class="startcell">
@@ -187,10 +185,11 @@ toimintaa ja kokemuksia sen käytöstä.
 			
 			<td class="startcell">
 				<div>1415>1515
-				<h3>Red Hat 7-uutisia & tietoa RedHatin OpenStack-ratkaisusta</h3>
+				<h3>Työasemaylläpidon iltapäivä: Mac-ylläpidon sessio </h3>
+				<p> Esityksessä käydään läpi teknisellä tasolla Jyväskylän yliopiston mac-ylläpidon tärkeimmät työkalut ja syyt näiden valintojen takana. Esityksessä mukana Munk, Puppet- asiaa sekä nykyaikaisen asiakaslähtöisen mac-ylläpidon parhaita käytäntöjä.</p>
+				<div class="speaker">Hannes Juutilainen, Jyväskylän yliopisto
+				<div class="hashtags">#mobile #vdi #virtualisointi</div>
 				</div>
-			<div class="speaker">Toni Willberg, Solutions Architect, Red Hat Finland
-			</div><div class="hashtags">#openstack #pilvipalvelut #rhel7 #centos7</div>
 			</td>
 
 		<td class="startcell">
@@ -242,11 +241,15 @@ toimintaa ja kokemuksia sen käytöstä.
 	</td>
 			<td class="startcell">
 				<div>1530>1630
-				<h3>Live Hacking</h3>
-				Outpost24:n tietoturvakonsultti Paul Mynarsky näyttää kuinka hyödyntämällä
-tietojärjestelmissä olevia haavoittuvuuksia on mahdollista murtautua
-organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessioon osallistuneiden kesken arvotaan Outpost24:n ethical hacker-palvelu käyttöön päiväksi!
-			</div><div class="hashtags">#titu #hacking </div>
+				<h3>Työasemaylläpidon iltapäivä jatkuu</h3>
+				</div>
+				<ul>
+					<li>Mobiililaitteiden etähallinta- Atea Finlandin ratkaisu</li>
+	 				<li>Työasemien virtualisointi - VDI.</li>
+				</ul>		
+				<div class="speaker">
+				</div>
+				<div class="hashtags">#mobile #vdi #virtualisointi</div>
 		</td>
 
 			<td class="startcell">
@@ -378,9 +381,11 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 <ul><li> Suurteholaskennan uudet koneet</li><li>Tutkimusdatan tallentamisen kansalliset välineet: IDA, PAS, Kata, REMS, AVAA</li></ul></div></td>
 
 			<td class="startcell">
-				<div>1030>1130
-				<h3>TBA</h3>
-				</div>
+				<div>1030>1130<h3>Live Hacking</h3>
+				Outpost24:n tietoturvakonsultti Paul Mynarsky näyttää kuinka hyödyntämällä
+tietojärjestelmissä olevia haavoittuvuuksia on mahdollista murtautua
+organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessioon osallistuneiden kesken arvotaan Outpost24:n ethical hacker-palvelu käyttöön päiväksi!
+			</div><div class="hashtags">#titu #hacking </div>
 			</td>
 
 			<td class="startcell">
