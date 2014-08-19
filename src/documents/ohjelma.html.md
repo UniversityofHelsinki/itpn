@@ -35,7 +35,7 @@ pageOrder: '1'
 				
 				<div class="hashtags">#palvelut #projektinhallinta #ketteryys</div>
 				<div class="speaker">Teo Kirkinen, Tietotekniikkakeskus, Helsingin yliopisto</div></div>
-<div>------------------------------------<br/><h3>+ Lightning talk: TBA (15min)</h3></div>
+<div>-------------<br/><h3>+ Lightning talk: TBA (15min)</h3></div>
 			</td>
 
 			<td class="startcell"> 
@@ -60,7 +60,7 @@ toimintaa ja kokemuksia sen käytöstä.
 			<h3></h3>
 			<div class="hashtags">#KATe2</div>
 			</div>
-			<div> ------------------------------------
+			<div> -----------------
 			<h3>Kokemuksia Open-Stack ympäristön pystyttämisestä ja ylläpidosta</h3>
 			<div class="speaker">CSC:n puhuja</div>
 			<div class="hashtags">#OpenStack #pilvi</div>
@@ -109,7 +109,7 @@ toimintaa ja kokemuksia sen käytöstä.
 				</div>
 				<div class="hashtags">#pmo #johtaminen #projektit</div>
 				<div>
-				<div> ------------------------------------
+				<div> ---------------------
 				<h3>Ketterä projektinhallinta kolmen yliopiston yhteishankkeessa</h3>
 				<ul>
 					<li>OTM-hankkeessa on kuusi tuoteomistajaa, kuinka sujuu yhteistyö yliopistojen ja paikkakuntien välillä?</li>
