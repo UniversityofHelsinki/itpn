@@ -363,10 +363,12 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		display: block;
 		float: left;
 		width: 30%;
-		padding-right: 15%;
-		margin-bottom: 2%;
+		height: 500px;
+		padding-right: 5%;
+		margin-bottom: 5%;
 		margin-top: 2%;
 	}
+	.pspons .sponssiloota{height: 300px;}
 	.sponssiloota:last-child{
 		padding-right:5%;}
 
@@ -529,6 +531,12 @@ float:left;
 		float: left;
 		margin-right: 25px;
 	}
+
+	.tinylogo > ul > li{
+		display: block;
+		float: left;
+}
+	.tinylogo:last-child{clear: before;}
 
 	.sponsorlogo{
 		height: 50px;
@@ -724,14 +732,15 @@ float:left;
 }
 @media all and (min-width: 1400px ) {
 	.foot > ul {
-		margin-left: 10%;
+		margin-left: 2%;
 	}
 		footer > ul {
 		margin-left: 10%;
 	}
 	.foot2 > ul {
-		margin-left: 17%;
+		margin-left: 2%;
 	}
+	footer > ul > li {clear:after;}
 }
 @media all and (min-width: 1400px ) {
 		.newscontent{
