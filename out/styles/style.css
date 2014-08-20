@@ -399,6 +399,12 @@ float:left;
 }
 #muutpuhujat{min-width:80%;}
 
+.speaker{
+	margin: 5px 0 5px 0;
+	font-weight: bold;
+	color: #ff00ff;
+}
+
 /*3. Module rules: for front page, these are the image boxes and ingresses, for schedule, this includes the actual table of schedules
 ****************/
 
@@ -641,7 +647,7 @@ float:left;
 			.hashtags{vertical-align: bottom;}
 			.startcell{vertical-align:top;}
 			.startcell > div > h3{padding-top:5px;}
-			.hashtags{padding-top: 10px; color: #ff00ff;}
+			.hashtags{padding-top: 10px; color: #666666;}
 		
 /*4. State rules
 ***************/
