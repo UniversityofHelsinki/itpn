@@ -23,7 +23,7 @@ docpadConfig = {
 			]
 
 			# The default title of our website
-			title: "IT-Päivät"
+			title: "IT-päivät"
 
 			# The website description (for SEO)
 			description: """
