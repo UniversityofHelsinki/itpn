@@ -726,15 +726,17 @@ float:left;
 	margin-left: 23%;
 	}
 	#uutis, #puhu {
-	margin-left: 12%;
-	}
+	margin-left: 12%;}
+
+.foot2 > ul, .foot > ul {
+margin-left: 10%;
+}
+	
 }
 @media all and (min-width: 1400px ) and (max-width:1599px) {
 	.pagelower{
 		margin-left: 20%;
 	}
-}
-@media all and (min-width: 1400px ) {
 	.foot > ul {
 		margin-left: 2%;
 	}
@@ -744,6 +746,17 @@ float:left;
 	.foot2 > ul {
 		margin-left: 2%;
 	}
+}
+@media all and (min-width: 1400px ) {
+	/*.foot > ul {
+		margin-left: 2%;
+	}
+		footer > ul {
+		margin-left: 10%;
+	}
+	.foot2 > ul {
+		margin-left: 2%;
+	}*/
 	footer > ul > li {clear:after;}
 }
 @media all and (min-width: 1400px ) {
