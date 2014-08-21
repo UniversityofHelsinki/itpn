@@ -12,7 +12,7 @@ pageOrder: '6'
 <li>Yhden päivän lippu, sisältäen iltajuhlan 250e sis alv </li>
 <li>Pelkkä iltajuhlalippu (esim. avec-lippu tai lippu yhteistyökumppaneille) 80e + alv = 99,20e sis alv</li>
 </ul>
-<h3>Tavallinen lippu, ilmoittauduttu 31.8.2014 jälkeen</h3>
+<h3>Tavallinen lippu, ilmoittauduttu 31.8.2014 jälkeen (15.10.2014 asti)</h3>
 <ul><li> Kahden päivän lippu, sisältäen iltajuhlan 400e sis. alv</li>
 <li>  Yhden päivän lippu sisältäen iltajuhlan 300e sis alv</li>
 <li>  Pelkkä iltajuhlalippu (esim. avec-lippu tai lippu yhteistyökumppaneille) 100e sis alv</li>

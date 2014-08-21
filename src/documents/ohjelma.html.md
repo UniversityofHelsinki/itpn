@@ -36,7 +36,7 @@ pageOrder: '1'
 				<div class="speaker">Teo Kirkinen, Tietotekniikkakeskus, Helsingin yliopisto</div>
 <div class="hashtags">#palvelut #projektinhallinta #ketteryys</div>
 </div>
-<div>----------------------<h3> Ketteryys tietojärjestelmän hankinnassa ja toteutuksessa, case Turun yliopisto</h3>
+<div class="uusislot"><h3> Ketteryys tietojärjestelmän hankinnassa ja toteutuksessa, case Turun yliopisto</h3>
 <ul> <li>Turun yliopisto hajautti IdM-järjestelmän hankinnan kahdeksi erilliseksi kilpailutukseksi - miten se onnistui käytännössä?</li>
 <li>Mihin asioihin sopimusneuvotteluissa kannattaa kiinnittää huomiota ketterästä projektista sovittaessa?</li>
 </li>Kuinka sujuu yhteistyö Helsingissä työskentelevän Scrum-kehitystiimin ja Turun tuoteomistajien kanssa?</li></ul>
@@ -66,7 +66,7 @@ toimintaa ja kokemuksia sen käytöstä.
 			<h3></h3>
 			<div class="hashtags">#KATe2</div>
 			</div>
-			<div> -----------------
+			<div class="uusislot"> 
 			<h3>Kokemuksia Open-Stack ympäristön pystyttämisestä ja ylläpidosta</h3>
 			<div class="speaker">CSC:n puhuja</div>
 			<div class="hashtags">#OpenStack #pilvi</div>
@@ -81,7 +81,9 @@ toimintaa ja kokemuksia sen käytöstä.
 				<li>Muutokset tietoturvan lainsäädännössä, EU:n tietosuojalaki</li>
 				</ul>
 				</div><div class="hashtags">#ketteryys #hankinnat #avoin #titu</div>
-				<div><h3>+Lighting-talk, TBA (15min) </h3></div>
+				<div class="uusislot"><h3> Pilvipalvelujen yksityisyys- ja luotettavuusasiat toimittajan näkökulmasta</h3>
+					<div class="speaker">Aki Siponen, teknologiajohtaja, Microsoft</div>	
+		</div>
 			</td>
 		
 	</tr>
@@ -115,7 +117,7 @@ toimintaa ja kokemuksia sen käytöstä.
 				</div>
 				<div class="hashtags">#pmo #johtaminen #projektit</div>
 				<div>
-				<div> ---------------------
+				<div class="uusislot">
 				<h3>Ketterä projektinhallinta kolmen yliopiston yhteishankkeessa</h3>
 				<ul>
 					<li>OTM-hankkeessa on kuusi tuoteomistajaa, kuinka sujuu yhteistyö yliopistojen ja paikkakuntien välillä?</li>
@@ -133,7 +135,7 @@ toimintaa ja kokemuksia sen käytöstä.
 				<div>1245>1345
 				<h3>Angular.js:n tehokas käyttö ja sudenkuopat.</h3>
 				<div class="hashtags">#angularjs t #frontend </div> 
-				<div class="speaker"> <a href="http://teropa.info">Tero Parviainen</a></div>
+				<div class="speaker"> <a href="http://teropa.info">Tero Parviainen,  itsenäinen ohjelmistokehittäjä</a></div>
 				</div>
 			</td>
 			<td class="startcell">
@@ -228,21 +230,28 @@ Suomen korkeakoulukentällä yhteistyömalleja on kokeiltu ja suunnitteilla yrit
 </ul>
 <div class="speaker">Maria Kalske, Helsingin yliopiston tietotekniikkakeskus</div>
 				</div>
-<div>-----------------------------<h3>Lighting talk: TBA</h3>
+<div class="uusislot"><h3>Lighting talk: TBA</h3>
 </div>
 </div>
 			</td>
 			
 			<td class="startcell">
 				<div>1530>1630
-				<h3>Ohjelmointikielet, mihin menette?</h3>
-				<ul>
-					<li>Funktionaaliset kielet isoissa projekteissa: case Clojure.</li>
-					<li>Polyglot-ohjelmointi</li>
-				</ul>
-				</div> 
-				<div class="hashtags">#clojure #scala #backtobasics
+				<h3>Funktionaaliset kielet isossa projektissa: case Clojure</h3>
+<ul>
+	<li>Miksi Opetushallitukselle tehty tutkintatoimikuntarekisteri toteutettiin Clojurella, eikä esim. Javalla? </li>
+	<li>Minkälaisia hyviä käytäntöjä  on Clojuren käytön kanssa muodostunut</li>
+	<li>Millaisissa projekteissa Clojuresta saa eniten irti?</li>
+	
+</ul></div>
+				<div class="speaker">Antti Virtanen, Solita Oy</div>
+				<div class="hashtags">#clojure 
 				</div>
+<div class="uusislot"><h3>Maailma Java 8:n jälkeen</h3>
+Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvyn, niin Java VM:n, kuin Java-kielenkin suhteen?
+				<div class="speaker">Esko Luontola, Solita Oy</div>
+				<div class="hashtags">#Java8 
+				</div></div>
 			</td>
 
 			<td class="startcell">
@@ -347,10 +356,15 @@ Suomen korkeakoulukentällä yhteistyömalleja on kokeiltu ja suunnitteilla yrit
 	<li>Puheenvuorossa katsastetaan Solr:iin perustuva ratkaisu teknisestä näkökulmasta.</li>
 	
 </ul>
-
-				</div><div class="hashtags">#solr #nutch #hakukone</div>			
-			</td>
-	
+</div>
+<div class="hashtags">#solr #nutch #hakukone</div>
+<div class="uusislot">
+			<h3>Konesalin uusimisprojektin anatomia</h3>
+				Tampereen konesaliprojektin teknisen näkökulman ja projektin esittelyä. 
+	<div class="speaker">Tuure Vartiainen ja Juha Nisso, Tampereen teknillinen yliopisto</div>
+	<div class="hashtags">#konesali</div>
+</div>
+</td>	
 			<td class="startcell">
 				<div>0915>1030
 				<h3>Teknologia-arkkitehtuuri yliopistoilla</h3>
@@ -451,11 +465,13 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 	<div class="hashtags">
 	#ka #titu
 	</div>
-</td><td class="startcell"><div>1230>1400
-				<h3>Konesalin uusimisprojektin anatomia</h3>
-				Tampereen konesaliprojektin teknisen näkökulman ja projektin esittelyä. 
-			</div><div class="speaker">Tuure Vartiainen ja Juha Nisso, Tampereen teknillinen yliopisto</div><div class="hashtags">#konesali</div>
-		</td><td class="startcell"><div>1230>1400<h3>Emootiot konsortiohankkeissa</h3></div><div class="speaker">Riitta Hekkala, Aalto yliopisto</div>
+</td>
+<td class="startcell"><div>1230>1400
+				<h3>IdM: kaksi ratkaisua</h3>
+				Helsingin yliopiston IAM-hankkeen IdM-ratkaisun teknistä puolta sekä Turun yliopiston vastaavan hankkeen arkkitehtuuria selvitetään tässä sessiossa. 
+			</div><div class="speaker"></div><div class="hashtags">#idm</div>
+		</td>
+<td class="startcell"><div>1230>1400<h3>Emootiot konsortiohankkeissa</h3></div><div class="speaker">Riitta Hekkala, Aalto yliopisto</div>
 			<div class="hashtags"></div><div><h3>+ Lightning talk: TBA (30min)</h3></div></td>
 		
 

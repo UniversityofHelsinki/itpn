@@ -120,6 +120,10 @@ a:hover#menu-icon {
 		
 		clear: after;  
 	}
+	.uusislot{
+	border-top: dashed 1px #282828;
+	margin-top: 15px;
+}
 
 
 	
