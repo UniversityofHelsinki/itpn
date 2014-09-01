@@ -331,7 +331,7 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 		background-image: url('../images/ohjelmisto_v01.png');
 	}
 	#second{
-		background-image: url('../images/newsimages/iltajuhla.png');
+		background-image: url('../images/party2.png');
 	}
 	#third{
 		background-image: url('../images/sponsori_v01.png');
@@ -682,7 +682,7 @@ float:left;
 			background-image: url('../images/ohjelmisto_v01_hoveri.png');
 		}
 			#second:hover{
-			background-image: url('../images/newsimages/iltajuhla.png');
+			background-image: url('../images/party1.png');
 		}
 			#third:hover{
 			background-image: url('../images/sponsori_v01_hoveri.png');
