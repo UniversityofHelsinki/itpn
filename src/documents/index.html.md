@@ -20,22 +20,22 @@ pageOrder: '0'
 			<div id="first">
 				</div>
 				<h2>
-				IT-päivien puhujia julkaistu!
+				IT-päivien puhujia julkaistu ja ohjelmaa päivitetty!
 				</h2>
 				<p>
 				Ensimmäisiä IT-päivien puhujia on nyt julkaistu. Iloksemme saamme kertoa keynote-puhujaksi saapuvan Linda Liukkaan. 
 				<br/><u>lue lisää</u></p>
 	</div>
 </a>
-	<a href="ohjelma.html">
+	<a href="uutiset/iltajuhla.html">
 		<div class="frontbox">
 			<div id="second">
 			</div>
 				<h2>
-				Ohjelmassa paljon lisäyksiä!
+				Tervetuloa iltajuhlaan!
 				</h2>
 				<p>
-				Ohjelmaan on nyt päivitetty huomattava määrä puheenvuoroja. Edelleen voit myös vaikuttaa IT-päivien ohjelmaan. Tutustu ohjelmaluonnokseen, anna palautetta ja tule mukaan tekemään kaikkien aikojen IT-päiviä!
+				IT-päiviin kuuluu olennaisesti myös vauhdikas iltajuhla, jossa päivän havaintoja ja oivalluksia pääsee syventämään rennossa seurassa. 
 				<br/><u>lue lisää</u></p>
 	</div>
 </a>

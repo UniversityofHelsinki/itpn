@@ -237,7 +237,7 @@ Suomen korkeakoulukentällä yhteistyömalleja on kokeiltu ja suunnitteilla yrit
 			
 			<td class="startcell">
 				<div>1530>1630
-				<h3>Funktionaaliset kielet isossa projektissa: case Clojure</h3>
+				<h3>Funktionaaliset kielet käytännössä: Miltä oikea Clojure-projekti maistuu?</h3>
 <ul>
 	<li>Miksi Opetushallitukselle tehty tutkintatoimikuntarekisteri toteutettiin Clojurella, eikä esim. Javalla? </li>
 	<li>Minkälaisia hyviä käytäntöjä  on Clojuren käytön kanssa muodostunut</li>
