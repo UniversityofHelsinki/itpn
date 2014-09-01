@@ -23,7 +23,5 @@ Toisaalta Apollon mainiot ja suuret tilat takaavat myös mahdollisuuden vaihtaa 
 
 
 Anne-Mari Seppola <br/>
-
-info@it2014.fi
-
+info@it2014.fi <br/>
 Tietojärjestelmäprojektipäällikkö, Helsingin yliopisto, Tietotekniikkakeskus
