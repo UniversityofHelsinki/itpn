@@ -35,7 +35,7 @@ pageOrder: '2'
 
 <div class="clearfix" id="muutpuhujat">
 <h1>Sessioiden puhujat (päivittyvät syksyn kuluessa)</h1>
-<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['puhujat']}, [{title: 1}]).toJSON()[0..5]: %>
+<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['puhujat']}, [{title: 1}]).toJSON()[0..20]: %>
 
 <div class="frontbox">
 <div class="newsnosto"><img class="puh" src="../images/puhujat/<%= document.basename %>.png"></div>
