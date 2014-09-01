@@ -24,15 +24,16 @@ Hintaan sisältyy:
 * langaton verkkoyhteys 
 
 Lisätilauksesta:
-Sähkö 150 € ( sis. alv 24%).
-Lippuja iltajuhlaan  80 € + alv. / lippu (ravintola Apollo)
+Sähkö 114 € +  alv 24% = 150 €
+
+Lippuja iltajuhlaan  100 € + alv. / lippu (ravintola Apollo) = 124  € 
 
 ## Pysäköinti:
 Asiakaspysäköintialueella (ulkopaikat) 15 € / ruutu / vrk
+
 Hotellin parkkihalli 25 € / ruutu / vrk
 
 Näytteilleasettajat vastaavat itse oman osastonsa rakentamisesta ja sisustamisesta. 
-Liitteenä Scandic Marina Congress Centerin näyttelyohjeet, joihin kannattaa tutustua!
 
 **Huom!** Scandic Oy:llä / Marina Congress Centerillä on yksinoikeus ravintolatoimintaan. Näytteilleasettajat saavat tuoda omalla logolla varustettuja makeisia, mutta kaikki muut makeiset ja tarjoilut  tilataan Marina Congress Centerin kautta. 
 Tarjoilut varataan noin 1,5 kk ennen kongresssia erillisen linkin kautta joka lähetetään kaikille osaston varanneille.
@@ -57,5 +58,11 @@ WS-Expon kautta voi tilata lisäkalusteita osastolle ottamalla suoraan yhteyttä
 Näyttely on auki tiistaina 4.11.klo 09.00-17.00 sekä keskiviikkona 5.11 klo  8.30-16.00
 Näyttelyä päästään rakentamaan tiistaina 4.11 klo 08.00 alkaen. Tällöin näyttelytilassa on valmiiksi pöydät ja tuolit. 
 
-Näyttelyalue muodostuu varaustilanteen mukaan. Varaukset käsitellään saapumisjärjestyksessä. Kartta näyttelyalueesta ja lista näytteilleasettajista päivitetään nettisivuille myöhemmin. Järjestäjä varaa itselleen oikeuden muutoksiin.
+Näyttelyalue muodostuu varaustilanteen mukaan. Varaukset käsitellään saapumisjärjestyksessä. Kartta näyttelyalueesta yhteistyökumppaneittain ja lista näytteilleasettajista päivitetään nettisivuille myöhemmin. Järjestäjä varaa itselleen oikeuden muutoksiin.
+Standit tulevat sijaitsemaan Europea-salin edessä olevassa lämpiössä, sekä yläkerrassa Fennia-ja Nordiasalien edessä: 
+
+
+<br/>
+
+<a href="http://www.marinacongresscenter.com/DowebEasyCMS/Sivusto/Kuvat/Kuvat2014/Pohjakuva-marina-congress-center.jpg"><img src="/images/pohjakartta.jpg" width="400"></a>
 
