@@ -52,7 +52,7 @@ yhteen pakettiin sovelluksen kanssa ja sen helpon siirrettävyyden
 kehitys-ja tuotantoympäristöjen välillä. Esityksessä käydään läpi Dockerin
 toimintaa ja kokemuksia sen käytöstä.
 				</div>
-				<div class="speaker">Jussi Talaskivi, järjestelmäsuunnittelija</div>
+				<div class="speaker">Jussi Talaskivi, järjestelmäsuunnittelija, Jyväskylän yliopisto</div>
 				<div class="hashtags">#työkalut #virtualisointi</div>
 			</td>
 
