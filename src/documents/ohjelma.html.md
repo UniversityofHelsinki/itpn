@@ -107,28 +107,16 @@ toimintaa ja kokemuksia sen käytöstä.
 
 			<td class="startcell">
 				<div>1245>1345
-				<h3>Projektitoimistot korkeakouluissa</h3>
+				<h3>Projektitoimistot korkeakouluissa. Case Aalto-yliopiston IT</h3>
 				<ul>
-					<li>Kuinka projektitoimistot, projektisalkut ja projektikokonaisuuksien hallinta auttavat korkeakoulujen IT-toimintojen hallintaa?</li>
-					<li>Käytännön case-esimerkin esittelyä ja keskustelua mahdollisuuksista.</li>
+					<li>Kuinka projektitoimistot auttavat korkeakoulujen IT-toimintojen hallintaa?</li>
+					<li>Miten hallinoida työkokokonaisuuksia ja resursseja IT-investointien elinkaarimallin avulla?</li>
 					
 				</ul>
 				
 				</div>
 				<div class="hashtags">#pmo #johtaminen #projektit</div>
-				<div>
-				<div class="uusislot">
-				<h3>Ketterä projektinhallinta kolmen yliopiston yhteishankkeessa</h3>
-				<ul>
-					<li>OTM-hankkeessa on kuusi tuoteomistajaa, kuinka sujuu yhteistyö yliopistojen ja paikkakuntien välillä?</li>
-					<li>Kuinka omien kehittäjien, toimittajien ja eri korkeakoulujen asiantuntijoiden kesken saadaan tehokkaasti näkyvää aikaiseksi?</li>
-					
-				</ul>
-				
-				</div>
-				<div class="speaker">Sami Hautakangas (TaY) ja Inka Paukku (Aalto)</div>
-				<div class="hashtags">#ketteryys #projektinhallinta</div>
-			</div>
+				<div class="speaker">Eija Henritius (päällikkö, PMO) ja Magnus Sippel (kehityspäällikkö, PMO)</div>
 			</td>
 
 			<td class="startcell">
@@ -295,8 +283,9 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			<td class="startcell">
 				<div>1530>1630
 				<h3>Pääyhteistyökumppanin puheenvuoro: Gofore Oy: TBA</h3>
+<p>Esityksessä luodaan katsaus muutoksesta, jonka tulemme kohtaamaan seuraavan 20 vuoden kuluessa. Tietojärjestelmille kohdistuu aivan uudella tavalla tarve joustavuuteen ja mukautumiskykyyn teknisen sekä toiminnallisen ympäristön muuttuessa. Samaan aikaan taloudelliset realiteetit asettavat omia reunaehtojaan. Esittelemme lyhyesti digitaalisen maailman megatrendit sekä linkitämme ne opetusalaan vaikuttaviin ilmiöihin. Näistä tarina jatkuu kansallisten hankkeiden esittelyn kautta yksittäisen oppilaitoksen tietohallinnolle suunnattuihin toimintaohjeisiin.</p>
 				</div>
-				<div class="speaker"></div>
+				<div class="speaker">Mikko Kolehmainen, Gofore Oy</div>
 				<div class="hashtags">#kokonaisarkkitehtuuri</div>
 			</td>
 		
