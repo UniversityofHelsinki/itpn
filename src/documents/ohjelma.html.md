@@ -8,7 +8,7 @@ pageOrder: '1'
 <div id="taulukko">
 <table id="keskiviikko">
 <thead>
-		<tr><h2 class="keh2">Tiistai 4.11.2014</h2><th>Klo</th><th>Track 01: <br/><span class="bigfont">palvelut </span></th><th>Track 02:<br/><span class="bigfont"> sovelluskehitys</span></th><th>Track 03: <br/><span class="bigfont">tutkimuksen IT</span></th><th>Track 04:<br/> <span class="bigfont">bitti ja rauta</span></th><th>Track 05: <br/><span class="bigfont">tietohallinto</th></tr></thead>
+		<tr><h2 class="keh2">Tiistai 4.11.2014</h2><th>Klo</th><th>Track 01: <br/><span class="bigfont">projektit ja <br/>palvelut </span></th><th>Track 02:<br/><span class="bigfont"> sovelluskehitys</span></th><th>Track 03: <br/><span class="bigfont">tutkimuksen IT</span></th><th>Track 04:<br/> <span class="bigfont">bitti ja rauta</span></th><th>Track 05: <br/><span class="bigfont">tietohallinto</th></tr></thead>
 <tbody>
 <!--First row-->
 	<tr>
@@ -22,10 +22,10 @@ pageOrder: '1'
 		</tr>
 <!--Second row-->
 		<tr>
-			<td><p class="time">1030</p></td>
+			<td><p class="time">1040</p></td>
 
 			<td class="startcell">
-				<div>1030>1130
+				<div>1040>1140
 				<h3>Ratkaisukonsultointia yksiköille<br/> IT-hankkeissa</h3>
 				<ul>
 					<li>Tietojärjestelmähankintojen tukipalvelun järjestäminen</li>
@@ -45,7 +45,7 @@ pageOrder: '1'
 			</td>
 
 			<td class="startcell"> 
-				<div>1030>1130<h3>Docker - kevyempää virtualisointia </h3>
+				<div>1040>1140<h3>Docker - kevyempää virtualisointia </h3>
 				<b><a href="https://www.docker.com/">Docker</a></b> on Linux-käyttöjärjestelmille tehty sovelluspaketointi ja
 ajoympäristö. Se mahdollistaa sovelluksen rippuvuuksien tallentamisen
 yhteen pakettiin sovelluksen kanssa ja sen helpon siirrettävyyden
@@ -57,11 +57,11 @@ toimintaa ja kokemuksia sen käytöstä.
 			</td>
 
 			<td class="startcell">
-				<div>1030>1130
+				<div>1040>1140
 				<h3>Datan merkitys tieteelle ja tutkimukselle, suurin mullistus sitten internetin?</h3></div>
 			</td>
 
-			<td class="startcell"><div>1030>1130 
+			<td class="startcell"><div>1040>1130 
 			<h3>KATe2 varmistuspalvelu - tekninen arkkitehtuuri ja ratkaisut</h3>
 			<h3></h3>
 			<div class="hashtags">#KATe2</div>
@@ -73,7 +73,7 @@ toimintaa ja kokemuksia sen käytöstä.
 			</td>
 
 			<td class="startcell">
-				<div>1030>1130
+				<div>1040>1140
 				<h3>Ajankohtaista korkekoulujen IT:ssä</h3>
 				<ul>
 				<li>Hankintadirektiivi 2016: mikä muuttuu?</li>
@@ -90,7 +90,7 @@ toimintaa ja kokemuksia sen käytöstä.
 <!--Third row-->
 
 	<tr class="lunch">
-			<td><p class="time">1130</p></td>
+			<td><p class="time">1140</p></td>
 
 			<td class="lounas"><img class="icon" src="../images/icons/lautanen_kelt.png" >LOUNAS</td>
 
@@ -107,6 +107,8 @@ toimintaa ja kokemuksia sen käytöstä.
 
 			<td class="startcell">
 				<div>1245>1345
+				<h3>Lighting talk: kuulumisia projektitoiminnan SIG-ryhmästä (5min)</h3>
+				<div class="speaker">Maarit Rapio-Kallio, Helsingin yliopisto, tietotekniikkakeskus</div>
 				<h3>Projektitoimistot korkeakouluissa. Case Aalto-yliopiston IT</h3>
 				<ul>
 					<li>Kuinka projektitoimistot auttavat korkeakoulujen IT-toimintojen hallintaa?</li>
@@ -190,7 +192,7 @@ toimintaa ja kokemuksia sen käytöstä.
 				<h3>Työasemaylläpidon iltapäivä: Mac-ylläpidon sessio </h3>
 				<p> Esityksessä käydään läpi teknisellä tasolla Jyväskylän yliopiston mac-ylläpidon tärkeimmät työkalut ja syyt näiden valintojen takana. Esityksessä mukana Munki, Puppet- asiaa sekä nykyaikaisen asiakaslähtöisen  Mac-ylläpidon parhaita käytäntöjä.</p>
 				<div class="speaker">Hannes Juutilainen, Jyväskylän yliopisto
-				<div class="hashtags">#mobile</div>
+				<div class="hashtags">#munki #työasemaylläpito</div>
 				</div>
 			</td>
 
@@ -336,11 +338,18 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 
 			<td class="startcell"> 
 			<div>0915>1030
-			<h3> SOA-arkkitehtuurin soveltaminen <a href="http://martinfowler.com/articles/microservices.html">mikropalveluarkkitehtuurina</a></h3>
+			<h3> SOA-arkkitehtuurin soveltaminen <a href="http://martinfowler.com/articles/microservices.html">mikropalveluarkkitehtuurina</a></h3><p>Jyväskylän yliopisto rakentaa pienten palveluiden muodostamaa polygot
+arkkitehtuuria. Monoliittisesta Korppi-järjestelmästä on alettu siirtymään
+kohti SOAa ja mikropalveluarkkitehtuuria. Järjestelmäintegraatiot on
+rakennettu pitkälti ZeroMQ, RabbitMQ:n ja MessagePackin varaan yleisemmin
+käytössä olevien OSGin ja HTTP:n sijaan. Miten kaikki toimii ja mitä
+käytetyt tekniikat ovat? Miltä toteutettu arkkitehtuuri näyttää tänään ja
+miltä sen on tarkoitus näyttää huomenna?</p>
 			</div>
 			<div class="hashtags">#soa #arkkitehtuuri
 				</div>
-			<div class="speaker">Panu Wetterstrand, järjestelmäsuunnittelija</div>
+			<div class="speaker">Panu Wetterstrand, järjestelmäsuunnittelija, Jyväskylän yliopisto</div>
+<div class="uusislot"><h3>TBA (20min)</h3></div>
 			</td>
 
 			<td class="startcell">
@@ -355,7 +364,8 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 
 			<td class="startcell">
 				<div>0915>1030
-				<h3>Hakuratkaisun anatomia - kurkistus pellin alle</h3>
+				<h3>ONNISTUNEITA TEKNISIÄ PROJEKTEJA TEKNISELLÄ OTTEELLA:</h3>
+				<h3>Hakuratkaisun anatomia - kurkistus pellin alle (20min)</h3>
 <ul>
 	<li> HY:n open source-pohjalle tehdyn uuden hakukoneratkaisun esittely ja arkkitehtuuri.</li>
 	<li>Puheenvuorossa katsastetaan Solr:iin perustuva ratkaisu teknisestä näkökulmasta.</li>
@@ -363,8 +373,9 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 </ul>
 </div>
 <div class="hashtags">#solr #nutch #hakukone</div>
+<div class="uusislot"><h3>Integraatiopalvelu HY:llä  (20min)</h3><div class="hashtags">#esb #servicemix #opendata</div></div>
 <div class="uusislot">
-			<h3>Konesalin uusimisprojektin anatomia</h3>
+			<h3>Konesalin uusimisprojektin anatomia (30min)</h3>
 				Tampereen konesaliprojektin teknisen näkökulman ja projektin esittelyä. 
 	<div class="speaker">Tuure Vartiainen ja Juha Nisso, Tampereen teknillinen yliopisto</div>
 	<div class="hashtags">#konesali</div>
@@ -476,8 +487,8 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 				Helsingin yliopiston IAM-hankkeen IdM-ratkaisun teknistä puolta sekä Turun yliopiston vastaavan hankkeen arkkitehtuuria selvitetään tässä sessiossa. 
 			</div><div class="speaker">Tuomas Honkala, Turun yliopisto, Timo Hatakka, Helsingin yliopisto</div><div class="hashtags">#idm</div>
 		</td>
-<td class="startcell"><div>1230>1400<h3>Emootiot konsortiohankkeissa</h3></div><div class="speaker">Riitta Hekkala, Aalto yliopisto</div>
-			<div class="hashtags"></div><div><h3>+ Lightning talk: TBA (30min)</h3></div></td>
+<td class="startcell"><div>1230>1400<h3>Emootiot konsortiohankkeissa (30min)</h3></div><div class="speaker">Riitta Hekkala, Aalto yliopisto</div>
+			<div class="hashtags"></div><div class="uusislot"><h3>Avoimen datan strategia</h3><p>Datavarantojen avaamisen hyödyistä ja avoimuudesta on jo keskusteltu ja sitä suositeltu. Kuinka käytännössä organisaation kannattaa avoimen datan strategiansa toteuttaa? Miten tietohallinnossa edetään siitä hetkestä, kun korkeakoulu on datansa päättänyt avata?</p><div class="hashtags">#opendata #strategia</div></div></td>
 		
 
 	</tr>
