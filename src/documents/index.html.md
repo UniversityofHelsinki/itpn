@@ -20,7 +20,7 @@ pageOrder: '0'
 			<div id="first">
 				</div>
 				<h2>
-				IT-päivien puhujia julkaistu ja ohjelmaa päivitetty!
+				IT-päivien puhujia julkaistu ja <br/> ohjelmaa päivitetty!
 				</h2>
 				<p>
 				Ensimmäisiä IT-päivien puhujia on nyt julkaistu. Iloksemme saamme kertoa keynote-puhujaksi saapuvan Linda Liukkaan. 
