@@ -6,10 +6,10 @@ ingress: 'Kutsu näytteilleasettjille sekä tärkeää tietoa näyttelyn käytä
 ---
 #IT PÄIVÄT 2014 4.-5.11. NÄYTTELY
 <img class="nostokuva" src="../images/sponsori_v01.png" >
-##Kutsu näytteilleasettajille
+##Tietoa näytteilleasettajille
 It-päivät on kaksipäiväinen konferenssi, jonka tarkoitus on edistää korkeakoulujen yhteistyötä ja tiedonvaihtoa. Tarkoitus on siis sekä päivittää tietoutta, keskustella ja väitelläkin ajankohtaisista aiheista sekä verkostoitua niin korkeakoulujen, kuin toimittajienkin suuntaan.
 
-IT-päivät tarjoaa erinomaisen mahdollisuuden tuoda omaa osaamistaan esille. Messuständien ohella voitte osallistua ohjelmaan monin eri tavoin. Voimme räätälöidä juuri yrityksellenne sopivan paketin. Odotamme tapahtumaan 600-700 osallistujaa.
+IT-päivät tarjoaa erinomaisen mahdollisuuden tuoda omaa osaamistaan esille. Messuständien ohella voitte osallistua ohjelmaan monin eri tavoin. 
 
 Tervetuloa mukaan Korkeakoulujen IT-päiville 2014 näytteilleasettajana – käytä hyväksi tilaisuus tavata korkeakoulujen päättäjät ja asiantuntijat kasvokkain kahden päivän aikana.
 
@@ -28,24 +28,13 @@ Sähkö 114 € +  alv 24% = 150 €
 
 Lippuja iltajuhlaan  100 € + alv. / lippu (ravintola Apollo) = 124  € 
 
-## Pysäköinti:
-Asiakaspysäköintialueella (ulkopaikat) 15 € / ruutu / vrk
-
-Hotellin parkkihalli 25 € / ruutu / vrk
-
-Näytteilleasettajat vastaavat itse oman osastonsa rakentamisesta ja sisustamisesta. 
-
-**Huom!** Scandic Oy:llä / Marina Congress Centerillä on yksinoikeus ravintolatoimintaan. Näytteilleasettajat saavat tuoda omalla logolla varustettuja makeisia, mutta kaikki muut makeiset ja tarjoilut  tilataan Marina Congress Centerin kautta. 
-Tarjoilut varataan noin 1,5 kk ennen kongresssia erillisen linkin kautta joka lähetetään kaikille osaston varanneille.
 
 ## Osaston varaus ja laskutus
 
 Osasto ja sähkö varataan sähköisen lomakkeen kautta http://it2014.fi/ilmoittaudu.html (klikkaa nappia "ilmoittaudu") ja valitsemalla "yhteistyökumppani" ensimmäiseltä sivulta mielellään 15.9. 2014 mennessä .
 Mikäli tilaat ylimääräisiä illallislippuja ja ruokailijalla on ruoka-aine-allergia, ilmoitatko ystävällisesti Huom. kentässä ruokailijan nimen sekä allergian, jotta voimme informoida ruokapalveluiden tuottajaa. 
 
-Maksun voi suorittaa verkkopankissa, luottokortilla, tai laskulla. Varausvaiheessa laskutetaan 45 % osaston hinnasta. 
-Loppumaksu laskutetaan noin 1,5 - 2 kk  ennen tapahtumaa. Laskutus voi tapahtua pyynnöstänne myös yhdessä erässä.
-
+Maksun voi suorittaa verkkopankissa, luottokortilla, tai laskulla. Varausvaiheessa laskutetaan 45 % osaston hinnasta, jolloin loppumaksu laskutetaan noin 1,5 kk ennen tapahtumaa. Laskutus voi tapahtua halutessanne erässä. Valinnan voi tehdä lomakkeella.
 Peruutusehdot: Mikäli näyttelyvaraus peruutetaan, varausmaksua ei palauteta. Näytteilleasettajan peruessa osallistumisensa 4.9.2014 tai sen jälkeen, peritään kaikki maksut täysimääräisenä. Peruutus on tehtävä kirjallisesti (sähköpostitse): info@meetingsmill.fi.
 
 Ilmoittautuminen osallistujaksi tapahtumaan: Muiden kuin näyttelyosaston hintaan sisältyvien näytteilleasettajien osallistumisesta peritään tapahtuman normaali osallistumismaksu ja ilmoittautuminen tapahtuu lomakkeen kautta normaalisti.
@@ -65,4 +54,14 @@ Standit tulevat sijaitsemaan Europea-salin edessä olevassa lämpiössä, sekä 
 <br/>
 
 <a href="http://www.marinacongresscenter.com/DowebEasyCMS/Sivusto/Kuvat/Kuvat2014/Pohjakuva-marina-congress-center.jpg"><img src="/images/pohjakartta.jpg" width="400"></a>
+
+## Pysäköinti:
+Asiakaspysäköintialueella (ulkopaikat) 15 € / ruutu / vrk
+
+Hotellin parkkihalli 25 € / ruutu / vrk
+
+Näytteilleasettajat vastaavat itse oman osastonsa rakentamisesta ja sisustamisesta. 
+
+**Huom!** Scandic Oy:llä / Marina Congress Centerillä on yksinoikeus ravintolatoimintaan. Näytteilleasettajat saavat tuoda omalla logolla varustettuja makeisia, mutta kaikki muut makeiset ja tarjoilut  tilataan Marina Congress Centerin kautta. 
+Tarjoilut varataan noin 1,5 kk ennen kongresssia erillisen linkin kautta joka lähetetään kaikille osaston varanneille.
 
