@@ -25,9 +25,12 @@ Hintaan sisältyy:
 
 Lisätilauksesta:
 Sähkö 114 € +  alv 24% = 150 €
+Sähkön voi tilata ilmoittautumisen yhteydessä ilmoittautumislomakkeella tai jälkikäteen  info@meetingsmill.fi. 
 
 Lippuja iltajuhlaan  100 € + alv. / lippu (ravintola Apollo) = 124  € 
+Liput voi ostaa ilmoittautumisen yhteydessä ilmoittautumislomakkeella tai jälkikäteen  info@meetingsmill.fi. 
 
+**Huom!** Yhteistyökumppaneille kuuluu kaksi lippua iltajuhlaan veloituksetta. Lisälippuja voi ostaa ilmoittautumislomakkeella tai jälkikäteen  info@meetingsmill.fi
 
 ## Osaston varaus ja laskutus
 

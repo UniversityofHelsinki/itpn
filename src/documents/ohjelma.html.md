@@ -399,7 +399,11 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 
 			<td class="startcell">
 			<div>1030>1130
-				<div>
+				<div><h3>Tuotekeskeisesta palvelusta asiakaskeskeiseen palveluun</h3>
+			<div class="speaker">Tommi Lamminsalo, Aalto yliopisto, toinen puhuja Digia Oyj</div>
+				<div class="hashtags">#asiakaskeskeisyys #palvelunhallinta</div>
+			</div>
+				<div class="uusislot">
 				<h3>Exam-projekti: moderni tenttiakvaario korkeakouluille</h3>
 				<ul>
 					<li>Yhteistyössä kymmenen korkeakoulun kanssa rakennettava exam-työkalu tarjoaa modernin teknologiansa ansiosta paljon kehityspotentiaalia.</li>
@@ -464,13 +468,11 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 					<div class="speaker">Jere Majava</div>
 					<div class="hashtags">#moocs #palvelut</div>
 			</td><td class="startcell">
-<div>1230>1400<h3>Tietokantasessio</h3>
+<div>1230>1400<h3>Laiteriippumaton sovelluskehitys Qt:llä</h3>
 <ul>
-	<li>Graafikannat?</li>
-	<li>Muita ehdotuksia? Laita toiveita info at it2014.fi</li>
-	
+	<li>Tässä **hands on-sessiossa** käydään läpi, kuinka Qt:llä sovelluskehitys sujuu ja kuinka kerran kirjoitettu ohjelmakoodi voidaan ajaa alustariippumattomasti eri alustoilla (iOS, Android, Windows).</li>
 </ul>
-</div><div class="speaker"></div><div class="hashtags">#db #datomic #neo4j</div>
+</div><div class="speaker">Digia Oyj</div><div class="hashtags">#qt #mobiiliikehitys #crossplatform</div>
 			</td><td class="startcell">
 	<div>1230>1400<h3>Tietoturva, arkkitehtuuri ja tutkimuksen IT</h3>
 		<ul><li>Kokonaisarkkitehtuuri ja tutkimus, kuinka käy tietohallinnolta rock'n'roll</li>
