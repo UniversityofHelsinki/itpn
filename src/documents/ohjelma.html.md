@@ -109,7 +109,7 @@ toimintaa ja kokemuksia sen käytöstä.
 				<div>1245>1345
 				<h3>Lighting talk: kuulumisia projektitoiminnan SIG-ryhmästä (5min)</h3>
 				<div class="speaker">Maarit Rapiokallio, Helsingin yliopisto, tietotekniikkakeskus</div>
-				<h3>IT:n projektitoimistot korkeakouluissa. Case Aalto-yliopiston IT</h3>
+				<h3>Projektitoimistot korkeakouluissa: case Aalto IT:n projektitoimisto</h3>
 				<ul>
 					<li>Kuinka projektitoimistot auttavat korkeakoulujen IT-toimintojen hallintaa?</li>
 					<li>Miten hallinoida työkokokonaisuuksia ja resursseja IT-investointien elinkaarimallin avulla?</li>
@@ -156,7 +156,14 @@ toimintaa ja kokemuksia sen käytöstä.
 				<div><h3>Pääyhteistyökumppanin puheenvuoro: Tiedolla johtaminen ja yhteentoimivuus korkeakouluissa Cerion  Solutions Oy</h3></div>
 <div class="speaker"> Vilho Kolehmainen, Cerion  Solutions Oy
 				</div>
-<div><br/><h3>Lightning talk: TBA (15min)</h3></div>
+<div class="uusislot"><br/>	<h3>Teknologia-arkkitehtuuri yliopistoilla</h3>
+				<ul>
+					<li>Kuinka (ja miksi) TA-periaatteet luodaan?</li>
+					<li>Kuinka samalla varmistutaan siitä, että käytetään moderneja teknologioita ja seurataan kehitystä?</li>
+				</ul>
+<div class="speaker">Ville Tenhunen, Helsingin yliopisto
+				</div>
+</div>
 			</td>
 	
 </tr>
@@ -382,15 +389,18 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 </td>	
 			<td class="startcell">
 				<div>0915>1030
-				<h3>Teknologia-arkkitehtuuri yliopistoilla</h3>
-				<ul>
-					<li>Kuinka (ja miksi) TA-periaatteet luodaan?</li>
-					<li>Kuinka samalla varmistutaan siitä, että käytetään moderneja teknologioita ja seurataan kehitystä?</li>
-				</ul>
-				</div>
 				<div class="speaker"></div>
-				<div class="hashtags"></div><div class="uusislot"><h3>Mobiliteetti ja mobiilistrategia liiketoiminnan kehittäjänä</h3><p>Johtaminen, liiketoiminta ja työnteko muuttuu päivä päivältä mobiilimmaksi. Onko strategiasi  mobiliteettia varten valmis ja osaatko sen avulla luoda uutta liiketoimintaa?</p><div class="speaker">Pete Nieminen, Atea Finland</div></div>
-			</td>
+				<div class="hashtags"></div><div><h3>Mobiliteetti ja mobiilistrategia liiketoiminnan kehittäjänä</h3>
+<ul>
+	<li>Johtaminen, liiketoiminta ja työnteko muuttuu päivä päivältä mobiilimmaksi. Kuinka strategiaa mobiliteettia varten voi suunnitella?</li>
+</ul>
+<div class="speaker">Pete Nieminen, Atea Finland</div></div>
+</div><div class="uusislot"><h3>Avoimen datan strategia</h3>
+<ul>
+	<li>Datavarantojen avaamisen hyödyistä ja avoimuudesta on jo keskusteltu ja sitä suositeltu. Kuinka käytännössä organisaation kannattaa avoimen datan strategiansa toteuttaa?</li>
+	<li>Miten tietohallinnossa edetään siitä hetkestä, kun korkeakoulu on datansa päättänyt avata?</li>
+</ul><div class="hashtags">#opendata #strategia</div></div>			</div>
+</td>
 		
 	</tr>
 
@@ -489,7 +499,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 			</div><div class="speaker">Tuomas Honkala, Turun yliopisto, Timo Hatakka, Helsingin yliopisto</div><div class="hashtags">#idm</div>
 		</td>
 <td class="startcell"><div>1230>1400<h3>Emootiot konsortiohankkeissa (30min)</h3></div><div class="speaker">Riitta Hekkala, Aalto yliopisto</div>
-			<div class="hashtags"></div><div class="uusislot"><h3>Avoimen datan strategia</h3><p>Datavarantojen avaamisen hyödyistä ja avoimuudesta on jo keskusteltu ja sitä suositeltu. Kuinka käytännössä organisaation kannattaa avoimen datan strategiansa toteuttaa? Miten tietohallinnossa edetään siitä hetkestä, kun korkeakoulu on datansa päättänyt avata?</p><div class="hashtags">#opendata #strategia</div></div></td>
+			<div class="hashtags"></div><div class="uusislot"><h3>Tietoturvasessio: kohdennetut hyökkäykset</h3><p></p><div class="hashtags">#titu</div></div><div class="speaker">Tomi Tuominen, nSense</div></div></td>
 		
 
 	</tr>
