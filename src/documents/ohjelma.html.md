@@ -61,7 +61,7 @@ toimintaa ja kokemuksia sen käytöstä.
 				<h3>Datan merkitys tieteelle ja tutkimukselle, suurin mullistus sitten internetin?</h3></div>
 			</td>
 
-			<td class="startcell"><div>1040>1130 
+			<td class="startcell"><div>1040>1140 
 			<h3>KATe2 varmistuspalvelu - tekninen arkkitehtuuri ja ratkaisut</h3>
 			<h3></h3>
 			<div class="hashtags">#KATe2</div>
@@ -108,8 +108,8 @@ toimintaa ja kokemuksia sen käytöstä.
 			<td class="startcell">
 				<div>1245>1345
 				<h3>Lighting talk: kuulumisia projektitoiminnan SIG-ryhmästä (5min)</h3>
-				<div class="speaker">Maarit Rapio-Kallio, Helsingin yliopisto, tietotekniikkakeskus</div>
-				<h3>Projektitoimistot korkeakouluissa. Case Aalto-yliopiston IT</h3>
+				<div class="speaker">Maarit Rapiokallio, Helsingin yliopisto, tietotekniikkakeskus</div>
+				<h3>IT:n projektitoimistot korkeakouluissa. Case Aalto-yliopiston IT</h3>
 				<ul>
 					<li>Kuinka projektitoimistot auttavat korkeakoulujen IT-toimintojen hallintaa?</li>
 					<li>Miten hallinoida työkokokonaisuuksia ja resursseja IT-investointien elinkaarimallin avulla?</li>
@@ -267,10 +267,9 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 				<div>1530>1630
 				<h3>Työasemaylläpidon iltapäivä jatkuu</h3>
 				<ul>
-					<li>Mobiililaitteiden etähallinta- Atea Finlandin ratkaisu, jossa byod ja vapaus keskiössä</li>
 	 				<li>Työasemien virtualisointi - onnistunut VDI-projekti</li>
 				</ul>		
-				<div class="speaker"> Olli Kinnunen, Pete Nieminen, Atea Finland
+				<div class="speaker"> Olli Kinnunen Atea Finland
 				</div>
 				<div class="hashtags">#mobile #vdi #virtualisointi</div>
 				</div>
@@ -390,7 +389,7 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 				</ul>
 				</div>
 				<div class="speaker"></div>
-				<div class="hashtags"></div><div><h3>+Lighting-talk, TBA (15min) </h3></div>
+				<div class="hashtags"></div><div class="uusislot"><h3>Mobiliteetti ja mobiilistrategia liiketoiminnan kehittäjänä</h3><p>Johtaminen, liiketoiminta ja työnteko muuttuu päivä päivältä mobiilimmaksi. Onko strategiasi  mobiliteettia varten valmis ja osaatko sen avulla luoda uutta liiketoimintaa?</p><div class="speaker">Pete Nieminen, Atea Finland</div></div>
 			</td>
 		
 	</tr>
