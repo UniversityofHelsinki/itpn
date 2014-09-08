@@ -407,13 +407,22 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 			<td><p class="time">1030</p></td>
 
 			<td class="startcell">
-			<div>1030>1130
-				<div><h3>Tuotekeskeisesta palvelusta asiakaskeskeiseen palveluun</h3>
+			<div>1030>1200
+				<div><h3>Tuotekeskeisesta palvelusta asiakaskeskeiseen palveluun (30min)</h3>
 			<div class="speaker">Tommi Lamminsalo, Aalto yliopisto, toinen puhuja Digia Oyj</div>
 				<div class="hashtags">#asiakaskeskeisyys #palvelunhallinta</div>
 			</div>
+			<div class="uusislot">
+				<h3>Keskitetty Helpdesk-palvelu (30min)</h3>
+<ul>
+	<li>Miksi HY päätyi Helpdesk-toiminnassaan kampuksille hajautetun mallin sijaan keskitettyyn vaihtoehtoon?</li>
+	<li>Minkälaisia kokemuksia keskitetty Helpdesk-toiminta on kerryttänyt?</li>
+	
+</ul>
+<div class="speaker">Laura Pesola ja Pekka Rundgren, Helsingin yliopisto</div>
+			</div>
 				<div class="uusislot">
-				<h3>Exam-projekti: moderni tenttiakvaario korkeakouluille</h3>
+				<h3>Exam-projekti: moderni tenttiakvaario korkeakouluille (30min)</h3>
 				<ul>
 					<li>Yhteistyössä kymmenen korkeakoulun kanssa rakennettava exam-työkalu tarjoaa modernin teknologiansa ansiosta paljon kehityspotentiaalia.</li>
 					<li>Tule kuuntelemaan Examin kuvausta ja konseptia ja tutustu myös demoluokkaan IT-päivillä!</li>
@@ -424,21 +433,24 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 				<div class="speaker">Sari Koski-Kotiranta, Helsingin yliopisto, opetusteknologiakeskus</div>
 				<div class="hashtags">#tenttiakvaario</div>
 			</div>
+<div class="uusislot">
+				<h3>TBA (30min)</h3>
+</div>
 			</td>
 
 			<td class="startcell">
-				<div>1030>1130
+				<div>1030>1200
 				<h3>Kokonaisarkkitehtuuri käytännön työssä: kuinka  periaatteet näkyvät kehittäjän arjessa?</h3>
 				</div>
 				<div class="speaker"></div>
 				<div class="hashtags">#ka #ketteryys</div><div><h3>+Lighting-talk, TBA (15min) </h3></div>
 			</td>
 
-			<td class="startcell">1030>1130<h3>Kansalliset tutkimusdatan palvelut</h3>
+			<td class="startcell">1030>1200<h3>Kansalliset tutkimusdatan palvelut</h3>
 <ul><li> Suurteholaskennan uudet koneet</li><li>Tutkimusdatan tallentamisen kansalliset välineet: IDA, PAS, Kata, REMS, AVAA</li></ul></div></td>
 
 			<td class="startcell">
-				<div>1030>1130<h3>Live Hacking</h3>
+				<div>1030>1200<h3>Live Hacking</h3>
 				Outpost24:n tietoturvakonsultti Paul Mynarsky näyttää kuinka hyödyntämällä
 tietojärjestelmissä olevia haavoittuvuuksia on mahdollista murtautua
 organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessioon osallistuneiden kesken arvotaan Outpost24:n ethical hacker-palvelu käyttöön päiväksi!
@@ -446,18 +458,27 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 			</td>
 
 			<td class="startcell">
-				<div>1030>1130
+				<div>1030>1200
 				<h3>Case Verohallinto: suuret järjestelmäuudistukset kokonaisarkkitehtuurin periaattein.</h3>
 				</div>
 				<div class="speaker">Markku Heikura, CIO, Verohallinto</div>
 				<div class="hashtags">#case #ka</div>
+				<div class="uusislot">
+				<h3>Lightning talks x2 (30min)</h3>
+				<ul>
+					<li>Eduix Oy 15min</li>
+					<li>TBA 15min</li>
+					
+				</ul>
+				
+				</div>
 			</td>
 		
 	</tr>
 
 
 		<tr class="lunch">
-			<td><p class="time">1130</p></td>
+			<td><p class="time">1200</p></td>
 
 			<td class="lounas"><img class="icon" src="../images/icons/lautanen_kelt.png" >LOUNAS</td>
 
@@ -470,20 +491,20 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 	</tr>
 
 		<tr>		
-			<td><p class="time">1230</p></td><td class="startcell">
-					<div>1230>1400<h3>Opetusteknologian iltapäivä</h3></div><ul>
+			<td><p class="time">1300</p></td><td class="startcell">
+					<div>1300>1430<h3>Opetusteknologian iltapäivä</h3></div><ul>
 						<li> Sessiossa nostetaan kolmen eri teeman kautta parhaiten menestyneitä, isoimmin flopanneita, unholaan jo jääneitä tai edelleen vahvasti porskuttavia opetusteknologian palveluita, strategioita sekä ilmiöitä.</li>
 					</ul>
 					<div class="speaker">Jere Majava</div>
 					<div class="hashtags">#moocs #palvelut</div>
 			</td><td class="startcell">
-<div>1230>1400<h3>Laiteriippumaton sovelluskehitys Qt:llä</h3>
+<div>1300>1430<h3>Laiteriippumaton sovelluskehitys Qt:llä</h3>
 <ul>
 	<li>Tässä **hands on-sessiossa** käydään läpi, kuinka Qt:llä sovelluskehitys sujuu ja kuinka kerran kirjoitettu ohjelmakoodi voidaan ajaa alustariippumattomasti eri alustoilla (iOS, Android, Windows).</li>
 </ul>
 </div><div class="speaker">Digia Oyj</div><div class="hashtags">#qt #mobiiliikehitys #crossplatform</div>
 			</td><td class="startcell">
-	<div>1230>1400<h3>Tietoturva, arkkitehtuuri ja tutkimuksen IT</h3>
+	<div>1300>1430<h3>Tietoturva, arkkitehtuuri ja tutkimuksen IT</h3>
 		<ul><li>Kokonaisarkkitehtuuri ja tutkimus, kuinka käy tietohallinnolta rock'n'roll</li>
 		<li>Tutkijan sähköinen identiteetti Suomessa, näin se käy</li>
 		<li>Tutkimusdata ja tietoturva, henkilödatan suojaaminen</li>
@@ -492,12 +513,12 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 	#ka #titu
 	</div>
 </td>
-<td class="startcell"><div>1230>1400
+<td class="startcell"><div>1300>1430
 				<h3>IdM: kaksi ratkaisua</h3>
 				Helsingin yliopiston IAM-hankkeen IdM-ratkaisun teknistä puolta sekä Turun yliopiston vastaavan hankkeen arkkitehtuuria selvitetään tässä sessiossa. 
 			</div><div class="speaker">Tuomas Honkala, Turun yliopisto, Timo Hatakka, Helsingin yliopisto</div><div class="hashtags">#idm</div>
 		</td>
-<td class="startcell"><div>1230>1400<h3>Emootiot konsortiohankkeissa (30min)</h3></div><div class="speaker">Riitta Hekkala, Aalto yliopisto</div>
+<td class="startcell"><div>1300>1430<h3>Emootiot konsortiohankkeissa (30min)</h3></div><div class="speaker">Riitta Hekkala, Aalto yliopisto</div>
 			<div class="hashtags"></div><div class="uusislot"><h3>Tietoturvasessio: kohdennetut hyökkäykset</h3>
 Puheenvuoro sisältää ajankohtaista tietoa kohdistetuista hyökkäyksistä:
 <ul>
@@ -511,7 +532,7 @@ Puheenvuoro sisältää ajankohtaista tietoa kohdistetuista hyökkäyksistä:
 
 	</tr>
 <tr>
-<td><p class="time">1400</p></td>
+<td><p class="time">1430</p></td>
 <td class="lounas"><img class="icon" src="../images/icons/kaffe_kelt.png" >KAHVIA!</td>
 <td class="lounas"><img class="icon" src="../images/icons/kaffe_sin.png" >KAHVIA!</td>
 <td class="lounas"><img class="icon" src="../images/icons/kaffe_vihr.png" >KAHVIA!</td>
@@ -520,12 +541,12 @@ Puheenvuoro sisältää ajankohtaista tietoa kohdistetuista hyökkäyksistä:
 </tr>
 
 <tr>
-<td><p class="time">1430</p></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1430>1530<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1430>1530<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1430>1530<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1430>1530<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1430>1530<h3>Keynote</h2><p>TBA</p></div></td>
+<td><p class="time">1500</p></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1430>1600<h3>Keynote</h2><p>TBA</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1430>1600<h3>Keynote</h2><p>TBA</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1430>1600<h3>Keynote</h2><p>TBA</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1430>1600<h3>Keynote</h2><p>TBA</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1430>1600<h3>Keynote</h2><p>TBA</p></div></td>
 		
 	</tr>
 
