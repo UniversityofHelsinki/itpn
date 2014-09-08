@@ -542,11 +542,11 @@ Puheenvuoro sisältää ajankohtaista tietoa kohdistetuista hyökkäyksistä:
 
 <tr>
 <td><p class="time">1500</p></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1430>1600<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1430>1600<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1430>1600<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1430>1600<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1430>1600<h3>Keynote</h2><p>TBA</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>TBA</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>TBA</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>TBA</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>TBA</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>TBA</p></div></td>
 		
 	</tr>
 
