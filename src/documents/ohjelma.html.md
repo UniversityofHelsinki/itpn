@@ -280,7 +280,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 				<div class="hashtags">#mobile #vdi #virtualisointi</div>
 				</div>
 				<div class="uusislot">
-				<h3>Haaga-Helian VDI-hankkeen esittely </h3>
+				<h3>HAAGA-HELIA VDI - taustaa, tekniikkaa ja tulevaisuutta </h3>
 				 Tässä teknisessä puheenvuorossa käydään läpi onnistuneen VDI-ratkaisua. 
 				<div class="speaker">järjestelmäasiantuntija Antero Kalliomäki, Haaga-Helia</div>
 				<div class="hashtags">#vdi</div>
@@ -453,8 +453,8 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 				<div>1030>1200<h3>Live Hacking</h3>
 				Outpost24:n tietoturvakonsultti Paul Mynarsky näyttää kuinka hyödyntämällä
 tietojärjestelmissä olevia haavoittuvuuksia on mahdollista murtautua
-organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessioon osallistuneiden kesken arvotaan Outpost24:n ethical hacker-palvelu käyttöön päiväksi!
-			</div><div class="hashtags">#titu #hacking </div>
+organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessioon osallistuneiden kesken arvotaan <a href="http://www.outpost24.com/connect/blog/">Outpost24:n</a> ethical hacker-palvelu käyttöön päiväksi!
+			</div><div class="hashtags">#titu #hacking <a href="http://www.outpost24.com">#outpost24</a></div>
 			</td>
 
 			<td class="startcell">

@@ -19,8 +19,8 @@ Näyttelytilat sijaitsevat keskeisellä paikalla Marina Congress Centerin I ja I
 Standin hinta on 2700 + alv 24 % (4m2). 
 Hintaan sisältyy:
 * pöytä ja tuoli (pöytä 70 x 140 cm ilman pöytäliinaa)
-* osallistuminen luennoille (2 näytteilleasettajaa)
-* ruoka-, ja kahvitarjoilun sekä nimikortit (2 näytteilleasettajaa)
+* osallistuminen luennoille (2 näytteilleasettajaa) -lisäosallistujat ostetteva erikseen tavallisina osallistujina!
+* ruoka-, ja kahvitarjoilun sekä nimikortit  ** kahdelle näytteilleasettajalle**
 * langaton verkkoyhteys 
 
 Lisätilauksesta:

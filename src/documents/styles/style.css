@@ -74,9 +74,18 @@ a:hover#menu-icon {
 
 }
 
+/*.nayt{
+	background-color:  #00ffff;
+	border-radius: 4px 4px 0 0;
+	margin: 10px;
+	padding: 10px;
+}*/
 
 	blockquote {
 	}
+
+.nayt{margin-bottom: 30px;}
+
 /*2. Layout rules
 ***************/
 

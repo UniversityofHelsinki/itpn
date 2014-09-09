@@ -16,22 +16,25 @@ pageOrder: '7'
 <p>IT-päivien järjestysvastuu kiertää Suomen korkeakouluilla. Vuoden 2014 IT-päivät järjestää [Helsingin yliopiston tietotekniikkakeskus](http://www.helsinki.fi/atk/tike/tike/index.html). </p>
 <p>Vuonna 2014 IT-päivät järjestetään Marina Congress Centerissä. <b>Iltajuhlaa</b> puolestaan vietetään 4.11 klo 19 alkaen Ravintola Apollo Live Clubilla 4.11. klo 19.00 , osoitteessa Mannerheimintie 16. Iltajuhlassa luvassa musiikkia, ruokailua ja verkostoitumista. Tarkemmin ohjelma iltajuhlaan ilmoitetaan syksyn kuluessa. </p>
 <h1>Tietoa käytännön järjestelyistä</h1>
-
+<div class="nayt">
+<p><h2>Näytteilleasettaja?</h2> Lue [täältä](http://it2014.fi/uutiset/kutsu_naytteilleasettajille.html) käytännön ohjeita IT-päivien näyttelyn suhteen! </p>
+<h3> Sponsoriksi tai mukaan näytteilleasettajaksi?</h3>
+Lue [täältä](http://it2014.fi/uutiset/yhteistyokumppaniksi.html), kuinka voit päästä mukaan yhteistyökumppaniksi ja ota yhteyttä info at it2014.fi sopiaksesi yrityksellesi sopivasta tavasta olla mukana! </div>
 <h1>Liput</h1>
 Lipunmyynti on aloitettu! Lippujen hinnat ovat seuraavat:
-<h3>Early bird, ilmoittauduttu 31.8.2014 mennessä:</h3>
+<strike><h3>Early bird, ilmoittauduttu 31.8.2014 mennessä:</h3>
 <ul>
 <li> Kahden päivän lippu, sisältäen iltajuhlan 350e sis. alv</li>
 <li>Yhden päivän lippu sisältäen iltajuhlan 250e sis alv </li>
 <li>Pelkkä iltajuhlalippu (esim. avec-lippu tai lippu yhteistyökumppaneille) 99,20e sis alv</li>
-</ul>
+</ul></strike>
 <h3>Tavallinen lippu, ilmoittauduttu 31.8.2014 jälkeen</h3>
 <ul><li> Kahden päivän lippu, sisältäen iltajuhlan 400e sis. alv</li>
 <li>  Yhden päivän lippu sisältäen iltajuhlan 300e sis alv</li>
 <li>  Pelkkä iltajuhlalippu (esim. avec-lippu tai lippu yhteistyökumppaneille) 100e sis alv</li>
 </ul>
 <div id="ilmoittaudu"><a href="https://ilmo.contio.fi/meetingsmill/main.aspx?id=103" target="_blank"><img src="../images/ilmo.png" width="150" height="42"></a></div>	
-<h2>Majoitus</h2>
+<h1>Majoitus</h1>
 Majoitusyhteistyökumppanina vuoden 2014 IT-päivissä on Scandic Grand Marina. Hotelli tarjoaa tilaisuuden yhteyteen tasokasta majoitusta edulliseen hintaan.  
 <ul>
 <li>  129e, yhden hengen huone/vrk </li>
