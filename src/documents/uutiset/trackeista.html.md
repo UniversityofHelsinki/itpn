@@ -2,7 +2,7 @@
 layout: 'news2'
 title: 'Trackit - mitä ihmettä?'
 date: 2014-06-30
-ingress: ' Syksyllä 2013 aloitimme HY:llä konseptointityön aiheista, trackeistä ja puhujista. Kuulimme HY:llä eri ryhmiä, edellisvuosien järjestäjiä ja muita kiinnostuneita. Haluatko sinä olla mukana IT-päivillä? Olisiko sinulla ideaa tai toivetta aiheesta?'
+ingress: ' Syksyllä 2013 aloitimme HY:llä konseptointityön aiheista, trackeistä ja puhujista. Kuulimme HY:llä eri ryhmiä, edellisvuosien järjestäjiä ja muita kiinnostuneita. '
 ---
 #Trackeistä
 Tämänvuotinen ohjelmarunko rakentuu niiden teemojen ympärille, joista me järjestäjät olemme eniten saaneet toiveita ja palautetta. Tarjolla onkin aiempaa enemmän asiaa konepellin alta, eli luvassa on runsaasti rautaisia aiheita myös teknologiaguruille.

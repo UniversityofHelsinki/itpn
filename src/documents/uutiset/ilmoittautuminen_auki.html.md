@@ -2,7 +2,7 @@
 layout: 'news2'
 title: 'Ilmoittautuminen avattu!'
 date: 2014-04-08
-ingress: 'Täältä pääset ilmoittautumaan tapahtumaan! Ilmoittautuminen on nyt avattu ja jatkuu 15.10.2014 saakka. IT-päivien ilmoittautumislomakkeen kautta voit ilmoittautua tapahtumaan. Ilmoita myös erikoisruokavaliosi ja ostaa lippuja iltajuhlaan avecillesi.'
+ingress: 'Täältä pääset ilmoittautumaan tapahtumaan! Ilmoittautuminen on nyt avattu ja jatkuu 15.10.2014 saakka. IT-päivien ilmoittautumislomakkeen kautta voit ilmoittautua tapahtumaan. '
 ---
 #Ilmoittautuminen ja lipunmyynti avattu!
 

@@ -1,6 +1,6 @@
 ---
 layout: 'news2'
-title: 'Tietoa näytteilleasettajille!'
+title: 'Tietoa näyttelystä!'
 date: 2014-04-14
 ingress: 'Kutsu näytteilleasettjille sekä tärkeää tietoa näyttelyn käytännön asioista.'
 ---

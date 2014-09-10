@@ -1,6 +1,6 @@
 ---
 layout: 'news2'
-title: 'Tervetuloa IT-päivien iltajuhlaan!'
+title: 'Tervetuloa iltajuhlaan!'
 date: 2014-09-01
 ingress: 'Iltajuhlassa 4.11 pistetään jalalla koreaksi, nostetaan malja IT:lle ja käydään jatkovääntöä päivän aiheista!'
 ---
