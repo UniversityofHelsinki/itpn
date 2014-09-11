@@ -45,15 +45,27 @@ pageOrder: '1'
 			</td>
 
 			<td class="startcell"> 
-				<div>1040>1140<h3>Docker - kevyempää virtualisointia </h3>
-				<b><a href="https://www.docker.com/">Docker</a></b> on Linux-käyttöjärjestelmille tehty sovelluspaketointi ja
+				<div>1040>1140<h3>Docker - kevyempää virtualisointia (30min) </h3>
+<ul>
+	<li><b><a href="https://www.docker.com/">Docker</a></b> on Linux-käyttöjärjestelmille tehty sovelluspaketointi ja
 ajoympäristö. Se mahdollistaa sovelluksen rippuvuuksien tallentamisen
 yhteen pakettiin sovelluksen kanssa ja sen helpon siirrettävyyden
-kehitys-ja tuotantoympäristöjen välillä. Esityksessä käydään läpi Dockerin
-toimintaa ja kokemuksia sen käytöstä.
+kehitys-ja tuotantoympäristöjen välillä.</li>
+	<li>Esityksessä käydään läpi Dockerin
+toimintaa ja kokemuksia sen käytöstä.</li>
+	
+</ul>
+
 				</div>
 				<div class="speaker">Jussi Talaskivi, järjestelmäsuunnittelija, Jyväskylän yliopisto</div>
 				<div class="hashtags">#työkalut #virtualisointi</div>
+				<div class="uusislot">
+					<h3> Joustava ohjelmistokehitysympäristö yhdistelmällä Docker+Vagrant+Nomachine (30min)</h3>
+					<ul>
+						<li>Esityksessä käydään läpi käytännön setup siitä, kuinka kehityskone (centos 6.5-pohjalla) luodaan usb-tikulta paketteineen ja asetuksineen niin, että kehittäjä ottaa vain yhteyden koneelle nomachinella. </li>
+						<li>Liian hyvää ollakseen totta? Tule kuuntelemaan!</li>
+					</ul>
+	</div><div class="speaker">Eduix oy</div>
 			</td>
 
 			<td class="startcell">
@@ -152,17 +164,16 @@ toimintaa ja kokemuksia sen käytöstä.
 
 			<td class="startcell">
 				<div>1245>1345
-				<div><h3>Pääyhteistyökumppanin puheenvuoro: Tiedolla johtaminen ja yhteentoimivuus korkeakouluissa Cerion  Solutions Oy</h3></div>
-<div class="speaker"> Vilho Kolehmainen, Cerion  Solutions Oy
-				</div>
-<div class="uusislot"><br/>	<h3>Teknologia-arkkitehtuuri yliopistoilla</h3>
-				<ul>
-					<li>Kuinka (ja miksi) TA-periaatteet luodaan?</li>
-					<li>Kuinka samalla varmistutaan siitä, että käytetään moderneja teknologioita ja seurataan kehitystä?</li>
-				</ul>
-<div class="speaker">Ville Tenhunen, Helsingin yliopisto
-				</div>
+				<div><h3>Pääyhteistyökumppanin puheenvuoro: Ketterät tietovarastot ratkaisuna muuttuviin tiedolla johtamisen tarpeisiin</h3>
+<ul>
+	<li>Miten korkeakoulujen tieto- ja raportointitarpeet muuttuvat?</li>
+	<li>Miten toimialan yhteisiä ratkaisuja voidaan hyödyntää tehokkaasti?</li>
+<li>Dynaaminen ja iteratiivinen kehittäminen - vastaus muuttuviin tietotarpeisiin</li>
+	
+</ul>
 </div>
+<div class="speaker">  Kim Johnsson, Cerion  Solutions Oy
+				</div>
 			</td>
 	
 </tr>
@@ -343,18 +354,13 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 
 			<td class="startcell"> 
 			<div>0915>1030
-			<h3> SOA-arkkitehtuurin soveltaminen <a href="http://martinfowler.com/articles/microservices.html">mikropalveluarkkitehtuurina</a></h3><p>Jyväskylän yliopisto rakentaa pienten palveluiden muodostamaa polygot
-arkkitehtuuria. Monoliittisesta Korppi-järjestelmästä on alettu siirtymään
-kohti SOAa ja mikropalveluarkkitehtuuria. Järjestelmäintegraatiot on
-rakennettu pitkälti ZeroMQ, RabbitMQ:n ja MessagePackin varaan yleisemmin
-käytössä olevien OSGin ja HTTP:n sijaan. Miten kaikki toimii ja mitä
-käytetyt tekniikat ovat? Miltä toteutettu arkkitehtuuri näyttää tänään ja
-miltä sen on tarkoitus näyttää huomenna?</p>
-			</div>
-			<div class="hashtags">#soa #arkkitehtuuri
-				</div>
-			<div class="speaker">Panu Wetterstrand, järjestelmäsuunnittelija, Jyväskylän yliopisto</div>
-<div class="uusislot"><h3>TBA (20min)</h3></div>
+<h3>Ohjelmistoturvallisuus modernissa ohjelmistotuotannossa (1h)</h3>
+			<ul>
+				<li>Turvallisen ohjelmistokehityksen aktiviteettien tekeminen näkyväksi on esiehto, jos niiden halutaan tapahtuvan modernissa ("ketterässä") projektissa. </li>
+				<li>Antti Vähä-Sipilä kertoo uhkamallinnuksen, tuoteomistajan ja testiautomaation pyhästä kolminaisuudesta ja mihin prosessin kompastuskiviin homma voi helpoiten kaatua. Teemana on  konkretisoida testiautomaatiota web-sovellusten perustason testauksen osalta.</li>
+			</ul>
+			<div class="speaker">Antti Vähä-Sipilä, F-Secure</div>
+<div class="uusislot"><h3>TBA (30min)</h3></div>
 			</td>
 
 			<td class="startcell">
@@ -440,10 +446,22 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 
 			<td class="startcell">
 				<div>1030>1200
-				<h3>Kokonaisarkkitehtuuri käytännön työssä: kuinka  periaatteet näkyvät kehittäjän arjessa?</h3>
+			<div><h3> SOA-arkkitehtuurin soveltaminen <a href="http://martinfowler.com/articles/microservices.html">mikropalveluarkkitehtuurina</a></h3><p>Jyväskylän yliopisto rakentaa pienten palveluiden muodostamaa polygot
+arkkitehtuuria. Monoliittisesta Korppi-järjestelmästä on alettu siirtymään
+kohti SOAa ja mikropalveluarkkitehtuuria. Järjestelmäintegraatiot on
+rakennettu pitkälti ZeroMQ, RabbitMQ:n ja MessagePackin varaan yleisemmin
+käytössä olevien OSGin ja HTTP:n sijaan. Miten kaikki toimii ja mitä
+käytetyt tekniikat ovat? Miltä toteutettu arkkitehtuuri näyttää tänään ja
+miltä sen on tarkoitus näyttää huomenna?</p>
+			</div>
+			<div class="hashtags">#soa #arkkitehtuuri
+				</div>
+			<div class="speaker">Panu Wetterstrand, järjestelmäsuunnittelija, Jyväskylän yliopisto</div>
+			</div>
+				<div class="uusislot"><h3>Kokonaisarkkitehtuuri käytännön työssä: kuinka  periaatteet näkyvät kehittäjän arjessa?</h3>
 				</div>
 				<div class="speaker"></div>
-				<div class="hashtags">#ka #ketteryys</div><div><h3>+Lighting-talk, TBA (15min) </h3></div>
+				<div class="hashtags">#ka #ketteryys</div></div>
 			</td>
 
 			<td class="startcell">1030>1200<h3>Kansalliset tutkimusdatan palvelut</h3>
@@ -464,14 +482,16 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 				<div class="speaker">Markku Heikura, CIO, Verohallinto</div>
 				<div class="hashtags">#case #ka</div>
 				<div class="uusislot">
-				<h3>Lightning talks x2 (30min)</h3>
-				<ul>
-					<li>Eduix Oy 15min</li>
-					<li>TBA 15min</li>
-					
-				</ul>
-				
+				<h3>Lightning talk: Eduix Oy </h3>
 				</div>
+<div class="uusislot"><br/>	<h3>Teknologia-arkkitehtuuri yliopistoilla</h3>
+				<ul>
+					<li>Kuinka (ja miksi) TA-periaatteet luodaan?</li>
+					<li>Kuinka samalla varmistutaan siitä, että käytetään moderneja teknologioita ja seurataan kehitystä?</li>
+				</ul>
+<div class="speaker">Ville Tenhunen, Helsingin yliopisto
+				</div>
+</div>
 			</td>
 		
 	</tr>
@@ -519,7 +539,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 			</div><div class="speaker">Tuomas Honkala, Turun yliopisto, Timo Hatakka, Helsingin yliopisto</div><div class="hashtags">#idm</div>
 		</td>
 <td class="startcell"><div>1300>1430<h3>Emootiot konsortiohankkeissa (30min)</h3></div><div class="speaker">Riitta Hekkala, Aalto yliopisto</div>
-			<div class="hashtags"></div><div class="uusislot"><h3>Tietoturvasessio: kohdennetut hyökkäykset</h3>
+			<div class="hashtags"></div><div class="uusislot"><h3>Tietoturvasessio: kohdennetut hyökkäykset (1h)</h3>
 Puheenvuoro sisältää ajankohtaista tietoa kohdistetuista hyökkäyksistä:
 <ul>
 	<li>Katsaus viimeisimpiin hyökkäystekniikoihin</li>
