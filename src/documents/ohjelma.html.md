@@ -69,14 +69,23 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 			</td>
 
 			<td class="startcell">
-				<div>1040>1140
-				<h3>Datan merkitys tieteelle ja tutkimukselle, suurin mullistus sitten internetin?</h3></div>
+				<div>1040>1140 <div class="pj">Puheenjohtaja: Ville Tenhunen</div>
+					<h3>Johdanto Tutkimuksen IT-trackiin (15min)</h3>
+					<div class="speaker">Ville Tenhunen, Helsingin yliopisto</div>
+					<div class="uusislot">
+					<h3>Datan merkitys tieteelle ja tutkimukselle, suurin mullistus sitten internetin? (45min)</h3>
+					<div class="speaker">Pirjo-Leena Forsström, johtaja, CSC</div>
+					<div>
+				</div>
 			</td>
 
 			<td class="startcell"><div>1040>1140 
-			<h3>KATe2 varmistuspalvelu - tekninen arkkitehtuuri ja ratkaisut</h3>
-			<h3></h3>
-			<div class="hashtags">#KATe2</div>
+			<h3>Avoin data käytännössä: tekninen ratkaisu</h3>
+<ul>
+	<li>Minkälainen tekninen ratkaisu pystytetään? </li>
+	<li>Kuinka avoimen datan ratkaisuun liitytään? </li>
+</ul>
+			<div class="hashtags">#avoin</div>
 			</div>
 			<div class="uusislot"> 
 			<h3>Kokemuksia Open-Stack ympäristön pystyttämisestä ja ylläpidosta</h3>
@@ -140,11 +149,14 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 				</div>
 			</td>
 			<td class="startcell">
-				<div>1245>1345<h3>Kansainvälistä tutkimusdataa</h3>
-				<ul>
-				<li>Tutkimusdatan kansainväliset ulottuvuudet ja yhteistyö</li>
-				<li> EUDAT, RDA</li><li> EU:n Horizon 2020 ja sen vaatimukset </li>
-				</ul> </div>
+				<div>1245>1345 <div class="pj">Puheenjohtaja: Minna Harjuniemi</div>
+				<h3>Tutkimusdatan kansainväliset ulottuvuudet ja yhteistyö (30min)</h3>
+				<div class="speaker">Ari Asmi, Helsingin yliopisto</div>
+				<div class="uusislot">
+				<h3>What is EUDAT and how scientists can use it (30min)</h3>
+				<div class="speaker">Damien Lecarpentier, CSC</div>
+				</div>
+		</div>
 			</td>
 
 
@@ -272,12 +284,13 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			</td>
 
 			<td class="startcell">
-				<div>1530>1630
-				<h3>Käytännön ratkaisuesittelyt tutkimuksen IT:n toteutuksista</h3>
-				<ul>
-				<li>Teknopinot: alustat, rautapuoli, rajapinnat</li>
-				<li>Prosessit, hallinto</li>
-				</ul>
+				<div>1530>1630 <div class="pj">Puheenjohtaja: Antti Auer, Jyväskylän yliopisto</div>
+				<h3>Käytännön ratkaisuesittely tutkimuksen IT:n toteutuksista, case Aalto yliopisto (30min)</h3>
+				<div class="speaker"> Anne Sunikka, Aalto yliopisto</div>
+				<div class="uusislot">
+				<h3>Tutkimusaineistojen hallinnan IT-infran kehitystyö: Miksi, mitä ja miten? (30min>)</h3>
+				<div class="speaker">Antti Auer, Jyväskylän yliopisto sekä Ilari Korhonen, Jyväskylän yliopisto</div>
+				</div>
 				</div>
 	</td>
 			<td class="startcell">
@@ -300,7 +313,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 
 			<td class="startcell">
 				<div>1530>1630
-				<h3>Pääyhteistyökumppanin puheenvuoro: Gofore Oy: TBA</h3>
+				<h3>Pääyhteistyökumppanin puheenvuoro: Gofore Oy: Maailma murroksessa  – tietohallinnot siinä mukana?</h3>
 <p>Esityksessä luodaan katsaus muutoksesta, jonka tulemme kohtaamaan seuraavan 20 vuoden kuluessa. Tietojärjestelmille kohdistuu aivan uudella tavalla tarve joustavuuteen ja mukautumiskykyyn teknisen sekä toiminnallisen ympäristön muuttuessa. Samaan aikaan taloudelliset realiteetit asettavat omia reunaehtojaan. Esittelemme lyhyesti digitaalisen maailman megatrendit sekä linkitämme ne opetusalaan vaikuttaviin ilmiöihin. Näistä tarina jatkuu kansallisten hankkeiden esittelyn kautta yksittäisen oppilaitoksen tietohallinnolle suunnattuihin toimintaohjeisiin.</p>
 				</div>
 				<div class="speaker">Mikko Kolehmainen, Gofore Oy</div>
@@ -360,15 +373,23 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 				<li>Antti Vähä-Sipilä kertoo uhkamallinnuksen, tuoteomistajan ja testiautomaation pyhästä kolminaisuudesta ja mihin prosessin kompastuskiviin homma voi helpoiten kaatua. Teemana on  konkretisoida testiautomaatiota web-sovellusten perustason testauksen osalta.</li>
 			</ul>
 			<div class="speaker">Antti Vähä-Sipilä, F-Secure</div>
-<div class="uusislot"><h3>TBA (30min)</h3></div>
+<div class="uusislot"><h3>Devops - asiantuntijoiden näkökulma (30min)</h3>
+<ul>
+	<li>Devops-mallista puhutaan nyt kaikkialla. Mitä tämä käytännössä tarkoittaa?</li>
+	<li>Puheenvuoron konsepti on "kehittäjältä kehittäjälle" eli tarkastelemme, miten ylläpidon ja kehityttäjien rooleja voidaan yhdistää ja hyödyntää nimenomaan teknisten asiantuntijoiden näkökulmasta.</li>
+	
+</ul>
+<div class="speaker"></div>
+				<div class="hashtags">#devops #agile</div>
+</div>
 			</td>
 
 			<td class="startcell">
-				<div>0915>1030
-				<h3>Pilvestä kapasiteettia kuin hanasta, mitäs sillä tehtiin?</h3>
-				<ul>
-				<li> Oikean elämän käyttötapaukset; kuinka yliopistoissa on pilveä hyväksikäyttäen toteutettu tutkimuksen palveluita.</li>
-				</ul>
+				<div>0915>1030<div class="pj">Puheenjohtaja: Minna Harjuniemi, Helsingin yliopisto</div>
+				<h3>Kapasiteettia kuin hanasta, tieteen pilvipalveluita</h3>
+				<div><h3>Azure-alusta tutkimuksen IT:n datalle (25min)</h3></div>
+				<div class="uusislot"><h3>CSC Cloud teknisestä näkökulmasta (25min)</h3><div class="speaker">Jura Tarus, CSC</div></div>
+				<div class="uusislot"><h3>Erityisiä ratkaisuja tutkimuksen tietoteknisiin tarpeisiin (30min)</h3><div class="speaker">Perttu Määttä, Helsingin yliopisto</div></div>
 				</div>
 				<div class="hashtags">#pilvee #tutkimus</div>
 			</td>
@@ -415,7 +436,11 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			<td class="startcell">
 			<div>1030>1200
 				<div><h3>Tuotekeskeisesta palvelusta asiakaskeskeiseen palveluun (30min)</h3>
-			<div class="speaker">Tommi Lamminsalo, Aalto yliopisto, toinen puhuja Digia Oyj</div>
+				<ul>
+					<li>Palvelunhallinnan sovellukset tukemassa muutosta.  </li>
+				</ul>
+
+			<div class="speaker">Tommi Lamminsalo, Aalto yliopisto, Harri Kujansuu Digia Oyj</div>
 				<div class="hashtags">#asiakaskeskeisyys #palvelunhallinta</div>
 			</div>
 			<div class="uusislot">
@@ -464,8 +489,12 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 				<div class="hashtags">#ka #ketteryys</div></div>
 			</td>
 
-			<td class="startcell">1030>1200<h3>Kansalliset tutkimusdatan palvelut</h3>
-<ul><li> Suurteholaskennan uudet koneet</li><li>Tutkimusdatan tallentamisen kansalliset välineet: IDA, PAS, Kata, REMS, AVAA</li></ul></div></td>
+			<td class="startcell">1030>1200<div class="pj">Puheenjohtaja: Ville Tenhunen, Helsingin yliopisto</div>
+			<div>
+			<div class="uusislot"><h3>Tieteellisen laskennan palvelut, sisua ja taitoa (30min)</h3><div class="speaker">Jussi Heikonen, CSC</div></div>
+			<div class="uusislot"><h3>Tutkimusdatan tallentamisen kansalliset välineet Ida, Kata, AVAA (30min)</h3><div class="speaker">Stina Westman, CSC</div></div>
+			</div>
+</td>
 
 			<td class="startcell">
 				<div>1030>1200<h3>Live Hacking</h3>
@@ -482,7 +511,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 				<div class="speaker">Markku Heikura, CIO, Verohallinto</div>
 				<div class="hashtags">#case #ka</div>
 				<div class="uusislot">
-				<h3>Lightning talk: Eduix Oy </h3>
+				<h3>Lightning talk: Devops- mikä, miksi ja miten?  (15min)</h3>
 				</div>
 <div class="uusislot"><br/>	<h3>Teknologia-arkkitehtuuri yliopistoilla</h3>
 				<ul>
@@ -518,19 +547,23 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 					<div class="speaker">Jere Majava</div>
 					<div class="hashtags">#moocs #palvelut</div>
 			</td><td class="startcell">
-<div>1300>1430<h3>Laiteriippumaton sovelluskehitys Qt:llä</h3>
+<div>1300>1430<h3>Laiteriippumaton sovelluskehitys Qt:llä (30min)</h3>
 <ul>
 	<li>Tässä **hands on-sessiossa** käydään läpi, kuinka Qt:llä sovelluskehitys sujuu ja kuinka kerran kirjoitettu ohjelmakoodi voidaan ajaa alustariippumattomasti eri alustoilla (iOS, Android, Windows).</li>
 </ul>
 </div><div class="speaker">Digia Oyj</div><div class="hashtags">#qt #mobiiliikehitys #crossplatform</div>
-			</td><td class="startcell">
-	<div>1300>1430<h3>Tietoturva, arkkitehtuuri ja tutkimuksen IT</h3>
-		<ul><li>Kokonaisarkkitehtuuri ja tutkimus, kuinka käy tietohallinnolta rock'n'roll</li>
-		<li>Tutkijan sähköinen identiteetti Suomessa, näin se käy</li>
-		<li>Tutkimusdata ja tietoturva, henkilödatan suojaaminen</li>
-		</ul>
+			</td>
+
+<td class="startcell">
+			<div>1300>1430<div class="pj">Puheenjohtaja: TBA</div>
+			<h3>Mistä on hyvä datapolitiikka tehty? (30min)</h3>
+			<div class="speaker">Eeva Nyrövaara, Helsingin yliopisto</div>
+			<div class="uusislot">
+			<h3>"Aikaa tutkimukselle". Tutkimustietojärjestelmä tutkimushallinnon tavoitteiden tukena (30min)</h3>
+			<div class="speaker">Markku Niemi, Helsingin yliopisto</div>
+		</div>
 	<div class="hashtags">
-	#ka #titu
+	#datapolitiikka #ka
 	</div>
 </td>
 <td class="startcell"><div>1300>1430

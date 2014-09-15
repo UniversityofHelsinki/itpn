@@ -40,7 +40,8 @@ pageOrder: '2'
 <div class="frontbox">
 <div class="newsnosto"><img class="puh" src="../images/puhujat/<%= document.basename %>.png"></div>
 <h2><%= document.title %></h2>
-<p><%- document.ingress %><br/><u><a href="https://twitter.com/<%- document.tag %>">@<%- document.tag %></a></u>
+<p><%- document.ingress %><br/>
+<u><a href="https://twitter.com/<%- document?.tag %>">@<%- document?.tag %></a></u>
 <br/><u><a href="<%= document.pag %>"><%- document.pag %></a></u>
 </p>
 </div>
