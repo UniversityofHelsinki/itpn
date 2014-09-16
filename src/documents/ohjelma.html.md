@@ -347,10 +347,10 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 <td class="lounas"><img class="icon" src="../images/icons/kaffe_pun.png" >KAHVIA!</td>
 </tr>
 <tr>
-			<td><p class="time">0915</p></td>
+			<td><p class="time">0900</p></td>
 			
 			<td class="startcell">
-			<div>0915>1030
+			<div>0900>1015
 				<div>
 				<h3>Esteettömyys ja saavutettavuus verkkopalveluissa</h3>
 				<ul>
@@ -360,13 +360,13 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 				</ul>
 				
 				</div>
-				<div class="speaker">Hannu Puupponen, Jyväskylän yliopisto, Jussi  Hermunen</div>
+				<div class="speaker">Hannu Puupponen, Jyväskylän yliopisto, Tapio Haanperä, Aalto-yliopisto </div>
 				<div class="hashtags">#saavutettavuus #yhdenvertaisuus #verkkopalvelut</div>
 			</div><div><h3>+ Lightning talk: TBA (15min)</h3></div>
 			</td>
 
 			<td class="startcell"> 
-			<div>0915>1030
+			<div>0900>1015
 <h3>Ohjelmistoturvallisuus modernissa ohjelmistotuotannossa (1h)</h3>
 			<ul>
 				<li>Turvallisen ohjelmistokehityksen aktiviteettien tekeminen näkyväksi on esiehto, jos niiden halutaan tapahtuvan modernissa ("ketterässä") projektissa. </li>
@@ -385,7 +385,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			</td>
 
 			<td class="startcell">
-				<div>0915>1030<div class="pj">Puheenjohtaja: Minna Harjuniemi, Helsingin yliopisto</div>
+				<div>0900>1015<div class="pj">Puheenjohtaja: Minna Harjuniemi, Helsingin yliopisto</div>
 				<h3>Kapasiteettia kuin hanasta, tieteen pilvipalveluita</h3>
 				<div><h3>Azure-alusta tutkimuksen IT:n datalle (25min)</h3></div>
 				<div class="uusislot"><h3>CSC Cloud teknisestä näkökulmasta (25min)</h3><div class="speaker">Jura Tarus, CSC</div></div>
@@ -395,7 +395,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			</td>
 
 			<td class="startcell">
-				<div>0915>1030
+				<div>0900>1015
 				<h3>ONNISTUNEITA TEKNISIÄ PROJEKTEJA TEKNISELLÄ OTTEELLA:</h3>
 				<h3>Hakuratkaisun anatomia - kurkistus pellin alle (20min)</h3>
 <ul>
@@ -414,7 +414,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 </div>
 </td>	
 			<td class="startcell">
-				<div>0915>1030
+				<div>0900>1015
 				<div class="speaker"></div>
 				<div class="hashtags"></div><div><h3>Mobiliteetti ja mobiilistrategia liiketoiminnan kehittäjänä</h3>
 <ul>
