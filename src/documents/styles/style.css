@@ -197,7 +197,7 @@ a:hover#menu-icon {
 	.ilmoittaudu:hover{
 		background-image: url('../images/ilmohover.png');
 }
-
+#ilmoittaudu2{margin-left: 40%;}
 	.newscontent{
 		display:block;
 		margin-left: 20%;
@@ -450,7 +450,7 @@ float:left;
 		background-repeat:no-repeat;
 		background-size:cover;
 		min-height: 300px;
-		max-height: 350px;
+		max-height: 450px;
 		margin-bottom: 2%;
 		}
 	.pageupper{
@@ -847,6 +847,7 @@ margin-left: 10%;
 				font-size: 1.2em;
 				margin-top: 10%;
 	}
+#ilmoittaudu2{margin-left: 30%;}
 		.newsnosto + h2 {
 			
 				margin-top: 40%;

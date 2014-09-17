@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Ohjelma'
 pageOrder: '1'
 ---
-<p class="trackeista">Huom! Ohjelma on vielä alustava. Nyt Sinulla on tilaisuus vaikuttaa ohjelman sisältöön! Anna palautetta, ehdota puhujaa tai tarjoudu sellaiseksi itse: info at it2014.fi.<br/><a href="../uutiset/trackeista.html">Lue lisää ohjelmasta</a> </p>
+<p class="trackeista">Huom! Ohjelma on vielä alustava. Nyt Sinulla on tilaisuus vaikuttaa ohjelman sisältöön! Anna palautetta, ehdota puhujaa tai tarjoudu sellaiseksi itse: info at it2014.fi.<br/><a href="../uutiset/trackeista.html">Lue lisää ohjelmasta</a> 
+<div id="ilmoittaudu2"><a href="https://twitter.com/itp2014" target="_blank">Seuraa meitä twitterissä!</a> <a href="https://twitter.com/itp2014" target="_blank"><img src="../images/twitter.png" width="50" height="42"></a></div>	
+</p>
 
 <div id="taulukko">
 <table id="keskiviikko">
@@ -95,7 +97,7 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 
 			<td class="startcell">
 				<div>1040>1140
-				<h3>Ajankohtaista korkekoulujen IT:ssä</h3>
+				<h3>Ajankohtaista korkeakoulujen IT:ssä</h3>
 				<ul>
 				<li>Hankintadirektiivi 2016: mikä muuttuu?</li>
 				<li>Muutokset tietoturvan lainsäädännössä, EU:n tietosuojalaki</li>
@@ -127,7 +129,7 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 
 			<td class="startcell">
 				<div>1245>1345
-				<h3>Lighting talk: kuulumisia projektitoiminnan SIG-ryhmästä (5min)</h3>
+				<h3>Lightning talk: kuulumisia projektitoiminnan SIG-ryhmästä (5min)</h3>
 				<div class="speaker">Maarit Rapiokallio, Helsingin yliopisto, tietotekniikkakeskus</div>
 				<h3>Projektitoimistot korkeakouluissa: case Aalto IT:n projektitoimisto</h3>
 				<ul>
@@ -426,6 +428,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 	<li>Datavarantojen avaamisen hyödyistä ja avoimuudesta on jo keskusteltu ja sitä suositeltu. Kuinka käytännössä organisaation kannattaa avoimen datan strategiansa toteuttaa?</li>
 	<li>Miten tietohallinnossa edetään siitä hetkestä, kun korkeakoulu on datansa päättänyt avata?</li>
 </ul><div class="hashtags">#opendata #strategia</div></div>			</div>
+<div class="uusislot"><h3>Lightning talk: (15min)</h3></div>
 </td>
 		
 	</tr>
@@ -507,14 +510,14 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 
 			<td class="startcell">
 				<div>1030>1200
-				<h3>Case Verohallinto: suuret järjestelmäuudistukset kokonaisarkkitehtuurin periaattein.</h3>
+				<h3>Case Verohallinto: suuret järjestelmäuudistukset kokonaisarkkitehtuurin periaattein. (45min) </h3>
 				</div>
 				<div class="speaker">Markku Heikura, CIO, Verohallinto</div>
 				<div class="hashtags">#case #ka</div>
 				<div class="uusislot">
 				<h3>Lightning talk: Devops- mikä, miksi ja miten?  (15min)</h3>
 				</div>
-<div class="uusislot"><br/>	<h3>Teknologia-arkkitehtuuri yliopistoilla</h3>
+<div class="uusislot"><br/>	<h3>Lightning talk:Teknologia-arkkitehtuuri yliopistoilla (15min)</h3>
 				<ul>
 					<li>Kuinka (ja miksi) TA-periaatteet luodaan?</li>
 					<li>Kuinka samalla varmistutaan siitä, että käytetään moderneja teknologioita ja seurataan kehitystä?</li>
@@ -522,6 +525,9 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 <div class="speaker">Ville Tenhunen, Helsingin yliopisto
 				</div>
 </div>
+<div class="uusislot">
+				<h3>Lightning talk:(15min)</h3>
+				</div>
 			</td>
 		
 	</tr>
@@ -545,7 +551,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 					<div>1300>1430<h3>Opetusteknologian iltapäivä</h3></div><ul>
 						<li> Sessiossa nostetaan kolmen eri teeman kautta parhaiten menestyneitä, isoimmin flopanneita, unholaan jo jääneitä tai edelleen vahvasti porskuttavia opetusteknologian palveluita, strategioita sekä ilmiöitä.</li>
 					</ul>
-					<div class="speaker">Jere Majava</div>
+					<div class="speaker">Jere Majava, Helsingin yliopisto, Antero Aunesluoma, Helsingin yliopisto, Pauliina Kupila, Helsingin yliopisto</div>
 					<div class="hashtags">#moocs #palvelut</div>
 			</td><td class="startcell">
 <div>1300>1430<h3>Laiteriippumaton sovelluskehitys Qt:llä (30min)</h3>
