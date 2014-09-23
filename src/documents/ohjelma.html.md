@@ -3,7 +3,7 @@ layout: 'default'
 title: 'Ohjelma'
 pageOrder: '1'
 ---
-<p class="trackeista">Huom! Ohjelma on vielä alustava. Nyt Sinulla on tilaisuus vaikuttaa ohjelman sisältöön! Anna palautetta, ehdota puhujaa tai tarjoudu sellaiseksi itse: info at it2014.fi.<br/><a href="../uutiset/trackeista.html">Lue lisää ohjelmasta</a> 
+<p class="trackeista">
 <div id="ilmoittaudu2"><a href="https://twitter.com/itp2014" target="_blank">Seuraa meitä twitterissä!</a> <a href="https://twitter.com/itp2014" target="_blank"><img src="../images/twitter.png" width="50" height="42"></a></div>	
 </p>
 
@@ -97,15 +97,15 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 
 			<td class="startcell">
 				<div>1040>1140
-				<h3>Ajankohtaista korkeakoulujen IT:ssä</h3>
-				<ul>
-				<li>Hankintadirektiivi 2016: mikä muuttuu?</li>
-				<li>Muutokset tietoturvan lainsäädännössä, EU:n tietosuojalaki</li>
-				</ul>
-				</div><div class="hashtags">#ketteryys #hankinnat #avoin #titu</div>
-				<div class="uusislot"><h3> Pilvipalvelujen yksityisyys- ja luotettavuusasiat toimittajan näkökulmasta</h3>
+<div><h3>Hankintadirektiivi 2016: mikä muuttuu? (30min)</h3>
+<div class="speaker">Hansel Oy</div>
+</div>
+				<div class="uusislot"><h3> Pilvipalvelujen yksityisyys- ja luotettavuusasiat toimittajan näkökulmasta (15min)</h3>
 					<div class="speaker">Aki Siponen, teknologiajohtaja, Microsoft</div>	
 		</div>
+<div class="uusislot"><h3>Lighting talk TBA (15min)</h3>
+					<div class="speaker">Cygate Oy</div>	
+		</div></div>
 			</td>
 		
 	</tr>
@@ -178,7 +178,7 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 
 			<td class="startcell">
 				<div>1245>1345
-				<div><h3>Pääyhteistyökumppanin puheenvuoro: Ketterät tietovarastot ratkaisuna muuttuviin tiedolla johtamisen tarpeisiin</h3>
+				<div><h3>Pääyhteistyökumppanin puheenvuoro: Ketterät tietovarastot ratkaisuna muuttuviin tiedolla johtamisen tarpeisiin (45min)</h3>
 <ul>
 	<li>Miten korkeakoulujen tieto- ja raportointitarpeet muuttuvat?</li>
 	<li>Miten toimialan yhteisiä ratkaisuja voidaan hyödyntää tehokkaasti?</li>
@@ -188,7 +188,8 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 </div>
 <div class="speaker">  Kim Johnsson, Cerion  Solutions Oy
 				</div>
-			</td>
+<div class="uusislot"><h3>Lighting talk: eduuni (15min)</h3></div>		
+	</td>
 	
 </tr>
 
@@ -214,7 +215,11 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 <div class="speaker">Helsingin yliopiston asiantuntijat, Otso Kivekäs (Helsingin kaupungin tietotekniikkajaoston pj), Petri Aukia, Codento Oy</div>
 <div class="hashtags">#ketteryys, #hankinnat, #projektinhallinta</div>
 </td>
-			<td class="startcell"><div>1415>1515<h3>JS-frameworkkien tietoturva: angular.js, backbone.js </h3></div><div class="hashtags">#tietoturva #frontend #javascript</div></td>
+			<td class="startcell"><div>1415>1515
+<div><h3>HY:n avoimen datan API </h3>
+<div class="speaker">Joonas Kesäniemi, Helsingin yliopiston kirjasto</div>
+</div>
+<div class="uusislot"><h3>JS-frameworkkien tietoturva: angular.js, backbone.js </h3></div><div class="hashtags">#tietoturva #frontend #javascript</div></div></td>
 			
 		<td class="startcell"><div>1415>1515<h3>Paneelikeskustelu dataintensiivisestä tutkimuksesta ja sen välineistä</h3></div></td>
 			
@@ -315,11 +320,12 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 
 			<td class="startcell">
 				<div>1530>1630
-				<h3>Pääyhteistyökumppanin puheenvuoro: Gofore Oy: Maailma murroksessa  – tietohallinnot siinä mukana?</h3>
+				<h3>Pääyhteistyökumppanin puheenvuoro: Gofore Oy: Maailma murroksessa  – tietohallinnot siinä mukana? (45min)</h3>
 <p>Esityksessä luodaan katsaus muutoksesta, jonka tulemme kohtaamaan seuraavan 20 vuoden kuluessa. Tietojärjestelmille kohdistuu aivan uudella tavalla tarve joustavuuteen ja mukautumiskykyyn teknisen sekä toiminnallisen ympäristön muuttuessa. Samaan aikaan taloudelliset realiteetit asettavat omia reunaehtojaan. Esittelemme lyhyesti digitaalisen maailman megatrendit sekä linkitämme ne opetusalaan vaikuttaviin ilmiöihin. Näistä tarina jatkuu kansallisten hankkeiden esittelyn kautta yksittäisen oppilaitoksen tietohallinnolle suunnattuihin toimintaohjeisiin.</p>
 				</div>
 				<div class="speaker">Mikko Kolehmainen, Gofore Oy</div>
 				<div class="hashtags">#kokonaisarkkitehtuuri</div>
+			<div class="uusislot"><h3>Lightning talk (15min)</h3> <div class="speaker">Infotool Oy</div></div>
 			</td>
 		
 	</tr>
@@ -375,21 +381,22 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 				<li>Antti Vähä-Sipilä kertoo uhkamallinnuksen, tuoteomistajan ja testiautomaation pyhästä kolminaisuudesta ja mihin prosessin kompastuskiviin homma voi helpoiten kaatua. Teemana on  konkretisoida testiautomaatiota web-sovellusten perustason testauksen osalta.</li>
 			</ul>
 			<div class="speaker">Antti Vähä-Sipilä, F-Secure</div>
-<div class="uusislot"><h3>Devops - asiantuntijoiden näkökulma (30min)</h3>
-<ul>
-	<li>Devops-mallista puhutaan nyt kaikkialla. Mitä tämä käytännössä tarkoittaa?</li>
-	<li>Puheenvuoron konsepti on "kehittäjältä kehittäjälle" eli tarkastelemme, miten ylläpidon ja kehityttäjien rooleja voidaan yhdistää ja hyödyntää nimenomaan teknisten asiantuntijoiden näkökulmasta.</li>
-	
-</ul>
-<div class="speaker"></div>
-				<div class="hashtags">#devops #agile</div>
+		<div class="uusislot"><h3>Kokonaisarkkitehtuuri käytännön työssä: kuinka  periaatteet näkyvät kehittäjän arjessa? (15min)</h3>
+				</div>
+				<div class="speaker"></div>
+				<div class="hashtags">#ka #ketteryys</div></div>
 </div>
 			</td>
 
 			<td class="startcell">
 				<div>0900>1015<div class="pj">Puheenjohtaja: Minna Harjuniemi, Helsingin yliopisto</div>
 				<h3>Kapasiteettia kuin hanasta, tieteen pilvipalveluita</h3>
-				<div><h3>Azure-alusta tutkimuksen IT:n datalle (25min)</h3></div>
+				<div><h3>Azure-palvelut tutkijoille, Marko Hotti, Ratkaisuarkkitehti, Microsoft Oy (25min)</h3>
+					<ul>
+						<li>Miten Azure voi olla osana yliopiston palveluja tutkijoille?</li>
+						<li>HDInsight / Hadoop /SQL, virtuaalipalvelimet, web-palvelimet, storage, tietoturva</li>
+					</ul>
+	</div>
 				<div class="uusislot"><h3>CSC Cloud teknisestä näkökulmasta (25min)</h3><div class="speaker">Jura Tarus, CSC</div></div>
 				<div class="uusislot"><h3>Erityisiä ratkaisuja tutkimuksen tietoteknisiin tarpeisiin (30min)</h3><div class="speaker">Perttu Määttä, Helsingin yliopisto</div></div>
 				</div>
@@ -486,10 +493,16 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 				</div>
 			<div class="speaker">Panu Wetterstrand, järjestelmäsuunnittelija, Jyväskylän yliopisto</div>
 			</div>
-				<div class="uusislot"><h3>Kokonaisarkkitehtuuri käytännön työssä: kuinka  periaatteet näkyvät kehittäjän arjessa?</h3>
-				</div>
-				<div class="speaker"></div>
-				<div class="hashtags">#ka #ketteryys</div></div>
+		
+<div class="uusislot"><h3>Devops - asiantuntijoiden näkökulma (30min)</h3>
+<ul>
+	<li>Devops-mallista puhutaan nyt kaikkialla. Mitä tämä käytännössä tarkoittaa?</li>
+	<li>Puheenvuoron konsepti on "kehittäjältä kehittäjälle" eli tarkastelemme, miten ylläpidon ja kehityttäjien rooleja voidaan yhdistää ja hyödyntää nimenomaan teknisten asiantuntijoiden näkökulmasta.</li>
+	
+</ul>
+<div class="speaker"></div>
+				<div class="hashtags">#devops #agile</div>
+</div>
 			</td>
 
 			<td class="startcell">1030>1200<div class="pj">Puheenjohtaja: Ville Tenhunen, Helsingin yliopisto</div>
@@ -586,7 +599,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 
 			</div><div class="speaker">Elina Tolvanen, Turun yliopisto, Timo Hatakka, Helsingin yliopisto</div><div class="hashtags">#idm</div>
 		</td>
-<td class="startcell"><div>1300>1430<h3>Emootiot konsortiohankkeissa (30min)</h3></div><div class="speaker">Riitta Hekkala, Aalto yliopisto</div>
+<td class="startcell"><div>1300>1430<h3>Emootiot konsortiohankkeissa (30min)</h3></div><div class="speaker">Riitta Hekkala, Aalto yliopisto, Matti Rossi, Aalto yliopisto</div>
 			<div class="hashtags"></div><div class="uusislot"><h3>Tietoturvasessio: kohdennetut hyökkäykset (1h)</h3>
 Puheenvuoro sisältää ajankohtaista tietoa kohdistetuista hyökkäyksistä:
 <ul>
@@ -610,11 +623,11 @@ Puheenvuoro sisältää ajankohtaista tietoa kohdistetuista hyökkäyksistä:
 
 <tr>
 <td><p class="time">1500</p></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>TBA</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>TBA</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. </p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. </p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. </p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. </p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. </p></div></td>
 		
 	</tr>
 
