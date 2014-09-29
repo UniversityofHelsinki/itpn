@@ -104,7 +104,7 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 					<div class="speaker">Aki Siponen, teknologiajohtaja, Microsoft</div>	
 		</div>
 <div class="uusislot"><h3>Lighting talk TBA (15min)</h3>
-					<div class="speaker">Cygate Oy</div>	
+					<div class="speaker"></div>	
 		</div></div>
 			</td>
 		

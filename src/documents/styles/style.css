@@ -569,6 +569,10 @@ float:left;
 		margin-bottom: 10px;
 		margin-top: 1px;
 	}
+#netapp{
+	height: 80px;
+	margin-top: 5px;
+}
 		.sponsorlogo2{max-width: 300px;}
 	.sponsorlogo3 {
 		height: 100px;
@@ -748,6 +752,11 @@ margin-left: 10%;
 }
 	
 }
+@media all and (min-width: 1500px){
+	.sponssiloota{
+		height: 300px;
+	}
+}
 @media all and (min-width: 1400px ) and (max-width:1599px) {
 	.pagelower{
 		margin-left: 20%;
@@ -831,7 +840,9 @@ margin-left: 10%;
 	.newslist li{
 		width: 25%;
 		}
-
+.sponssiloota{
+		width: 40%;
+	}
 	.newsnosto > img{max-width: 80%;}
 	.newsnosto {margin-bottom: 20%;}
 
@@ -1064,7 +1075,10 @@ margin-left: 10%;
 /*This is for the table to look decent (or at least bearable) with views less than 799px*/
 
 @media only screen and (max-width: 767px){
-
+.sponssiloota{
+		width: 40%;
+		margin-top: 12%;
+	}
 				#taulukko{ overflow: hidden; margin-left: 5%; width: 90%;}
 				#taulukko:before {
 					content: "Tässä mobiilinäkymässä selkeyden vuoksi ohjelma aikasloteittain. Huom: mobiileille on tulossa, kiitos yhteistyökumppanimme Digian,  oma appsinsa, jossa voit mm. suunnitella oman lukujärjestyksesi! "; 
