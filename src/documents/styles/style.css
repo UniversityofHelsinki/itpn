@@ -1165,16 +1165,16 @@ margin-left: 10%;
 				td:nth-of-type(6){background-color:#eee;} */
 
 				/*td's are now rows.. let's give them track names'*/
-				td:nth-of-type(2):before { content: "Track 1"; }
-				td:nth-of-type(3):before { content: "Track 2"; }
-				td:nth-of-type(4):before { content: "Track 3"; }
-				td:nth-of-type(5):before { content: "Track 4"; }
-				td:nth-of-type(6):before { content: "Track 5"; }
+				td:nth-of-type(2):before { content: "Track 01:           Projektit ja palvelut"; background: #ffff00; color: #0000ff;}
+				td:nth-of-type(3):before { content: "Track 02:        Sovelluskehitys";  background: #0000ff; color: #ffff00; }
+				td:nth-of-type(4):before { content: "Track 03:         Tutkimuksen IT";  background: #00ff00; color: #ff00ff;}
+				td:nth-of-type(5):before { content: "Track 04:           Bitti ja Rauta"; background: #6600CC; color: #00ff00;}
+				td:nth-of-type(6):before { content: "Track 05:          Tietohallinto"; background: #ff0000; color: #00ffff; }
 				td:nth-of-type(7):before { content: "Track 1"; }
 				td:nth-of-type(-n+5).lounas { display: none;}
-				td:nth-of-type(6).lounas:before{ content: "Kaikki trackit";}
+				td:nth-of-type(6).lounas:before{ content: "Kaikki trackit"; background-color: #f2f2f2; color: black; }
 				td.lounas{background-color: #f2f2f2; }
-				td:nth-of-type(6) .time:after{content: "Kaikki trackit";}
+				td:nth-of-type(6) .time:after{content: "Kaikki trackit"; background-color: #f2f2f2; color: black;}
 
 				/*td:nth-of-type(3) > div:before { content: "Track 2 \A"; white-space: pre;}
 				td:nth-of-type(3) > div{width: 100%;}

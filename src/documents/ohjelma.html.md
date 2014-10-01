@@ -131,6 +131,7 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 				<div>1245>1345
 				<h3>Lightning talk: kuulumisia projektitoiminnan SIG-ryhmästä (5min)</h3>
 				<div class="speaker">Maarit Rapiokallio, Helsingin yliopisto, tietotekniikkakeskus</div>
+				<div class="uusislot">
 				<h3>Projektitoimistot korkeakouluissa: case Aalto IT:n projektitoimisto</h3>
 				<ul>
 					<li>Kuinka projektitoimistot auttavat korkeakoulujen IT-toimintojen hallintaa?</li>
@@ -140,7 +141,7 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 				
 				</div>
 				<div class="hashtags">#pmo #johtaminen #projektit</div>
-				<div class="speaker">Eija Henritius (päällikkö, PMO) ja Magnus Sippel (kehityspäällikkö, PMO)</div>
+				<div class="speaker">Eija Henritius (päällikkö, PMO) ja Magnus Sippel (kehityspäällikkö, PMO)</div></div>
 			</td>
 
 			<td class="startcell">
@@ -378,7 +379,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 				</div>
 				<div class="speaker">Hannu Puupponen, Jyväskylän yliopisto, Antti Raike ja Tapio Haanperä, Aalto-yliopisto </div>
 				<div class="hashtags">#saavutettavuus #yhdenvertaisuus #verkkopalvelut</div>
-			</div><div><h3>+ Lightning talk: TBA (15min)</h3></div>
+			</div>
 			</td>
 
 			<td class="startcell"> 
@@ -389,10 +390,10 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 				<li>Antti Vähä-Sipilä kertoo uhkamallinnuksen, tuoteomistajan ja testiautomaation pyhästä kolminaisuudesta ja mihin prosessin kompastuskiviin homma voi helpoiten kaatua. Teemana on  konkretisoida testiautomaatiota web-sovellusten perustason testauksen osalta.</li>
 			</ul>
 			<div class="speaker">Antti Vähä-Sipilä, F-Secure</div>
-		<div class="uusislot"><h3>Kokonaisarkkitehtuuri käytännön työssä: kuinka  periaatteet näkyvät kehittäjän arjessa? (15min)</h3>
+		<div class="uusislot"><h3>Käyttäjälähtöinen suunnittelu verkkopalveluprojekteissa(15min)</h3>
 				</div>
-				<div class="speaker"></div>
-				<div class="hashtags">#ka #ketteryys</div></div>
+				<div class="speaker">Arto Puikkonen, Gofore Oy</div>
+				<div class="hashtags">#käytettävyys</div></div>
 </div>
 			</td>
 
@@ -457,7 +458,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 					<li>Palvelunhallinnan sovellukset tukemassa muutosta.  </li>
 				</ul>
 
-			<div class="speaker">Tommi Lamminsalo, Aalto yliopisto, Harri Kujansuu Digia Oyj</div>
+			<div class="speaker">Tomi Lamminsalo, Aalto yliopisto, Harri Kujansuu Digia Oyj</div>
 				<div class="hashtags">#asiakaskeskeisyys #palvelunhallinta</div>
 			</div>
 			<div class="uusislot">
