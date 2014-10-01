@@ -1183,9 +1183,11 @@ margin-left: 10%;
 					
 				}*/	
 			}
-
-
-
+@media only screen and (max-width: 400px){
+td:nth-of-type(3):before { content: "Track 02:        Sovellus -kehitys";  background: #0000ff; color: #ffff00; }
+td:nth-of-type(4):before { content: "Track 03:         Tutki -muksen IT";  background: #00ff00; color: #ff00ff;}
+td:nth-of-type(6):before { content: "Track 05:          Tieto -hallinto"; background: #ff0000; color: #00ffff; }
+}
 @media print {
 
 	.foot, .top, #first,  #viiva, #logoy, header {
