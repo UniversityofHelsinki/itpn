@@ -91,14 +91,14 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 			</div>
 			<div class="uusislot"> 
 			<h3>Kokemuksia Open-Stack ympäristön pystyttämisestä ja ylläpidosta</h3>
-			<div class="speaker">CSC:n puhuja</div>
+			<div class="speaker">Peter Jenkins, CSC</div>
 			<div class="hashtags">#OpenStack #pilvi</div>
 			</td>
 
 			<td class="startcell">
 				<div>1040>1140
 <div><h3>Hankintadirektiivi 2016: mikä muuttuu? (30min)</h3>
-<div class="speaker">Hansel Oy</div>
+<div class="speaker">Lakiasiainjohtaja Eija Kontuniemi, Hansel Oy</div>
 </div>
 				<div class="uusislot"><h3> Pilvipalvelujen yksityisyys- ja luotettavuusasiat toimittajan näkökulmasta (15min)</h3>
 					<div class="speaker">Aki Siponen, teknologiajohtaja, Microsoft</div>	
@@ -433,17 +433,19 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			<td class="startcell">
 				<div>0900>1015
 				<div class="speaker"></div>
-				<div class="hashtags"></div><div><h3>Mobiliteetti ja mobiilistrategia liiketoiminnan kehittäjänä</h3>
+				<div class="hashtags"></div><div><h3>Mobiliteetti ja mobiilistrategia liiketoiminnan kehittäjänä (20min)</h3>
 <ul>
 	<li>Johtaminen, liiketoiminta ja työnteko muuttuu päivä päivältä mobiilimmaksi. Kuinka strategiaa mobiliteettia varten voi suunnitella?</li>
 </ul>
 <div class="speaker">Pete Nieminen, Atea Finland</div></div>
-</div><div class="uusislot"><h3>Avoimen datan strategia</h3>
+</div><div class="uusislot"><h3> Avoimen datan strategia (25min)</h3>
 <ul>
 	<li>Datavarantojen avaamisen hyödyistä ja avoimuudesta on jo keskusteltu ja sitä suositeltu. Kuinka käytännössä organisaation kannattaa avoimen datan strategiansa toteuttaa?</li>
 	<li>Miten tietohallinnossa edetään siitä hetkestä, kun korkeakoulu on datansa päättänyt avata?</li>
-</ul><div class="hashtags">#opendata #strategia</div></div>			</div>
-<div class="uusislot"><h3>Lightning talk: (15min)</h3></div>
+</ul><div class="speaker">Mikael Nylund, Gofore Oy</div><div class="hashtags">#opendata #strategia</div></div>			</div>
+<div class="uusislot"><h3>Devops- mitä tietohallinnon täytyy tietää devopsista? (30min)</h3>
+<div class="speaker">Codento Oy</div>
+</div>
 </td>
 		
 	</tr>
@@ -532,9 +534,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 				</div>
 				<div class="speaker">Markku Heikura, CIO, Verohallinto</div>
 				<div class="hashtags">#case #ka</div>
-				<div class="uusislot">
-				<h3>Lightning talk: Devops- mikä, miksi ja miten?  (15min)</h3>
-				</div>
+
 <div class="uusislot"><br/>	<h3>Lightning talk:Teknologia-arkkitehtuuri yliopistoilla (15min)</h3>
 				<ul>
 					<li>Kuinka (ja miksi) TA-periaatteet luodaan?</li>
