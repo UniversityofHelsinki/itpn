@@ -574,12 +574,17 @@ float:left;
 	height: 80px;
 	margin-top: 5px;
 }
+#fujitsu{
+max-width:200px;
+height: 70px;
+margin-top: 1px;
+}
 #infotool{
 	height: 80px;
 	margin-top: 5px;
 }
 #atea{margin-right: 10px;}
-#microsoft{max-width:250px;}
+#microsoft{max-width:200px;}
 		.sponsorlogo2{max-width: 300px;}
 	.sponsorlogo3 {
 		height: 100px;
