@@ -100,12 +100,10 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 <div><h3>Hankintadirektiivi 2016: mikä muuttuu? (30min)</h3>
 <div class="speaker">Lakiasiainjohtaja Eija Kontuniemi, Hansel Oy</div>
 </div>
-				<div class="uusislot"><h3> Pilvipalvelujen yksityisyys- ja luotettavuusasiat toimittajan näkökulmasta (15min)</h3>
+				<div class="uusislot"><h3> Pilvipalvelujen yksityisyys- ja luotettavuusasiat toimittajan näkökulmasta (30min)</h3>
 					<div class="speaker">Aki Siponen, teknologiajohtaja, Microsoft</div>	
 		</div>
-<div class="uusislot"><h3>Lighting talk TBA (15min)</h3>
-					<div class="speaker"></div>	
-		</div></div>
+</div>
 			</td>
 		
 	</tr>
@@ -334,7 +332,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 				</div>
 				<div class="speaker">Mikko Kolehmainen, Gofore Oy</div>
 				<div class="hashtags">#kokonaisarkkitehtuuri</div>
-			<div class="uusislot"><h3>Lightning talk (15min)</h3> <div class="speaker">Infotool Oy</div></div>
+			<div class="uusislot"><h3>Lightning talk:Tietojohtamisen tämän päivän ilmiöt – katse organisaation sisäiseen-, ulkoiseen-, ja hiljaiseen tietoon. (15min)</h3> <div class="speaker">Jukka Jaakkola, Infotool Oy</div></div>
 			</td>
 		
 	</tr>
@@ -426,7 +424,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 <div class="uusislot">
 			<h3>Konesalin uusimisprojektin anatomia (30min)</h3>
 				Tampereen konesaliprojektin teknisen näkökulman ja projektin esittelyä. 
-	<div class="speaker">Tuure Vartiainen ja Juha Nisso, Tampereen teknillinen yliopisto</div>
+	<div class="speaker">Juha Nisso, Tampereen teknillinen yliopisto</div>
 	<div class="hashtags">#konesali</div>
 </div>
 </td>	
@@ -438,10 +436,10 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 	<li>Johtaminen, liiketoiminta ja työnteko muuttuu päivä päivältä mobiilimmaksi. Kuinka strategiaa mobiliteettia varten voi suunnitella?</li>
 </ul>
 <div class="speaker">Pete Nieminen, Atea Finland</div></div>
-</div><div class="uusislot"><h3> Avoimen datan strategia (25min)</h3>
+</div><div class="uusislot"><h3> Tiedon avaaminen strategiasta toteutukseen(25min)</h3>
 <ul>
-	<li>Datavarantojen avaamisen hyödyistä ja avoimuudesta on jo keskusteltu ja sitä suositeltu. Kuinka käytännössä organisaation kannattaa avoimen datan strategiansa toteuttaa?</li>
-	<li>Miten tietohallinnossa edetään siitä hetkestä, kun korkeakoulu on datansa päättänyt avata?</li>
+	<li>Gofore on toiminut useiden julkishallintoon kuuluvien organisaatioiden kumppanina tiedon avaamiseen ja tietoarkkitehtuurin kehittämiseen tähtäävissä hankkeissa. </li>
+	<li>Esityksessä kerrotaan hyvistä käytännöistä tiedon avaamisen eri vaiheissa ja avoimeen tietoon liittyvistä arkkitehtuurikysymyksistä. Esityksen tavoitteena on tarjota kuulijoille näkökulmia omien organisaatioidensa tiedon avaamiseen tähtääviin projekteihin niiden eri vaiheissa.</li>
 </ul><div class="speaker">Mikael Nylund, Gofore Oy</div><div class="hashtags">#opendata #strategia</div></div>			</div>
 <div class="uusislot"><h3>Devops- mitä tietohallinnon täytyy tietää devopsista? (30min)</h3>
 <div class="speaker">Codento Oy</div>
@@ -520,17 +518,34 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 </td>
 
 			<td class="startcell">
-				<div>1030>1200<h3>Live Hacking (45min)</h3>
-				Outpost24:n tietoturvakonsultti Paul Mynarsky näyttää kuinka hyödyntämällä
+				<div>1030>1200
+					<div><h3>Live Hacking (60min)</h3>
+					<ul>
+						<li>Outpost24:n tietoturvakonsultti Paul Mynarsky näyttää kuinka hyödyntämällä
 tietojärjestelmissä olevia haavoittuvuuksia on mahdollista murtautua
-organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessioon osallistuneiden kesken arvotaan <a href="http://www.outpost24.com/connect/blog/">Outpost24:n</a> ethical hacker-palvelu käyttöön päiväksi!
-			</div><div class="hashtags">#titu #hacking <a href="http://www.outpost24.com">#outpost24</a></div>
-<div class="uusislot"><h3>Fujitsu + Netapp, aihe TBA(30min)</h3><div class="speaker"></div></div>
-			</td>
+organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
+<li>Sessioon osallistuneiden kesken arvotaan <a href="http://www.outpost24.com/connect/blog/">Outpost24:n</a> ethical hacker-palvelu käyttöön päiväksi!</li>
+					</ul>
+					</div>
+<div class="speaker">Paul Mynarsky, Outpost24</div><div class="hashtags">#titu #hacking <a href="http://www.outpost24.com">#outpost24</a></div>
+			<div class="uusislot"><h3>FUJITSU ETERNUS CD10000 Hyper Scale Storage Appliance (15min)</h3> 
+				<ul>
+					<li>Toimitusvalmis ratkaisu OpenStack-ympäristöön.</li>
+				</ul>
+				<div class="speaker">Risto Laine, Account Manager, Fujitsu</div> 
+			</div>
+			<div class="uusislot"> <h3>Flash, tuoretta dataa (15min)</h3>
+			<ul>
+				<li>Tieto lähemmäksi sovellusta. Yhdistä massiivinen välimuisti ja suurikapasiteettiset kiintolevyt</li>
+			</ul>
+			<div class="speaker">Jyrki Rikalainen, Manager, System Engineering, NetApp</div>
+			</div>
+		</div>
+</td>
 
 			<td class="startcell">
 				<div>1030>1200
-				<h3>Case Verohallinto: suuret järjestelmäuudistukset kokonaisarkkitehtuurin periaattein. (45min) </h3>
+				<h3>Case Verohallinto: suuret järjestelmäuudistukset kokonaisarkkitehtuurin periaattein. (50min) </h3>
 				</div>
 				<div class="speaker">Markku Heikura, CIO, Verohallinto</div>
 				<div class="hashtags">#case #ka</div>
@@ -544,8 +559,8 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 				</div>
 </div>
 <div class="uusislot">
-				<h3>Lightning talk:(15min)</h3>
-				</div>
+				<h3>Lightning talk: Parhaat kampuskäytännöt(25min)</h3>
+				</div> <div class="speaker">Janne Oksanen, CSC Oy</div>
 			</td>
 		
 	</tr>
@@ -576,7 +591,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. Sessio
 <ul>
 	<li>Tässä **hands on-sessiossa** käydään läpi, kuinka Qt:llä sovelluskehitys sujuu ja kuinka kerran kirjoitettu ohjelmakoodi voidaan ajaa alustariippumattomasti eri alustoilla (iOS, Android, Windows).</li>
 </ul>
-</div><div class="speaker">Digia Oyj</div><div class="hashtags">#qt #mobiiliikehitys #crossplatform</div>
+</div><div class="speaker">Ari Salmi, Digia Oyj</div><div class="hashtags">#qt #mobiiliikehitys #crossplatform</div>
 			</td>
 
 <td class="startcell">

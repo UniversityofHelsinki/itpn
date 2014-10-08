@@ -132,6 +132,7 @@ a:hover#menu-icon {
 	.uusislot{
 	border-top: dashed 1px #282828;
 	margin-top: 15px;
+	padding-top: 15px;
 }
 
 
@@ -573,6 +574,12 @@ float:left;
 	height: 80px;
 	margin-top: 5px;
 }
+#infotool{
+	height: 80px;
+	margin-top: 5px;
+}
+#atea{margin-right: 10px;}
+#microsoft{max-width:250px;}
 		.sponsorlogo2{max-width: 300px;}
 	.sponsorlogo3 {
 		height: 100px;

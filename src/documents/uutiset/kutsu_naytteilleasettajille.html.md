@@ -31,7 +31,7 @@ Lippuja iltajuhlaan  100 € + alv. / lippu (ravintola Apollo) = 124  €
 Liput voi ostaa ilmoittautumisen yhteydessä ilmoittautumislomakkeella tai jälkikäteen  info@meetingsmill.fi. 
 
 **Huom!** Yhteistyökumppaneille kuuluu kaksi lippua iltajuhlaan veloituksetta. Lisälippuja voi ostaa ilmoittautumislomakkeella tai jälkikäteen  info@meetingsmill.fi
-
+Jos haluatte iltajuhlaan logotettuja juomalippuja, voitte tilata ne suoraan Apollosta: petri.forsstrom@npg.fi 040 560 7345
 ## Osaston varaus ja laskutus
 
 Osasto ja sähkö varataan sähköisen lomakkeen kautta http://it2014.fi/ilmoittaudu.html (klikkaa nappia "ilmoittaudu") ja valitsemalla "yhteistyökumppani" ensimmäiseltä sivulta mielellään 15.9. 2014 mennessä .

@@ -18,7 +18,7 @@ Toisaalta Apollon mainiot ja suuret tilat takaavat myös mahdollisuuden vaihtaa 
 
 <img  class="nostokuva" src="../images/newsimages/Apollo2.jpg" >
 
-**Huom: yhteistyökumppanit & näytteilleasettajat**: voitte varata juomalippuja ennen tapahtumaa kätevästi suoraan Apollosta. Juomalippuihin on mahdollisuus saada myös yrityksenne logo. Juomalippuihin liittyen, ottakaa suoraan yhteyttä Minna Katainen, minna.katainen at npg.fi
+**Huom: yhteistyökumppanit & näytteilleasettajat**: voitte varata juomalippuja ennen tapahtumaa kätevästi suoraan Apollosta. Juomalippuihin on mahdollisuus saada myös yrityksenne logo. Juomalippuihin liittyen, ottakaa suoraan yhteyttä petri.forsstrom@npg.fi 040 560 7345
 <br/>
 
 
