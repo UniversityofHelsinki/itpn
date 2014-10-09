@@ -587,11 +587,15 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 					<div class="speaker">Jere Majava, Antero Aunesluoma ja Pauliina Kupila, Helsingin yliopiston opetusteknologiakeskus</div>
 					<div class="hashtags">#moocs #palvelut</div>
 			</td><td class="startcell">
-<div>1300>1430<h3>Laiteriippumaton sovelluskehitys Qt:llä (45min)</h3>
+<div>1300>1430<h3>Laiteriippumaton sovelluskehitys Qt:llä (1h)</h3>
 <ul>
 	<li>Tässä **hands on-sessiossa** käydään läpi, kuinka Qt:llä sovelluskehitys sujuu ja kuinka kerran kirjoitettu ohjelmakoodi voidaan ajaa alustariippumattomasti eri alustoilla (iOS, Android, Windows).</li>
 </ul>
 </div><div class="speaker">Ari Salmi, Digia Oyj</div><div class="hashtags">#qt #mobiiliikehitys #crossplatform</div>
+	<div class="uusislot"><h3>Sovelluskehitys Azure –kehittäjäpalveluilla ja Visual Studiolla (30min)</h3>
+	<div class="speaker">Drazen Dodik, Technical Evangelist, Microsoft Oy</div>
+	
+</div>
 			</td>
 
 <td class="startcell">
@@ -604,6 +608,9 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 		</div>
 	<div class="hashtags">
 	#datapolitiikka #ka
+	</div>
+	<div class="uusislot">
+			<h3>TBA </h3>
 	</div>
 </td>
 <td class="startcell"><div>1300>1430
