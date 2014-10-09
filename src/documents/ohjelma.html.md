@@ -226,7 +226,7 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 <div><h3>HY:n avoimen datan API </h3>
 <div class="speaker">Joonas Kesäniemi, Helsingin yliopiston kirjasto</div>
 </div>
-<div class="uusislot"><h3>JS-frameworkkien tietoturva: angular.js, backbone.js </h3></div><div class="hashtags">#tietoturva #frontend #javascript</div></div></td>
+<div class="uusislot"><h3>Frontend tietoturva</h3></div><div class="hashtags">#tietoturva #frontend #javascript</div></div></td>
 			
 		<td class="startcell"><div>1415>1515<h3>Paneelikeskustelu dataintensiivisestä tutkimuksesta ja sen välineistä</h3></div></td>
 			
@@ -419,7 +419,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 	
 </ul>
 </div>
-<div class="hashtags">#solr #nutch #hakukone</div>
+<div class"speaker">Ville Tenhunen, Helsingin yliopisto</div><div class="hashtags">#solr #nutch #hakukone</div>
 <div class="uusislot"><h3>Lightning talk: "Hyperconverged – kloonaa/siirrä/varmista/palauta viiden teratavun virtuaalikone alle 20 sekunnissa!" (20min)</h3><div class="speaker">Tero Vainio, ratkaisumyynti, Cygate Oy ja Kristian Salo, IT-arkkitehti, SimpliVity</div></div>
 <div class="uusislot">
 			<h3>Konesalin uusimisprojektin anatomia (30min)</h3>
