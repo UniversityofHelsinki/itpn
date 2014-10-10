@@ -1,0 +1,12 @@
+	<div class="wrapper2">
+	<div class="foot3">
+		<ul>
+		   <li class="tinylogoli">
+<a href="http://www.helsinki.fi/atk/tike/tike/index.html"><img class="sponsorlogo22"src="../images/logot/hy.png"></a>
+		</li>
+		<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['imgdoc']},[pageOrder:1] ).toJSON(): %>
+<li class="tinylogoli"><a href="<%- document.tags %>"><img class="sponsorlogo22" id="<%= document.basename %>2" src="../images/logot/<%= document.basename %>.png"></a></li>
+		<% end %>
+		</ul>
+	</div>
+</div>

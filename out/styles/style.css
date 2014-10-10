@@ -543,7 +543,34 @@ float:left;
 	.fb-share-button{
 		
 	}
+	
+	.tinylogoli{
+		text-decoration: none;
+		list-style-type: none;
+		display: block;
+		float: left;
+		margin: 20px;
+		
+	}
+	.foot3{
+	display: block;
+	float: left;
+	width:95%;
+	padding-left: 3%;
+	padding-right: 1%;
+	
+	}
+	.wrapper2{
+	display: block;
+	float: left;
+	margin-top:10%;
+	width:100%;
+	border-top: solid 1px #aaaaaa;
+	}
 
+	.sponsorlogo22{
+		max-height: 50px;
+	}
 	.tinylogo{
 		text-decoration: none;
 		list-style-type: none; 
