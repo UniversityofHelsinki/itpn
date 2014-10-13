@@ -10,7 +10,15 @@ pageOrder: '1'
 <div id="taulukko">
 <table id="keskiviikko">
 <thead>
-		<tr><h2 class="keh2">Tiistai 4.11.2014</h2><th>Klo</th><th>Track 01: <br/><span class="bigfont">projektit ja <br/>palvelut </span></th><th>Track 02:<br/><span class="bigfont"> sovelluskehitys</span></th><th>Track 03: <br/><span class="bigfont">tutkimuksen IT</span></th><th>Track 04:<br/> <span class="bigfont">bitti ja rauta</span></th><th>Track 05: <br/><span class="bigfont">tietohallinto</th></tr></thead>
+<tr>
+<h2 class="keh2">Tiistai 4.11.2014</h2>
+<th>Klo</th>
+<th>Track 01: <br/><span class="bigfont">projektit ja <br/>palvelut </span></th>
+<th>Track 02:<br/><span class="bigfont"> sovelluskehitys</span></th>
+<th>Track 03: <br/><span class="bigfont">tutkimuksen IT</span></th>
+<th>Track 04:<br/> <span class="bigfont">bitti ja rauta</span></th>
+<th>Track 05: <br/><span class="bigfont">tietohallinto</th>
+</tr></thead>
 <tbody>
 <!--First row-->
 	<tr>
@@ -21,11 +29,10 @@ pageOrder: '1'
 			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>Linda Liukas: mitä kaikkien tulee tietää koodaamisesta?</p></div></td>
 			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>Linda Liukas: mitä kaikkien tulee tietää koodaamisesta?</p></div></td>
 		
-		</tr>
+	</tr>
 <!--Second row-->
 		<tr>
 			<td><p class="time">1040</p></td>
-
 			<td class="startcell">
 				<div>1040>1140
 				<h3>Ratkaisukonsultointia yksiköille<br/> IT-hankkeissa</h3>
@@ -33,31 +40,26 @@ pageOrder: '1'
 					<li>Tietojärjestelmähankintojen tukipalvelun järjestäminen</li>
 					
 				</ul>
-				
-				
 				<div class="speaker">Teo Kirkinen, Tietotekniikkakeskus, Helsingin yliopisto</div>
-<div class="hashtags">#palvelut #projektinhallinta #ketteryys</div>
-</div>
-<div class="uusislot"><h3> Ketteryys tietojärjestelmän hankinnassa ja toteutuksessa, case Turun yliopisto</h3>
-<ul> <li>Turun yliopisto hajautti IdM-järjestelmän hankinnan kahdeksi erilliseksi kilpailutukseksi - miten se onnistui käytännössä?</li>
-<li>Mihin asioihin sopimusneuvotteluissa kannattaa kiinnittää huomiota ketterästä projektista sovittaessa?</li>
-</li>Kuinka sujuu yhteistyö Helsingissä työskentelevän Scrum-kehitystiimin ja Turun tuoteomistajien kanssa?</li></ul>
-<div class="speaker">Elina Toivanen, Turun yliopisto</div>
-<div class="hashtags">#projektinhallinta #ketteryys</div>
+				<div class="hashtags">#palvelut #projektinhallinta #ketteryys</div>
+				</div>
+				<div class="uusislot"><h3> Ketteryys tietojärjestelmän hankinnassa ja toteutuksessa, case Turun yliopisto</h3>
+				<ul> <li>Turun yliopisto hajautti IdM-järjestelmän hankinnan kahdeksi erilliseksi kilpailutukseksi - miten se onnistui käytännössä?</li>
+				<li>Mihin asioihin sopimusneuvotteluissa kannattaa kiinnittää huomiota ketterästä projektista sovittaessa?</li>
+				</li>Kuinka sujuu yhteistyö Helsingissä työskentelevän Scrum-kehitystiimin ja Turun tuoteomistajien kanssa?</li></ul>
+				<div class="speaker">Elina Toivanen, Turun yliopisto</div>
+				<div class="hashtags">#projektinhallinta #ketteryys</div>
 			</td>
-
 			<td class="startcell"> 
 				<div>1040>1140<h3>Docker - kevyempää virtualisointia (30min) </h3>
-<ul>
-	<li><b><a href="https://www.docker.com/">Docker</a></b> on Linux-käyttöjärjestelmille tehty sovelluspaketointi ja
-ajoympäristö. Se mahdollistaa sovelluksen rippuvuuksien tallentamisen
-yhteen pakettiin sovelluksen kanssa ja sen helpon siirrettävyyden
-kehitys-ja tuotantoympäristöjen välillä.</li>
-	<li>Esityksessä käydään läpi Dockerin
-toimintaa ja kokemuksia sen käytöstä.</li>
-	
-</ul>
-
+					<ul>
+						<li><b><a href="https://www.docker.com/">Docker</a></b> on Linux-käyttöjärjestelmille tehty sovelluspaketointi ja
+					ajoympäristö. Se mahdollistaa sovelluksen rippuvuuksien tallentamisen
+					yhteen pakettiin sovelluksen kanssa ja sen helpon siirrettävyyden
+					kehitys-ja tuotantoympäristöjen välillä.</li>
+						<li>Esityksessä käydään läpi Dockerin
+					toimintaa ja kokemuksia sen käytöstä.</li>
+					</ul>
 				</div>
 				<div class="speaker">Jussi Talaskivi, järjestelmäsuunnittelija, Jyväskylän yliopisto</div>
 				<div class="hashtags">#työkalut #virtualisointi</div>
@@ -67,7 +69,7 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 						<li>Esityksessä käydään läpi käytännön setup siitä, kuinka kehityskone (centos 6.5-pohjalla) luodaan usb-tikulta paketteineen ja asetuksineen niin, että kehittäjä ottaa vain yhteyden koneelle nomachinella. </li>
 						<li>Liian hyvää ollakseen totta? Tule kuuntelemaan!</li>
 					</ul>
-	</div><div class="speaker">Eduix oy</div>
+					</div><div class="speaker">Eduix oy</div>
 			</td>
 
 			<td class="startcell">
@@ -83,10 +85,10 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 
 			<td class="startcell"><div>1040>1140 
 			<h3>Avoin data käytännössä: tekninen ratkaisu</h3>
-<ul>
-	<li>Minkälainen tekninen ratkaisu pystytetään? </li>
-	<li>Kuinka avoimen datan ratkaisuun liitytään? </li>
-</ul>
+				<ul>
+					<li>Minkälainen tekninen ratkaisu pystytetään? </li>
+					<li>Kuinka avoimen datan ratkaisuun liitytään? </li>
+				</ul>
 			<div class="hashtags">#avoin</div>
 			</div>
 			<div class="uusislot"> 
@@ -110,15 +112,15 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 <!--Third row-->
 
 	<tr class="lunch">
-			<td><p class="time">1140</p></td>
+		<td><p class="time">1140</p></td>
 
-			<td class="lounas"><img class="icon" src="../images/icons/lautanen_kelt.png" >LOUNAS</td>
+		<td class="lounas"><img class="icon" src="../images/icons/lautanen_kelt.png" >LOUNAS</td>
 
-			<td class="lounas"><img class="icon" src="../images/icons/lautanen_sininen.png" >LOUNAS</td>
+		<td class="lounas"><img class="icon" src="../images/icons/lautanen_sininen.png" >LOUNAS</td>
 
-			<td class="lounas"><img class="icon" src="../images/icons/lautanen_vihr.png" >LOUNAS</td>
-			<td class="lounas"><img class="icon" src="../images/icons/lautanen_violet.png" >LOUNAS</td>
-			<td class="lounas"><img class="icon" src="../images/icons/lautanen_pun.png" >LOUNAS</td>
+		<td class="lounas"><img class="icon" src="../images/icons/lautanen_vihr.png" >LOUNAS</td>
+		<td class="lounas"><img class="icon" src="../images/icons/lautanen_violet.png" >LOUNAS</td>
+		<td class="lounas"><img class="icon" src="../images/icons/lautanen_pun.png" >LOUNAS</td>
 	
 	</tr>
 <!--Fourth row-->
@@ -170,7 +172,7 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 	<li>Lisäksi kuulemme Red Hat Enterprise Linuxin ja CentOS -projektin uusista tuulista.</li>
 </ul>
 
-				</div>
+			</div>
 			<div class="speaker">Toni Willberg, Red Hat
 			</div><div class="hashtags">#OpenStack #pilvipalvelut #PaaS #IaaS #DevOps #RHEL #CentOS #Docker</div>
 			</td>
@@ -208,20 +210,18 @@ toimintaa ja kokemuksia sen käytöstä.</li>
 <td class="lounas"><img class="icon" src="../images/icons/kaffe_violet.png" >KAHVIA!</td>
 <td class="lounas"><img class="icon" src="../images/icons/kaffe_pun.png" >KAHVIA!</td>
 </tr>
-
 <tr>
 			<td><p class="time">1415</p></td>
 			<td class="startcell"><div>1415>1515 <h3>Paneeli: Top 10 - parhaat käytännöt ketterään ostamiseen!</h3>
-<ul>
-	<li>Kuinka ketteryys ja hankintalaki sopivat yhteen?</li>
-<li>HY:n ketterän puitesopimuksen syntyminen ja hyödyntäminen, kuinka oma organisaatiosi voi hyödyntää kokemuksia.</li>
-<li>Tule esittämään kysymyksiä ketterästä kilpailuttamisesta, pohditaan yhdessä, kuinka saadaan hommat sujumaan!</li>
-</ul>
-
-</div>
-<div class="speaker">Helsingin yliopiston asiantuntijat, Otso Kivekäs (Helsingin kaupungin tietotekniikkajaoston pj), Petri Aukia, Codento Oy</div>
-<div class="hashtags">#ketteryys, #hankinnat, #projektinhallinta</div>
-</td>
+				<ul>
+					<li>Kuinka ketteryys ja hankintalaki sopivat yhteen?</li>
+				<li>HY:n ketterän puitesopimuksen syntyminen ja hyödyntäminen, kuinka oma organisaatiosi voi hyödyntää kokemuksia.</li>
+				<li>Tule esittämään kysymyksiä ketterästä kilpailuttamisesta, pohditaan yhdessä, kuinka saadaan hommat sujumaan!</li>
+				</ul>
+			</div>
+			<div class="speaker">Helsingin yliopiston asiantuntijat, Otso Kivekäs (Helsingin kaupungin tietotekniikkajaoston pj), Petri Aukia, Codento Oy</div>
+			<div class="hashtags">#ketteryys, #hankinnat, #projektinhallinta</div>
+	</td>
 			<td class="startcell"><div>1415>1515
 <div><h3>HY:n avoimen datan API </h3>
 <div class="speaker">Joonas Kesäniemi, Helsingin yliopiston kirjasto</div>
@@ -256,13 +256,14 @@ Suomen korkeakoulukentällä yhteistyömalleja on kokeiltu ja suunnitteilla yrit
 			<td class="startcell">
 				<div>1530>1630 
 				<h3>ID Point -palvelumalli: tunnistautumispalvelua asiakastukeen</h3>
-<ul>
-	<li>ID Point on tunnistuspalvelu, jonka avulla yliopistolaiset voivat helposti ja turvallisesti käyttää henkilötunnistusta vaativia palveluita puhelimitse.</li>
-	<li>Kuinka ja miksi palvelu on toteutettu? Entä mikä on palvelumalli?</li>
+				<ul>
+					<li>ID Point on tunnistuspalvelu, jonka avulla yliopistolaiset voivat helposti ja turvallisesti käyttää henkilötunnistusta vaativia palveluita puhelimitse.</li>
+					<li>Kuinka ja miksi palvelu on toteutettu? Entä mikä on palvelumalli?</li>
 	
-</ul>
-<div class="speaker">Maria Kalske, Helsingin yliopiston tietotekniikkakeskus</div>
-				</div><div>
+				</ul>
+				<div class="speaker">Maria Kalske, Helsingin yliopiston tietotekniikkakeskus</div>
+			</div>
+			<div>
 				<div class="uusislot">
 				<h3>Ketterä projektinhallinta kolmen yliopiston yhteishankkeessa</h3>
 				<ul>
@@ -271,7 +272,7 @@ Suomen korkeakoulukentällä yhteistyömalleja on kokeiltu ja suunnitteilla yrit
 					
 				</ul>
 				
-				</div>
+				
 				<div class="speaker">Sami Hautakangas (TaY) ja Inka Paukku (Aalto)</div>
 				<div class="hashtags">#ketteryys #projektinhallinta</div>
 			</div>
@@ -334,33 +335,34 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 				<div class="hashtags">#kokonaisarkkitehtuuri</div>
 			<div class="uusislot"><h3>Lightning talk:Tietojohtamisen tämän päivän ilmiöt – katse organisaation sisäiseen-, ulkoiseen-, ja hiljaiseen tietoon. (15min)</h3> <div class="speaker">Jukka Jaakkola, Infotool Oy</div></div>
 			</td>
-		
-	</tr>
+</tr>
 
 </tbody>
 </table>
 <p class="clearfix"></p>
 <table id="tiistai">
 <h2 class="keh2">Keskiviikko 5.11.2014</h2>
-		<thead>
-		<tr>
+<thead>
+<tr>
 			<th>Klo </th>
 			<th>Track 01: <br/><span class="bigfont">palvelut</span></th>
 			<th>Track 02:<br/><span class="bigfont"> sovelluskehitys</span></th>
 			<th>Track 03: <br/><span class="bigfont">tutkimuksen IT</span></th>
 			<th>Track 04:<br/> <span class="bigfont">bitti ja rauta</span></th>
 			<th>Track 05: <br/><span class="bigfont">tietohallinto</span></th>
-		</tr>
-</thead>
-    <tbody>
-	<tr>
-<td><p class="time">0830</p></td>
-<td class="lounas"><img class="icon" src="../images/icons/kaffe_kelt.png" >KAHVIA!</td>
-<td class="lounas"><img class="icon" src="../images/icons/kaffe_sin.png" >KAHVIA!</td>
-<td class="lounas"><img class="icon" src="../images/icons/kaffe_vihr.png" >KAHVIA!</td>
-<td class="lounas"><img class="icon" src="../images/icons/kaffe_violet.png" >KAHVIA!</td>
-<td class="lounas"><img class="icon" src="../images/icons/kaffe_pun.png" >KAHVIA!</td>
 </tr>
+</thead>
+
+<tbody>
+<tr>
+		<td><p class="time">0830</p></td>
+		<td class="lounas"><img class="icon" src="../images/icons/kaffe_kelt.png" >KAHVIA!</td>
+		<td class="lounas"><img class="icon" src="../images/icons/kaffe_sin.png" >KAHVIA!</td>
+		<td class="lounas"><img class="icon" src="../images/icons/kaffe_vihr.png" >KAHVIA!</td>
+		<td class="lounas"><img class="icon" src="../images/icons/kaffe_violet.png" >KAHVIA!</td>
+		<td class="lounas"><img class="icon" src="../images/icons/kaffe_pun.png" >KAHVIA!</td>
+</tr>
+
 <tr>
 			<td><p class="time">0900</p></td>
 			
@@ -388,7 +390,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 				<li>Antti Vähä-Sipilä kertoo uhkamallinnuksen, tuoteomistajan ja testiautomaation pyhästä kolminaisuudesta ja mihin prosessin kompastuskiviin homma voi helpoiten kaatua. Teemana on  konkretisoida testiautomaatiota web-sovellusten perustason testauksen osalta.</li>
 			</ul>
 			<div class="speaker">Antti Vähä-Sipilä, F-Secure</div>
-		<div class="uusislot"><h3>Käyttäjälähtöinen suunnittelu verkkopalveluprojekteissa(15min)</h3>
+		<div class="uusislot"><h3>Lighting talk:Käyttäjälähtöinen suunnittelu verkkopalveluprojekteissa(15min)</h3>
 				</div>
 				<div class="speaker">Arto Puikkonen, Gofore Oy</div>
 				<div class="hashtags">#käytettävyys</div></div>
@@ -420,6 +422,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 </ul>
 </div>
 <div class"speaker">Ville Tenhunen, Helsingin yliopisto</div><div class="hashtags">#solr #nutch #hakukone</div>
+
 <div class="uusislot"><h3>Lightning talk: "Hyperconverged – kloonaa/siirrä/varmista/palauta viiden teratavun virtuaalikone alle 20 sekunnissa!" (20min)</h3><div class="speaker">Tero Vainio, ratkaisumyynti, Cygate Oy ja Kristian Salo, IT-arkkitehti, SimpliVity</div></div>
 <div class="uusislot">
 			<h3>Konesalin uusimisprojektin anatomia (30min)</h3>
@@ -446,7 +449,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 </div>
 </td>
 		
-	</tr>
+</tr>
 
 	<tr>
 			<td><p class="time">1030</p></td>
@@ -515,7 +518,7 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 			<div class="uusislot"><h3>Tieteellisen laskennan palvelut, sisua ja taitoa (30min)</h3><div class="speaker">Jussi Heikonen, CSC</div></div>
 			<div class="uusislot"><h3>Tutkimusdatan tallentamisen kansalliset välineet Ida, Kata, AVAA (30min)</h3><div class="speaker">Stina Westman, CSC</div></div>
 			</div>
-</td>
+			</td>
 
 			<td class="startcell">
 				<div>1030>1200
@@ -541,7 +544,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 			<div class="speaker">Jyrki Rikalainen, Manager, System Engineering, NetApp</div>
 			</div>
 		</div>
-</td>
+			</td>
 
 			<td class="startcell">
 				<div>1030>1200
@@ -563,9 +566,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 				</div> <div class="speaker">Janne Oksanen, CSC Oy</div>
 			</td>
 		
-	</tr>
-
-
+		</tr>
 		<tr class="lunch">
 			<td><p class="time">1200</p></td>
 
@@ -577,7 +578,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 			<td class="lounas"><img class="icon" src="../images/icons/lautanen_violet.png" >LOUNAS</td>
 			<td class="lounas"><img class="icon" src="../images/icons/lautanen_pun.png" >LOUNAS</td>
 	
-	</tr>
+		</tr>
 
 		<tr>		
 			<td><p class="time">1300</p></td><td class="startcell">
@@ -636,26 +637,23 @@ Puheenvuoro sisältää ajankohtaista tietoa kohdistetuista hyökkäyksistä:
 	
 </ul>
 <div class="hashtags">#titu</div></div><div class="speaker">Tomi Tuominen, nSense</div></div></td>
-		
-
 	</tr>
 <tr>
-<td><p class="time">1430</p></td>
-<td class="lounas"><img class="icon" src="../images/icons/kaffe_kelt.png" >KAHVIA!</td>
-<td class="lounas"><img class="icon" src="../images/icons/kaffe_sin.png" >KAHVIA!</td>
-<td class="lounas"><img class="icon" src="../images/icons/kaffe_vihr.png" >KAHVIA!</td>
-<td class="lounas"><img class="icon" src="../images/icons/kaffe_violet.png" >KAHVIA!</td>
-<td class="lounas"><img class="icon" src="../images/icons/kaffe_pun.png" >KAHVIA!</td>
-</tr>
+	<td><p class="time">1430</p></td>
+	<td class="lounas"><img class="icon" src="../images/icons/kaffe_kelt.png" >KAHVIA!</td>
+	<td class="lounas"><img class="icon" src="../images/icons/kaffe_sin.png" >KAHVIA!</td>
+	<td class="lounas"><img class="icon" src="../images/icons/kaffe_vihr.png" >KAHVIA!</td>
+	<td class="lounas"><img class="icon" src="../images/icons/kaffe_violet.png" >KAHVIA!</td>
+	<td class="lounas"><img class="icon" src="../images/icons/kaffe_pun.png" >KAHVIA!</td>
+	</tr>
 
-<tr>
+	<tr>
 <td><p class="time">1500</p></td>
 			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. </p></div></td>
 			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. </p></div></td>
 			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. </p></div></td>
 			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. </p></div></td>
 			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. </p></div></td>
-		
 	</tr>
 
 </tbody>

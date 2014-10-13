@@ -168,7 +168,13 @@ a:hover#menu-icon {
 		padding-left: 0%
 	}
 
-
+	label {
+		cursor: pointer;
+		display: none;
+}
+#menu-toggle {
+  display: none; /* hide the checkbox */
+}
 	header{
 		margin-top: 0px;
 		padding-top: 0px;
@@ -982,7 +988,10 @@ margin-left: 10%;
 		.sponssiloota{
 			min-width:70%;
 		}
-
+.pspons {
+margin-right: 2%;
+margin-bottom: 20%;
+}
 	
 }
 @media all and (min-width: 801px) and (max-width: 980px){
@@ -1118,6 +1127,60 @@ margin-left: 10%;
 /*This is for the table to look decent (or at least bearable) with views less than 799px*/
 
 @media only screen and (max-width: 767px){
+.top a {
+    margin-bottom: 1px;
+   }
+/*Make all menu links full width*/
+label {
+  cursor: pointer;
+display: block;
+}
+#menu-toggle {
+  display: none; /* hide the checkbox */
+}
+#menu {
+  display: none;
+}
+#menu-toggle:checked + #menu {
+  display: block;
+}
+
+
+
+label{
+text-transform: uppercase;
+font-size: 18px;
+padding: 10px;
+}
+
+label::before{
+	content: url(../images/icons/menu-icon.png);
+}
+
+.top{
+text-align:center;
+font-size: 20px;
+}
+.top a {
+    width: 100%;
+    margin-left: 0%;
+    margin-top: 5%;
+border-bottom: 1px solid #aaaaaa;
+
+    }
+	.top>a:first-child{
+		display:block;
+	}
+#logoy{display:none;}
+.top>a:last-child{margin-bottom: 1px; border-bottom: none; padding-bottom: 0;}
+
+    .top a:last-child{
+        margin-bottom: 0%;
+	padding-bottom: 0;
+    }
+header{
+	max-height: 400px;
+}
 .sponssiloota{
 		width: 40%;
 		margin-top: 12%;
