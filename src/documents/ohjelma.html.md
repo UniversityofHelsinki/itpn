@@ -600,19 +600,17 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 			</td>
 
 <td class="startcell">
-			<div>1300>1430<div class="pj">Puheenjohtaja: TBA</div>
-			<h3>Mistä on hyvä datapolitiikka tehty? (30min)</h3>
-			<div class="speaker">Eeva Nyrövaara, Helsingin yliopisto</div>
-			<div class="uusislot">
-			<h3>"Aikaa tutkimukselle". Tutkimustietojärjestelmä tutkimushallinnon tavoitteiden tukena (30min)</h3>
-			<div class="speaker">Markku Niemi, Helsingin yliopisto</div>
+		<div>1300>1430
+		<div class="pj">Puheenjohtaja: TBA</div>
+		<div class="uusislot">
+		<h3>"Aikaa tutkimukselle". Tutkimustietojärjestelmä tutkimushallinnon tavoitteiden tukena (30min)</h3>
+		<div class="speaker">Markku Niemi, Helsingin yliopisto</div>
+		<div class="hashtags">#datapolitiikka #ka </div>
 		</div>
-	<div class="hashtags">
-	#datapolitiikka #ka
-	</div>
-	<div class="uusislot">
+		<div class="uusislot">
 			<h3>TBA </h3>
-	</div>
+		</div>
+		</div>
 </td>
 <td class="startcell"><div>1300>1430
 				<h3>Identiteetinhallinta - ympäristö pinnan alta</h3>
@@ -624,8 +622,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 <li>Kuinka kriittinen järjestelmä on kyseessä ja miten se on otettu huomioon</li>
 <li>Rakentaisinko organisaation identiteetinhallinnan open source -tuotteella?</li>
 </ul>
-
-			</div><div class="speaker">Elina Toivanen, Turun yliopisto, Timo Hatakka, Helsingin yliopisto</div><div class="hashtags">#idm</div>
+</div><div class="speaker">Elina Toivanen, Turun yliopisto, Timo Hatakka, Helsingin yliopisto</div><div class="hashtags">#idm</div>
 		</td>
 <td class="startcell"><div>1300>1430<h3>Metaforien käyttö konsortiohankkeissa (30min)</h3></div><div class="speaker">Riitta Hekkala, Aalto yliopisto, Matti Rossi, Aalto yliopisto</div>
 			<div class="hashtags"></div><div class="uusislot"><h3>Tietoturvasessio: kohdennetut hyökkäykset (1h)</h3>
