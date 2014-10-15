@@ -392,6 +392,11 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			<div class="speaker">Antti Vähä-Sipilä, F-Secure</div>
 		<div class="uusislot"><h3>Lighting talk: Älä pelkää UX-suunnittelijaa, hän on ystäväsi. (15min)</h3>
 				</div>
+<ul>
+	<li>Suurimmat haasteet UX-osaajan, graafisen suunnittelijan ja devaajan välillä tyypillisesti liittyvät dialogiin ja tuotosten jalkautukseen. Vastauksena näihin haasteisiin on Prototypointi. </li>
+	<li>Prototypointi on tehokkain tapa jalkauttaa niin UI- kuin myös graafinen suunnitelma. Se on myös keino varmistaa, että lopputuote näyttää, tuntuu ja maistuu sille, mille se on suunniteltukin.  Mutta tiesitkö, että prototyypin ei tarvitse olla vain esivaihe, joka heitetään roskiin? Se voi olla pohja itse  toteutukselle. </li>
+	
+</ul>
 				<div class="speaker">Arto Puikkonen, Gofore Oy</div>
 				<div class="hashtags">#käytettävyys</div></div>
 </div>
@@ -400,11 +405,12 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			<td class="startcell">
 				<div>0900>1015<div class="pj">Puheenjohtaja: Minna Harjuniemi, Helsingin yliopisto</div>
 				<h3>Kapasiteettia kuin hanasta, tieteen pilvipalveluita</h3>
-				<div><h3>Azure-palvelut tutkijoille, Marko Hotti, Ratkaisuarkkitehti, Microsoft Oy (25min)</h3>
+				<div><h3>Azure-palvelut tutkijoille (25min)</h3>
 					<ul>
 						<li>Miten Azure voi olla osana yliopiston palveluja tutkijoille?</li>
 						<li>HDInsight / Hadoop /SQL, virtuaalipalvelimet, web-palvelimet, storage, tietoturva</li>
 					</ul>
+<div class="speaker"> Marko Hotti, Ratkaisuarkkitehti, Microsoft Oy</div>
 	</div>
 				<div class="uusislot"><h3>CSC Cloud teknisestä näkökulmasta (25min)</h3><div class="speaker">Jura Tarus, CSC</div></div>
 				<div class="uusislot"><h3>Erityisiä ratkaisuja tutkimuksen tietoteknisiin tarpeisiin (30min)</h3><div class="speaker">Perttu Määttä, Helsingin yliopisto</div></div>
@@ -505,7 +511,7 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 <div class="uusislot"><h3>Devops - asiantuntijoiden näkökulma (30min)</h3>
 <ul>
 	<li>Devops-mallista puhutaan nyt kaikkialla. Mitä tämä käytännössä tarkoittaa?</li>
-	<li>Puheenvuoron konsepti on "kehittäjältä kehittäjälle" eli tarkastelemme, miten ylläpidon ja kehityttäjien rooleja voidaan yhdistää ja hyödyntää nimenomaan teknisten asiantuntijoiden näkökulmasta.</li>
+	<li>Puheenvuoron konsepti on "kehittäjältä kehittäjälle" eli tarkastelemme, miten ylläpidon ja kehittäjien rooleja voidaan yhdistää ja hyödyntää nimenomaan teknisten asiantuntijoiden näkökulmasta.</li>
 	
 </ul>
 <div class="speaker"></div>
@@ -531,17 +537,11 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 					</ul>
 					</div>
 <div class="speaker">Paul Mynarsky, Outpost24</div><div class="hashtags">#titu #hacking <a href="http://www.outpost24.com">#outpost24</a></div>
-			<div class="uusislot"><h3>FUJITSU ETERNUS CD10000 Hyper Scale Storage Appliance (15min)</h3> 
+			<div class="uusislot"><h3>FUJITSU ETERNUS CD10000 Hyper Scale Storage Appliance (30min)</h3> 
 				<ul>
 					<li>Toimitusvalmis ratkaisu OpenStack-ympäristöön.</li>
 				</ul>
 				<div class="speaker">Risto Laine, Account Manager, Fujitsu</div> 
-			</div>
-			<div class="uusislot"> <h3>Flash, tuoretta dataa (15min)</h3>
-			<ul>
-				<li>Tieto lähemmäksi sovellusta. Yhdistä massiivinen välimuisti ja suurikapasiteettiset kiintolevyt</li>
-			</ul>
-			<div class="speaker">Jyrki Rikalainen, Manager, System Engineering, NetApp</div>
 			</div>
 		</div>
 			</td>
@@ -623,6 +623,12 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 <li>Rakentaisinko organisaation identiteetinhallinnan open source -tuotteella?</li>
 </ul>
 </div><div class="speaker">Elina Toivanen, Turun yliopisto, Timo Hatakka, Helsingin yliopisto</div><div class="hashtags">#idm</div>
+	<div class="uusislot"> <h3>Flash, tuoretta dataa (30min)</h3>
+			<ul>
+				<li>Tieto lähemmäksi sovellusta. Yhdistä massiivinen välimuisti ja suurikapasiteettiset kiintolevyt</li>
+			</ul>
+			<div class="speaker">Jyrki Rikalainen, Manager, System Engineering, NetApp</div>
+			</div>
 		</td>
 <td class="startcell"><div>1300>1430<h3>Metaforien käyttö konsortiohankkeissa (30min)</h3></div><div class="speaker">Riitta Hekkala, Aalto yliopisto, Matti Rossi, Aalto yliopisto</div>
 			<div class="hashtags"></div><div class="uusislot"><h3>Tietoturvasessio: kohdennetut hyökkäykset (1h)</h3>

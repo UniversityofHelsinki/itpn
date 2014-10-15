@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<%- @partial('head') %>
+<body>
+	<div id="wrapper">
+	<!--[if lte IE 9]>
+	<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience. Suomeksi: käytät kuule kauheen vanhaa selainta, tee jotain, päivitä tai käytä toista selainta, jos tarvitset IE:n vanhempaa versiota jostain syystä. Osa näistä sivuista ei pelitä hyvin IE8 IE9-selaimissa.</p>
+	<![endif]-->
+<%- @partial('headernews') %>
+	<article class="content" class="clearfix">
+		<div class="newscontent">
+		<%- @content %>
+		<div>
+		<script src="https://app.box.com/embed/upload.js?token=qezbbdudgxuwb9yk69e2kdx4gf7h9npi&folder_id=2533457395&w=385&h=385&i=Nime%C3%A4%20tiedostosi%20niin%2C%20ett%C3%A4%20nimest%C3%A4%20k%C3%A4y%20ilmi%20sukunimesi%20ja%20trackin%20numero.&d=1&t=Lis%C3%A4%C3%A4%20esitystiedosto%20IT-p%C3%A4iville&r=1" type="text/javascript"></script>
+	</div>
+		</div>	
+	</article>
+</div>
+<%- @partial('footer') %>
+	<!-- jQuery -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/vendor/jquery.js"><\/script>')</script>
+
+	<!-- DocPad Scripts + Our Own -->
+	<%- @getBlock('scripts').add(@site.scripts).toHTML() %>
+
+</body>
+</html>
