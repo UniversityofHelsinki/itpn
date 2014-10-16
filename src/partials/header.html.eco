@@ -8,7 +8,7 @@
 			<div id="menu">
 		<nav class="top">
 						
-						<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['.','pages']}, [pageOrder:1] ).toJSON(): %>
+						<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['.']}, [pageOrder:1] ).toJSON(): %>
 						<a   href="<%- document.url %>" class="<%= 'active'  if @document.url is document.url %>"><%= document.title %></a>
 						<% end %>	 
 						
