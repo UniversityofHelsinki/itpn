@@ -69,7 +69,7 @@ pageOrder: '1'
 						<li>Esityksessä käydään läpi käytännön setup siitä, kuinka kehityskone (centos 6.5-pohjalla) luodaan usb-tikulta paketteineen ja asetuksineen niin, että kehittäjä ottaa vain yhteyden koneelle nomachinella. </li>
 						<li>Liian hyvää ollakseen totta? Tule kuuntelemaan!</li>
 					</ul>
-					</div><div class="speaker">Eduix oy</div>
+					</div><div class="speaker">Rami Heinisuo, Eduix oy</div>
 			</td>
 
 			<td class="startcell">
@@ -86,9 +86,10 @@ pageOrder: '1'
 			<td class="startcell"><div>1040>1140 
 			<h3>Avoin data käytännössä: tekninen ratkaisu</h3>
 				<ul>
-					<li>Minkälainen tekninen ratkaisu pystytetään? </li>
-					<li>Kuinka avoimen datan ratkaisuun liitytään? </li>
+					<li> Esityksessä esitellään tekninen kuvaus MML:n paikkatiedon palvelualustan pilotista, joka on MML:n karttakuvapalvelun avoin API. Kyseinen palvelu on paikkatietoalalla käytettyjen standardien mukainen, se on  julkinen ja se pyörii FORGEn tarjoamassa pilvipalvelussa. </li>
+					<li>Esityksessä sivutaan myös käytetyt (avoimen lähdekoodin) ohjelmat, tietokanta PostreSQL, karttakuva- ja aineistolatauspalvelinohjelmisto Geoserver, karttatiilikuvapuskuri Mapcache),  asennus ja ylläpito. </li>
 				</ul>
+			<div class="speaker">Jakob Ventin, Maanmittauslaitos</div>
 			<div class="hashtags">#avoin</div>
 			</div>
 			<div class="uusislot"> 
@@ -226,7 +227,7 @@ pageOrder: '1'
 <div><h3>HY:n avoimen datan API </h3>
 <div class="speaker">Joonas Kesäniemi, Helsingin yliopiston kirjasto</div>
 </div>
-<div class="uusislot"><h3>Frontend tietoturva</h3></div><div class="hashtags">#tietoturva #frontend #javascript</div></div></td>
+<div class="uusislot"><h3>Automaattitestit pilveen - näin säästämme kehittäjän aikaa ja hermoja</h3></div><div class="speaker">Kenneth Falck, SC5 Oy</div><div class="hashtags"> #frontend #javascript</div></div></td>
 			
 		<td class="startcell"><div>1415>1515<h3>Paneelikeskustelu dataintensiivisestä tutkimuksesta ja sen välineistä</h3></div></td>
 			
@@ -451,7 +452,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 	<li>Esityksessä kerrotaan hyvistä käytännöistä tiedon avaamisen eri vaiheissa ja avoimeen tietoon liittyvistä arkkitehtuurikysymyksistä. Esityksen tavoitteena on tarjota kuulijoille näkökulmia omien organisaatioidensa tiedon avaamiseen tähtääviin projekteihin niiden eri vaiheissa.</li>
 </ul><div class="speaker">Mikael Nylund, Gofore Oy</div><div class="hashtags">#opendata #strategia</div></div>			</div>
 <div class="uusislot"><h3>Devops- mitä tietohallinnon täytyy tietää devopsista? (30min)</h3>
-<div class="speaker">Codento Oy</div>
+<div class="speaker">Petri Aukia, Codento Oy</div>
 </div>
 </td>
 		
@@ -514,7 +515,7 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 	<li>Puheenvuoron konsepti on "kehittäjältä kehittäjälle" eli tarkastelemme, miten ylläpidon ja kehittäjien rooleja voidaan yhdistää ja hyödyntää nimenomaan teknisten asiantuntijoiden näkökulmasta.</li>
 	
 </ul>
-<div class="speaker"></div>
+<div class="speaker">Kaj Mustikkamäki, Codento Oy</div>
 				<div class="hashtags">#devops #agile</div>
 </div>
 			</td>
@@ -594,7 +595,11 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 </ul>
 </div><div class="speaker">Ari Salmi, Digia Oyj</div><div class="hashtags">#qt #mobiiliikehitys #crossplatform</div>
 	<div class="uusislot"><h3>Sovelluskehitys Azure –kehittäjäpalveluilla ja Visual Studiolla (30min)</h3>
-	<div class="speaker">Drazen Dodik, Technical Evangelist, Microsoft Oy</div>
+<ul>
+	<li>Sovellukseni ja nettisivuni kaipaa alustariippumatonta taustajärjestelmää sisällön tallentamiseksi ja tarjoajaksi, mistä aloitan?</li>
+</ul>
+
+	<div class="speaker">Mikko Kasanen , Technical Evangelist, Microsoft Oy</div>
 	
 </div>
 			</td>
