@@ -13,17 +13,17 @@ pageOrder: '1'
 <tr>
 <h2 class="keh2">Tiistai 4.11.2014</h2>
 <th>Klo</th>
-<th>Track 01: <br/><span class="bigfont">projektit ja <br/>palvelut </span></th>
-<th>Track 02:<br/><span class="bigfont"> sovelluskehitys</span></th>
-<th>Track 03: <br/><span class="bigfont">tutkimuksen IT</span></th>
-<th>Track 04:<br/> <span class="bigfont">bitti ja rauta</span></th>
-<th>Track 05: <br/><span class="bigfont">tietohallinto</th>
+<th>Track 01: <br/><span class="bigfont">projektit ja <br/>palvelut </span><br/>Fennia 2 (2.krs)</th>
+<th>Track 02:<br/><span class="bigfont"> sovelluskehitys</span><br/> Nordia (2.krs)</th>
+<th>Track 03: <br/><span class="bigfont">tutkimuksen IT</span><br/>Nautica (1.krs)</th>
+<th>Track 04:<br/> <span class="bigfont">bitti ja rauta</span><br/>Fennia 1 (2.krs)</th>
+<th>Track 05: <br/><span class="bigfont">tietohallinto</span><br/>Europaea (1.krs)</th>
 </tr></thead>
 <tbody>
 <!--First row-->
 	<tr>
 			<td><p class="time">0930</p></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>Linda Liukas: mitä kaikkien tulee tietää koodaamisesta?</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>Linda Liukas: mitä kaikkien tulee tietää koodaamisesta?<br/>(sali: Europeaea, 1.krs)</p></div></td>
 			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>Linda Liukas: mitä kaikkien tulee tietää koodaamisesta?</p></div></td>
 			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>Linda Liukas: mitä kaikkien tulee tietää koodaamisesta?</p></div></td>
 			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>Linda Liukas: mitä kaikkien tulee tietää koodaamisesta?</p></div></td>
@@ -35,7 +35,7 @@ pageOrder: '1'
 			<td><p class="time">1040</p></td>
 			<td class="startcell">
 				<div>1040>1140
-				<h3>Ratkaisukonsultointia yksiköille<br/> IT-hankkeissa</h3>
+				<h3>Ratkaisukonsultointia yksiköille<br/> IT-hankkeissa (30min)</h3>
 				<ul>
 					<li>Tietojärjestelmähankintojen tukipalvelun järjestäminen</li>
 					
@@ -43,7 +43,7 @@ pageOrder: '1'
 				<div class="speaker">Teo Kirkinen, Tietotekniikkakeskus, Helsingin yliopisto</div>
 				<div class="hashtags">#palvelut #projektinhallinta #ketteryys</div>
 				</div>
-				<div class="uusislot"><h3> Ketteryys tietojärjestelmän hankinnassa ja toteutuksessa, case Turun yliopisto</h3>
+				<div class="uusislot"><h3> Ketteryys tietojärjestelmän hankinnassa ja toteutuksessa, case Turun yliopisto (30min)</h3>
 				<ul> <li>Turun yliopisto hajautti IdM-järjestelmän hankinnan kahdeksi erilliseksi kilpailutukseksi - miten se onnistui käytännössä?</li>
 				<li>Mihin asioihin sopimusneuvotteluissa kannattaa kiinnittää huomiota ketterästä projektista sovittaessa?</li>
 				</li>Kuinka sujuu yhteistyö Helsingissä työskentelevän Scrum-kehitystiimin ja Turun tuoteomistajien kanssa?</li></ul>
@@ -133,7 +133,7 @@ pageOrder: '1'
 				<h3>Lightning talk: kuulumisia projektitoiminnan SIG-ryhmästä (5min)</h3>
 				<div class="speaker">Maarit Rapiokallio, Helsingin yliopisto, tietotekniikkakeskus</div>
 				<div class="uusislot">
-				<h3>Projektitoimistot korkeakouluissa: case Aalto IT:n projektitoimisto</h3>
+				<h3>Projektitoimistot korkeakouluissa: case Aalto IT:n projektitoimisto (55min)</h3>
 				<ul>
 					<li>Kuinka projektitoimistot auttavat korkeakoulujen IT-toimintojen hallintaa?</li>
 					<li>Miten hallinoida työkokokonaisuuksia ja resursseja IT-investointien elinkaarimallin avulla?</li>
@@ -147,7 +147,7 @@ pageOrder: '1'
 
 			<td class="startcell">
 				<div>1245>1345
-				<h3>Angular.js:n tehokas käyttö ja sudenkuopat.</h3>
+				<h3>Angular.js:n tehokas käyttö ja sudenkuopat.(1h)</h3>
 				<div class="hashtags">#angularjs t #frontend </div> 
 				<div class="speaker"> <a href="http://teropa.info">Tero Parviainen,  itsenäinen ohjelmistokehittäjä</a></div>
 				</div>
@@ -166,7 +166,7 @@ pageOrder: '1'
 
 			<td class="startcell">
 				<div>1245>1345
-				<h3>  Tee se itse -pilvi</h3>
+				<h3>  Tee se itse -pilvi (1h)</h3>
 <ul>
 	<li>Katsaus avoimen lähdekoodin pilvituotteisiin sekä kokemuksia maailmalta IaaS- ja PaaS -projekteista.
 </li>
@@ -213,7 +213,7 @@ pageOrder: '1'
 </tr>
 <tr>
 			<td><p class="time">1415</p></td>
-			<td class="startcell"><div>1415>1515 <h3>Paneeli: Top 10 - parhaat käytännöt ketterään ostamiseen!</h3>
+			<td class="startcell"><div>1415>1515 <h3>Paneeli: Top 10 - parhaat käytännöt ketterään ostamiseen! (1h)</h3>
 				<ul>
 					<li>Kuinka ketteryys ja hankintalaki sopivat yhteen?</li>
 				<li>HY:n ketterän puitesopimuksen syntyminen ja hyödyntäminen, kuinka oma organisaatiosi voi hyödyntää kokemuksia.</li>
@@ -256,7 +256,7 @@ Suomen korkeakoulukentällä yhteistyömalleja on kokeiltu ja suunnitteilla yrit
 
 			<td class="startcell">
 				<div>1530>1630 
-				<h3>ID Point -palvelumalli: tunnistautumispalvelua asiakastukeen</h3>
+				<h3>ID Point -palvelumalli: tunnistautumispalvelua asiakastukeen (20min)</h3>
 				<ul>
 					<li>ID Point on tunnistuspalvelu, jonka avulla yliopistolaiset voivat helposti ja turvallisesti käyttää henkilötunnistusta vaativia palveluita puhelimitse.</li>
 					<li>Kuinka ja miksi palvelu on toteutettu? Entä mikä on palvelumalli?</li>
@@ -266,7 +266,7 @@ Suomen korkeakoulukentällä yhteistyömalleja on kokeiltu ja suunnitteilla yrit
 			</div>
 			<div>
 				<div class="uusislot">
-				<h3>Ketterä projektinhallinta kolmen yliopiston yhteishankkeessa</h3>
+				<h3>Ketterä projektinhallinta kolmen yliopiston yhteishankkeessa (40min)</h3>
 				<ul>
 					<li>OTM-hankkeessa on kuusi tuoteomistajaa, kuinka sujuu yhteistyö yliopistojen ja paikkakuntien välillä?</li>
 					<li>Kuinka omien kehittäjien, toimittajien ja eri korkeakoulujen asiantuntijoiden kesken saadaan tehokkaasti näkyvää aikaiseksi?</li>
@@ -345,12 +345,12 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 <h2 class="keh2">Keskiviikko 5.11.2014</h2>
 <thead>
 <tr>
-			<th>Klo </th>
-			<th>Track 01: <br/><span class="bigfont">palvelut</span></th>
-			<th>Track 02:<br/><span class="bigfont"> sovelluskehitys</span></th>
-			<th>Track 03: <br/><span class="bigfont">tutkimuksen IT</span></th>
-			<th>Track 04:<br/> <span class="bigfont">bitti ja rauta</span></th>
-			<th>Track 05: <br/><span class="bigfont">tietohallinto</span></th>
+			<th>Klo</th>
+<th>Track 01: <br/><span class="bigfont">projektit ja <br/>palvelut </span><br/>Fennia 2 (2.krs)</th>
+<th>Track 02:<br/><span class="bigfont"> sovelluskehitys</span><br/> Nordia (2.krs)</th>
+<th>Track 03: <br/><span class="bigfont">tutkimuksen IT</span><br/>Nautica (1.krs)</th>
+<th>Track 04:<br/> <span class="bigfont">bitti ja rauta</span><br/>Fennia 1 (2.krs)</th>
+<th>Track 05: <br/><span class="bigfont">tietohallinto</span><br/>Europaea (1.krs)</th>
 </tr>
 </thead>
 
@@ -370,7 +370,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			<td class="startcell">
 			<div>0900>1015
 				<div>
-				<h3>Esteettömyys ja saavutettavuus verkkopalveluissa</h3>
+				<h3>Esteettömyys ja saavutettavuus verkkopalveluissa (1h 15min)</h3>
 				<ul>
 					<li>Kuinka korkeakouluissa toteutetaan (opetuksen ja palveluiden) saavutettavuus ja käytettävyys? Miten toteutetaan opiskelun yhdenvertaisuus ja tasa-arvo? </li>
 					<li>Esityksessä käsitellään myös stivi-suosituksia (<a href="http://www.esok.fi/stivi">saavutettavat tieto-ja viestintäympäristöt</a>)</li>
@@ -583,7 +583,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 
 		<tr>		
 			<td><p class="time">1300</p></td><td class="startcell">
-					<div>1300>1430<h3>Opetusteknologian iltapäivä: Sekoitettuna, ei ravistettuna</h3></div><ul>
+					<div>1300>1430<h3>Opetusteknologian iltapäivä: Sekoitettuna, ei ravistettuna (1h 30min)</h3></div><ul>
 						<li> Sessiossa käydään läpi opetusteknologian menneisyyttä nykyhetken kautta tulevaan. Mikä on muuttunut - vai onko mikään? </li>
 					</ul>
 					<div class="speaker">Jere Majava, Antero Aunesluoma ja Pauliina Kupila, Helsingin yliopiston opetusteknologiakeskus</div>
@@ -657,11 +657,11 @@ Puheenvuoro sisältää ajankohtaista tietoa kohdistetuista hyökkäyksistä:
 
 	<tr>
 <td><p class="time">1500</p></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. </p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. </p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. </p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. </p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. </p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa.<br/>(sali: Europeaea, 1.krs) </p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa.<br/>(sali: Europeaea, 1.krs) </p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. <br/>(sali: Europeaea, 1.krs)</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. <br/>(sali: Europeaea, 1.krs)</p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. <br/>(sali: Europeaea, 1.krs) </p></div></td>
 	</tr>
 
 </tbody>
