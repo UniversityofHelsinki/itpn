@@ -204,7 +204,16 @@ a:hover#menu-icon {
 	.ilmoittaudu:hover{
 		background-image: url('../images/ilmohover.png');
 }
-#ilmoittaudu2{margin-left: 40%;}
+#ilmoittaudu2{
+margin-left: 30%;
+margin-right: 10%;
+}
+
+#ilmoittaudu3{
+margin-left: 10%;
+margin-right: 10%;
+
+}
 	.newscontent{
 		display:block;
 		margin-left: 20%;
