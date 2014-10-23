@@ -24,6 +24,15 @@ pageOrder: '1'
 </tr></thead>
 <tbody>
 <!--First row-->
+<tr>
+<td><p class="time">0830</p></td>
+<td class="lounas"><div class="cell1"></div><div class="cell2">0830>0930<h3>Rekisteröityminen ja aamiainen</h3></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">0830>0930<h3>Rekisteröityminen ja aamiainen</h3></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">0830>0930<h3>Rekisteröityminen ja aamiainen</h3></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">0830>0930<h3>Rekisteröityminen ja aamiainen</h3></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">0830>0930<h3>Rekisteröityminen ja aamiainen</h3></div></td>
+		
+</tr>
 	<tr>
 			<td><p class="time">0930</p></td>
 			<td class="lounas"><div class="cell1"></div><div class="cell2">0930>1030<h3>Keynote</h2><p>Linda Liukas: mitä kaikkien tulee tietää koodaamisesta?<br/>(sali: Europeaea, 1.krs)</p></div></td>
@@ -37,7 +46,7 @@ pageOrder: '1'
 		<tr>
 			<td><p class="time">1040</p></td>
 			<td class="startcell">
-				<div>1040>1140
+				<div>1040>1140<div class="pj">Puheenjohtaja: Maikki Sykäri, Helsingin yliopisto</div>
 				<h3>Ratkaisukonsultointia yksiköille<br/> IT-hankkeissa (30min)</h3>
 				<ul>
 					<li>Tietojärjestelmähankintojen tukipalvelun järjestäminen</li>
@@ -54,7 +63,8 @@ pageOrder: '1'
 				<div class="hashtags">#projektinhallinta #ketteryys</div>
 			</td>
 			<td class="startcell"> 
-				<div>1040>1140<h3>Docker - kevyempää virtualisointia (30min) </h3>
+				<div>1040>1140<div class="pj">Puheenjohtaja: Kari Tuononen, Helsingin yliopisto</div>
+<h3>Docker - kevyempää virtualisointia (30min) </h3>
 					<ul>
 						<li><b><a href="https://www.docker.com/">Docker</a></b> on Linux-käyttöjärjestelmille tehty sovelluspaketointi ja
 					ajoympäristö. Se mahdollistaa sovelluksen rippuvuuksien tallentamisen
@@ -76,17 +86,17 @@ pageOrder: '1'
 			</td>
 
 			<td class="startcell">
-				<div>1040>1140 <div class="pj">Puheenjohtaja: Ville Tenhunen</div>
+				<div>1040>1140 <div class="pj">Puheenjohtaja: Ville Tenhunen, Helsingin yliopisto</div>
 					<h3>Johdanto Tutkimuksen IT-trackiin (15min)</h3>
 					<div class="speaker">Ville Tenhunen, Helsingin yliopisto</div>
 					<div class="uusislot">
-					<h3>Datan merkitys tieteelle ja tutkimukselle, suurin mullistus sitten internetin? (45min)</h3>
+					<h3>Avoin tiede tulee - oletko valmis? (45min)</h3>
 					<div class="speaker">Pirjo-Leena Forsström, johtaja, CSC</div>
 					<div>
 				</div>
 			</td>
 
-			<td class="startcell"><div>1040>1140 
+			<td class="startcell"><div>1040>1140 <div class="pj">Puheenjohtaja: TBA</div>
 			<h3>Avoin data käytännössä: tekninen ratkaisu</h3>
 				<ul>
 					<li> Esityksessä esitellään tekninen kuvaus MML:n paikkatiedon palvelualustan pilotista, joka on MML:n karttakuvapalvelun avoin API. Kyseinen palvelu on paikkatietoalalla käytettyjen standardien mukainen, se on  julkinen ja se pyörii FORGEn tarjoamassa pilvipalvelussa. </li>
@@ -102,7 +112,7 @@ pageOrder: '1'
 			</td>
 
 			<td class="startcell">
-				<div>1040>1140
+				<div>1040>1140<div class="pj">Puheenjohtaja: Juhani Aurava, Helsingin yliopisto</div>
 <div><h3>Hankintadirektiivi 2016: mikä muuttuu? (30min)</h3>
 <div class="speaker">Lakiasiainjohtaja Eija Kontuniemi, Hansel Oy</div>
 </div>
@@ -132,7 +142,7 @@ pageOrder: '1'
 			<td><p class="time">1245</p></td>
 
 			<td class="startcell">
-				<div>1245>1345
+				<div>1245>1345<div class="pj">Puheenjohtaja: Veikko Mäkelä, Helsingin yliopisto</div>
 				<h3>Lightning talk: kuulumisia projektitoiminnan SIG-ryhmästä (5min)</h3>
 				<div class="speaker">Maarit Rapiokallio, Helsingin yliopisto, tietotekniikkakeskus</div>
 				<div class="uusislot">
@@ -149,14 +159,14 @@ pageOrder: '1'
 			</td>
 
 			<td class="startcell">
-				<div>1245>1345
+				<div>1245>1345<div class="pj">Puheenjohtaja: Antero Aunesluoma, Helsingin yliopisto</div>
 				<h3>Angular.js:n tehokas käyttö ja sudenkuopat.(1h)</h3>
 				<div class="hashtags">#angularjs t #frontend </div> 
 				<div class="speaker"> <a href="http://teropa.info">Tero Parviainen,  itsenäinen ohjelmistokehittäjä</a></div>
 				</div>
 			</td>
 			<td class="startcell">
-				<div>1245>1345 <div class="pj">Puheenjohtaja: Minna Harjuniemi</div>
+				<div>1245>1345 <div class="pj">Puheenjohtaja: Minna Harjuniemi, Helsingin yliopisto</div>
 				<h3>Tutkimusdatan kansainväliset ulottuvuudet ja yhteistyö (30min)</h3>
 				<div class="speaker">Ari Asmi, Helsingin yliopisto</div>
 				<div class="uusislot">
@@ -168,7 +178,7 @@ pageOrder: '1'
 
 
 			<td class="startcell">
-				<div>1245>1345
+				<div>1245>1345<div class="pj">Puheenjohtaja: Juhani Aurava, Helsingin yliopisto</div>
 				<h3>  Tee se itse -pilvi (1h)</h3>
 <ul>
 	<li>Katsaus avoimen lähdekoodin pilvituotteisiin sekä kokemuksia maailmalta IaaS- ja PaaS -projekteista.
@@ -182,7 +192,7 @@ pageOrder: '1'
 			</td>
 
 			<td class="startcell">
-				<div>1245>1345
+				<div>1245>1345<div class="pj">Puheenjohtaja: Risto Vähäkainu, Helsingin yliopisto</div>
 				<div><h3>Pääyhteistyökumppanin puheenvuoro: Ketterät tietovarastot ratkaisuna muuttuviin tiedolla johtamisen tarpeisiin (45min)</h3>
 <ul>
 	<li>Miten korkeakoulujen tieto- ja raportointitarpeet muuttuvat?</li>
@@ -216,7 +226,8 @@ pageOrder: '1'
 </tr>
 <tr>
 			<td><p class="time">1415</p></td>
-			<td class="startcell"><div>1415>1515 <h3>Paneeli: Top 10 - parhaat käytännöt ketterään ostamiseen! (1h)</h3>
+			<td class="startcell"><div>1415>1515<div class="pj">Puheenjohtaja: Otso Kivekäs, Helsingin yliopisto</div>
+ <h3>Paneeli: Top 10 - parhaat käytännöt ketterään ostamiseen! (1h)</h3>
 				<ul>
 					<li>Kuinka ketteryys ja hankintalaki sopivat yhteen?</li>
 				<li>HY:n ketterän puitesopimuksen syntyminen ja hyödyntäminen, kuinka oma organisaatiosi voi hyödyntää kokemuksia.</li>
@@ -226,16 +237,16 @@ pageOrder: '1'
 			<div class="speaker">Helsingin yliopiston asiantuntijat, Otso Kivekäs (Helsingin kaupungin tietotekniikkajaoston pj), Petri Aukia, Codento Oy</div>
 			<div class="hashtags">#ketteryys, #hankinnat, #projektinhallinta</div>
 	</td>
-			<td class="startcell"><div>1415>1515
+			<td class="startcell"><div>1415>1515<div class="pj">Puheenjohtaja: Sami Andberg, Helsingin yliopisto</div>
 <div><h3>HY:n avoimen datan API </h3>
 <div class="speaker">Joonas Kesäniemi, Helsingin yliopiston kirjasto</div>
 </div>
 <div class="uusislot"><h3>Automaattitestit pilveen - näin säästämme kehittäjän aikaa ja hermoja</h3></div><div class="speaker">Kenneth Falck, SC5 Oy</div><div class="hashtags"> #frontend #javascript</div></div></td>
 			
-		<td class="startcell"><div>1415>1515<h3>Paneelikeskustelu dataintensiivisestä tutkimuksesta ja sen välineistä</h3></div></td>
+		<td class="startcell"><div>1415>1515<div class="pj">Puheenjohtaja: TBA</div><h3>Paneelikeskustelu dataintensiivisestä tutkimuksesta ja sen välineistä</h3></div></td>
 			
 			<td class="startcell">
-				<div>1415>1515
+				<div>1415>1515<div class="pj">Puheenjohtaja: Jukka Hienola, Helsingin yliopisto</div>
 				<h3>Työasemaylläpidon iltapäivä: Mac-ylläpidon sessio </h3>
 				<p> Esityksessä käydään läpi teknisellä tasolla Jyväskylän yliopiston mac-ylläpidon tärkeimmät työkalut ja syyt näiden valintojen takana. Esityksessä mukana Munki, Puppet- asiaa sekä nykyaikaisen asiakaslähtöisen  Mac-ylläpidon parhaita käytäntöjä.</p>
 				<div class="speaker">Hannes Juutilainen, Jyväskylän yliopisto
@@ -244,7 +255,7 @@ pageOrder: '1'
 			</td>
 
 		<td class="startcell">
-				<div>1415>1515
+				<div>1415>1515<div class="pj">Puheenjohtaja: Ilkka Siissalo, Helsingin yliopisto</div>
 				<h3>Paneeli: Korkeakoulujen yhteistyömallit</h3>
 Suomen korkeakoulukentällä yhteistyömalleja on kokeiltu ja suunnitteilla yrityksistä osuuskuntaan ja konsortiosta kahdenvälisiin sopimuksiin. Minkälaiset mallit ovat tulevaisuutta, mikä ei ainakaan toimi ja miksi yhteistyökuviot ovat osoittautuneet haasteellisiksikin? Tule mukaan keskusteluun paremmasta huomisesta!
 				</div>
@@ -258,7 +269,7 @@ Suomen korkeakoulukentällä yhteistyömalleja on kokeiltu ja suunnitteilla yrit
 			<td><p class="time">1530</p></td>
 
 			<td class="startcell">
-				<div>1530>1630 
+				<div>1530>1630 <div class="pj">Puheenjohtaja: Juha Riihimäki, Helsingin yliopisto</div>
 				<h3>ID Point -palvelumalli: tunnistautumispalvelua asiakastukeen (20min)</h3>
 				<ul>
 					<li>ID Point on tunnistuspalvelu, jonka avulla yliopistolaiset voivat helposti ja turvallisesti käyttää henkilötunnistusta vaativia palveluita puhelimitse.</li>
@@ -284,7 +295,7 @@ Suomen korkeakoulukentällä yhteistyömalleja on kokeiltu ja suunnitteilla yrit
 			</td>
 			
 			<td class="startcell">
-				<div>1530>1630
+				<div>1530>1630<div class="pj">Puheenjohtaja: Kimmo Tykkälä, Helsingin yliopisto</div>
 				<h3>Funktionaaliset kielet käytännössä: Miltä oikea Clojure-projekti maistuu?</h3>
 <ul>
 	<li>Miksi Opetushallitukselle tehty tutkintatoimikuntarekisteri toteutettiin Clojurella, eikä esim. Javalla? </li>
@@ -313,7 +324,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 				</div>
 	</td>
 			<td class="startcell">
-				<div>1530>1630
+				<div>1530>1630<div class="pj">Puheenjohtaja: TBA</div>
 				<h3>Työasemaylläpidon iltapäivä jatkuu</h3>
 				<ul>
 	 				<li>Työasemien virtualisointi - onnistunut VDI-projekti</li>
@@ -331,7 +342,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 		</td>
 
 			<td class="startcell">
-				<div>1530>1630
+				<div>1530>1630<div class="pj">Puheenjohtaja: Ari Kuusio HAMK, OK</div>
 				<h3>Pääyhteistyökumppanin puheenvuoro: Gofore Oy: Maailma murroksessa  – tietohallinnot siinä mukana? (45min)</h3>
 <p>Esityksessä luodaan katsaus muutoksesta, jonka tulemme kohtaamaan seuraavan 20 vuoden kuluessa. Tietojärjestelmille kohdistuu aivan uudella tavalla tarve joustavuuteen ja mukautumiskykyyn teknisen sekä toiminnallisen ympäristön muuttuessa. Samaan aikaan taloudelliset realiteetit asettavat omia reunaehtojaan. Esittelemme lyhyesti digitaalisen maailman megatrendit sekä linkitämme ne opetusalaan vaikuttaviin ilmiöihin. Näistä tarina jatkuu kansallisten hankkeiden esittelyn kautta yksittäisen oppilaitoksen tietohallinnolle suunnattuihin toimintaohjeisiin.</p>
 				</div>
@@ -371,7 +382,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			<td><p class="time">0900</p></td>
 			
 			<td class="startcell">
-			<div>0900>1015
+			<div>0900>1015<div class="pj">Puheenjohtaja: Maarit Rapiokallio, Helsingin yliopisto</div>
 				<div>
 				<h3>Esteettömyys ja saavutettavuus verkkopalveluissa (1h 15min)</h3>
 				<ul>
@@ -387,7 +398,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			</td>
 
 			<td class="startcell"> 
-			<div>0900>1015
+			<div>0900>1015<div class="pj">Puheenjohtaja: TBA, Helsingin yliopisto</div>
 <h3>Ohjelmistoturvallisuus modernissa ohjelmistotuotannossa (1h)</h3>
 			<ul>
 				<li>Turvallisen ohjelmistokehityksen aktiviteettien tekeminen näkyväksi on esiehto, jos niiden halutaan tapahtuvan modernissa ("ketterässä") projektissa. </li>
@@ -417,13 +428,13 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 <div class="speaker"> Marko Hotti, Ratkaisuarkkitehti, Microsoft Oy</div>
 	</div>
 				<div class="uusislot"><h3>CSC Cloud teknisestä näkökulmasta (25min)</h3><div class="speaker">Jura Tarus, CSC</div></div>
-				<div class="uusislot"><h3>Erityisiä ratkaisuja tutkimuksen tietoteknisiin tarpeisiin (30min)</h3><div class="speaker">Perttu Määttä, Helsingin yliopisto</div></div>
+				<div class="uusislot"><h3>Erityisiä ratkaisuja tutkimuksen tietoteknisiin tarpeisiin (25min)</h3><div class="speaker">Perttu Määttä, Helsingin yliopisto</div></div>
 				</div>
 				<div class="hashtags">#pilvee #tutkimus</div>
 			</td>
 
 			<td class="startcell">
-				<div>0900>1015
+				<div>0900>1015<div class="pj">Puheenjohtaja:Visa Rauste, Helsingin yliopisto</div>
 				<h3>Hakuratkaisun anatomia - kurkistus pellin alle (20min)</h3>
 <ul>
 	<li> HY:n open source-pohjalle tehdyn uuden hakukoneratkaisun esittely ja arkkitehtuuri.</li>
@@ -442,7 +453,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 </div>
 </td>	
 			<td class="startcell">
-				<div>0900>1015
+				<div>0900>1015<div class="pj">Puheenjohtaja:Eija Heiskanen, Helsingin yliopisto</div>
 				<div class="speaker"></div>
 				<div class="hashtags"></div><div><h3>Mobiliteetti ja mobiilistrategia liiketoiminnan kehittäjänä (20min)</h3>
 <ul>
@@ -465,7 +476,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			<td><p class="time">1030</p></td>
 
 			<td class="startcell">
-			<div>1030>1200
+			<div>1030>1200<div class="pj">Puheenjohtaja: Teo Kirkinen, Helsingin yliopisto</div>
 				<div><h3>Tuotekeskeisesta palvelusta asiakaskeskeiseen palveluun (30min)</h3>
 				<ul>
 					<li>Palvelunhallinnan sovellukset tukemassa muutosta.  </li>
@@ -498,7 +509,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			</td>
 
 			<td class="startcell">
-				<div>1030>1200
+				<div>1030>1200<div class="pj">Puheenjohtaja: Sami Nikander, Helsingin yliopisto</div>
 			<div><h3> SOA-arkkitehtuurin soveltaminen <a href="http://martinfowler.com/articles/microservices.html">mikropalveluarkkitehtuurina</a></h3><p>Jyväskylän yliopisto rakentaa pienten palveluiden muodostamaa polygot
 arkkitehtuuria. Monoliittisesta Korppi-järjestelmästä on alettu siirtymään
 kohti SOAa ja mikropalveluarkkitehtuuria. Järjestelmäintegraatiot on
@@ -531,7 +542,7 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 			</td>
 
 			<td class="startcell">
-				<div>1030>1200
+				<div>1030>1200<div class="pj">Puheenjohtaja: Teppo Sorvali, Helsingin yliopisto</div>
 					<div><h3>Live Hacking (60min)</h3>
 					<ul>
 						<li>Outpost24:n tietoturvakonsultti Paul Mynarsky näyttää kuinka hyödyntämällä
@@ -551,7 +562,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 			</td>
 
 			<td class="startcell">
-				<div>1030>1200
+				<div>1030>1200<div class="pj">Puheenjohtaja: Jussi Koskivaara, Helsingin yliopisto</div>
 				<h3>Case Verohallinto: suuret järjestelmäuudistukset kokonaisarkkitehtuurin periaattein. (50min) </h3>
 				</div>
 				<div class="speaker">Markku Heikura, CIO, Verohallinto</div>
@@ -586,13 +597,13 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 
 		<tr>		
 			<td><p class="time">1300</p></td><td class="startcell">
-					<div>1300>1430<h3>Opetusteknologian iltapäivä: Sekoitettuna, ei ravistettuna (1h 30min)</h3></div><ul>
+					<div>1300>1430<div class="pj">Puheenjohtaja: Sari Koski-Kotiranta, Helsingin yliopisto</div><h3>Opetusteknologian iltapäivä: Sekoitettuna, ei ravistettuna (1h 30min)</h3></div><ul>
 						<li> Sessiossa käydään läpi opetusteknologian menneisyyttä nykyhetken kautta tulevaan. Mikä on muuttunut - vai onko mikään? </li>
 					</ul>
 					<div class="speaker">Jere Majava, Antero Aunesluoma ja Pauliina Kupila, Helsingin yliopiston opetusteknologiakeskus</div>
 					<div class="hashtags">#moocs #palvelut</div>
 			</td><td class="startcell">
-<div>1300>1430<h3>Laiteriippumaton sovelluskehitys Qt:llä (1h)</h3>
+<div>1300>1430<div class="pj">Puheenjohtaja: TBA</div><h3>Laiteriippumaton sovelluskehitys Qt:llä (1h)</h3>
 <ul>
 	<li>Tässä **hands on-sessiossa** käydään läpi, kuinka Qt:llä sovelluskehitys sujuu ja kuinka kerran kirjoitettu ohjelmakoodi voidaan ajaa alustariippumattomasti eri alustoilla (iOS, Android, Windows).</li>
 </ul>
@@ -609,7 +620,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 
 <td class="startcell">
 		<div>1300>1430
-		<div class="pj">Puheenjohtaja: TBA</div>
+		<div class="pj">Puheenjohtaja:TBA, Helsingin yliopisto</div>
 		<div class="uusislot">
 		<h3>"Aikaa tutkimukselle". Tutkimustietojärjestelmä tutkimushallinnon tavoitteiden tukena (30min)</h3>
 		<div class="speaker">Markku Niemi, Helsingin yliopisto</div>
@@ -620,7 +631,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 		</div>
 		</div>
 </td>
-<td class="startcell"><div>1300>1430
+<td class="startcell"><div>1300>1430<div class="pj">Puheenjohtaja:Päivi Pääkkö, Helsingin yliopisto</div>
 				<h3>Identiteetinhallinta - ympäristö pinnan alta</h3>
 				Turun yliopiston hankkeen arkkitehtuuria sekä Helsingin yliopiston IAM-hankkeen IdM-ratkaisun teknistä puolta selvitetään tässä sessiossa. 
 <ul>
@@ -638,7 +649,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 			<div class="speaker">Jyrki Rikalainen, Manager, System Engineering, NetApp</div>
 			</div>
 		</td>
-<td class="startcell"><div>1300>1430<h3>Metaforien käyttö konsortiohankkeissa (30min)</h3></div><div class="speaker">Riitta Hekkala, Aalto yliopisto, Matti Rossi, Aalto yliopisto</div>
+<td class="startcell"><div>1300>1430<div class="pj">Puheenjohtaja: Ilkka Siissalo, Helsingin yliopisto</div><h3>Metaforien käyttö konsortiohankkeissa (30min)</h3></div><div class="speaker">Riitta Hekkala, Aalto yliopisto, Matti Rossi, Aalto yliopisto</div>
 			<div class="hashtags"></div><div class="uusislot"><h3>Tietoturvasessio: kohdennetut hyökkäykset (1h)</h3>
 Puheenvuoro sisältää ajankohtaista tietoa kohdistetuista hyökkäyksistä:
 <ul>

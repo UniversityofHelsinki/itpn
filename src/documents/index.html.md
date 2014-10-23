@@ -9,7 +9,6 @@ pageOrder: '0'
 	<div id="loveit">
 	<img src="./images/IT_iso.png">
 	<p>Korkeakoulujen valtakunnalliset IT-päivät 2014 <br/>  4.-5.11.2014 Marina Congress Center, Helsinki<p>
-	<div id="ilmoittaudu"><a href="https://ilmo.contio.fi/meetingsmill/main.aspx?id=103" target="_blank"><img src="../images/ilmo.png" width="150" height="42"></a></div>	
 	<div id="ilmoittaudu">Seuraa meitä twitterissä! <a href="https://twitter.com/itp2014" target="_blank"><img src="../images/twitter.png" width="50" height="42"></a></div>	
 </div>
 </div>
