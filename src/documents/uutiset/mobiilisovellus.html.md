@@ -27,7 +27,7 @@ Twiittaa siis ahkerasti käyttäen tuota hashtagia ja laita myös kohdennus @itp
 Näin merkatut tweetit näkyvät myös mobiilisovelluksen etusivulla. Muista myös <a href="https://twitter.com/itp2014">Seurata meitä twitterissä!</a>
 
 #Ei älypuhelinta?
-Mikäli sinulla ei ole työsi puolesta älypuhelinta, ei huolta, olemme myös painattaneet ison määrän painettuja ohjelmia tapahtumaan! Käsiohjelmaa voi sähköisesti ihailla <a href=".../images/kasiohjelma.pdf">täällä</a>
+Mikäli sinulla ei ole työsi puolesta älypuhelinta, ei huolta, olemme myös painattaneet ison määrän painettuja ohjelmia tapahtumaan! Käsiohjelmaa voi sähköisesti ihailla <a href="http://www.it2014.fi/images/kasiohjelma.pdf">täällä</a>
 
 #Palautetta
 Anna mobiilisovelluksesta palautetta suoraan digialle jari.surakka@digia.com. Teknisissä kysymyksissä ja ongelmatilanteissa käänny Tukka Ahoniemen puoleen: tuukka.ahoniemi@theqtcompany.com
