@@ -52,13 +52,13 @@ Tässä uutiskirjeessä:
 
 	Track01: <a href="http://presemo.helsinki.fi/it1">http://presemo.helsinki.fi/it1</a>
  
-	Track02: <a href="http://presemo.helsinki.fi/it2">http://presemo.helsinki.fi/it1</a>
+	Track02: <a href="http://presemo.helsinki.fi/it2">http://presemo.helsinki.fi/it2</a>
 
-	Track03: <a href="http://presemo.helsinki.fi/it3">http://presemo.helsinki.fi/it1</a>
+	Track03: <a href="http://presemo.helsinki.fi/it3">http://presemo.helsinki.fi/it3</a>
  
-	Track04: <a href="http://presemo.helsinki.fi/it4">http://presemo.helsinki.fi/it1</a>
+	Track04: <a href="http://presemo.helsinki.fi/it4">http://presemo.helsinki.fi/it4</a>
 
-	Track05: <a href="http://presemo.helsinki.fi/it5">http://presemo.helsinki.fi/it1</a>
+	Track05: <a href="http://presemo.helsinki.fi/it5">http://presemo.helsinki.fi/it5</a>
 
 - Nämä osoitteet ovat näkyvästi näkyvillä myös tapahtumassa
 
