@@ -10,7 +10,7 @@ pageOrder: '3'
 <div id="ilmoittaudu2"><a href="https://twitter.com/itp2014" target="_blank">Seuraa meitä twitterissä!</a> <a href="https://twitter.com/itp2014" target="_blank"><img src="../images/twitter.png" width="50" height="42"></a></div>	
 </div>
 <div class="pagelower" class="clearfix" id="uutis">
-<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['uutiset']}, [{date: -1}]).toJSON()[0..10]: %>
+<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['uutiset']}, [{date: -1}]).toJSON()[0..25]: %>
 <a href="<%= document.url %>">
 <div class="frontbox">
 <div class="newsnosto"><img src="../images/newsimages/<%= document.basename %>.png"></div>
@@ -22,7 +22,7 @@ pageOrder: '3'
 </div>
 <div class="restofnews">
 <ul>
-	<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['news']}, [{date: 1}]).toJSON()[10..100]: %>
+	<% for document in @getCollection('documents').findAll({relativeOutDirPath:  $in: ['news']}, [{date: 1}]).toJSON()[26..100]: %>
 	<li class="restlist">
 	<a href="<%= document.url %>"><%= document.title %></a>
 	</li>

@@ -97,7 +97,7 @@ pageOrder: '1'
 			</td>
 
 			<td class="startcell"><div>1040>1140 <div class="pj">Puheenjohtaja: TBA</div>
-			<h3>Avoin data käytännössä: tekninen ratkaisu</h3>
+			<h3>Avoin data käytännössä: tekninen ratkaisu (30min)</h3>
 				<ul>
 					<li> Esityksessä esitellään tekninen kuvaus MML:n paikkatiedon palvelualustan pilotista, joka on MML:n karttakuvapalvelun avoin API. Kyseinen palvelu on paikkatietoalalla käytettyjen standardien mukainen, se on  julkinen ja se pyörii FORGEn tarjoamassa pilvipalvelussa. </li>
 					<li>Esityksessä sivutaan myös käytetyt (avoimen lähdekoodin) ohjelmat, tietokanta PostreSQL, karttakuva- ja aineistolatauspalvelinohjelmisto Geoserver, karttatiilikuvapuskuri Mapcache),  asennus ja ylläpito. </li>
@@ -106,7 +106,7 @@ pageOrder: '1'
 			<div class="hashtags">#avoin</div>
 			</div>
 			<div class="uusislot"> 
-			<h3>Kokemuksia Open-Stack ympäristön pystyttämisestä ja ylläpidosta</h3>
+			<h3>Kokemuksia Open-Stack ympäristön pystyttämisestä ja ylläpidosta (30min)</h3>
 			<div class="speaker">Peter Jenkins, CSC</div>
 			<div class="hashtags">#OpenStack #pilvi</div>
 			</td>
@@ -234,20 +234,20 @@ pageOrder: '1'
 				<li>Tule esittämään kysymyksiä ketterästä kilpailuttamisesta, pohditaan yhdessä, kuinka saadaan hommat sujumaan!</li>
 				</ul>
 			</div>
-			<div class="speaker">Helsingin yliopiston asiantuntijat, Otso Kivekäs (Helsingin kaupungin tietotekniikkajaoston pj), Petri Aukia, Codento Oy</div>
+			<div class="speaker">Helsingin yliopiston asiantuntijat, Otso Kivekäs (Helsingin kaupungin tietotekniikkajaoston pj), Petri Aukia, Codento Oy, Maikki Sykäri, Helsingin yliopisto, Jorma Turunen, Maanmittauslaitos</div>
 			<div class="hashtags">#ketteryys, #hankinnat, #projektinhallinta</div>
 	</td>
 			<td class="startcell"><div>1415>1515<div class="pj">Puheenjohtaja: Sami Andberg, Helsingin yliopisto</div>
-<div><h3>HY:n avoimen datan API </h3>
+<div><h3>HY:n avoimen datan API (30min) </h3>
 <div class="speaker">Joonas Kesäniemi, Helsingin yliopiston kirjasto</div>
 </div>
-<div class="uusislot"><h3>Automaattitestit pilveen - näin säästämme kehittäjän aikaa ja hermoja</h3></div><div class="speaker">Kenneth Falck, SC5 Oy</div><div class="hashtags"> #frontend #javascript</div></div></td>
+<div class="uusislot"><h3>Automaattitestit pilveen - näin säästämme kehittäjän aikaa ja hermoja(30min)</h3></div><div class="speaker">Kenneth Falck, SC5 Oy</div><div class="hashtags"> #frontend #javascript</div></div></td>
 			
-		<td class="startcell"><div>1415>1515<div class="pj">Puheenjohtaja: TBA</div><h3>Paneelikeskustelu dataintensiivisestä tutkimuksesta ja sen välineistä</h3></div></td>
+		<td class="startcell"><div>1415>1515<div class="pj">Puheenjohtaja: TBA</div><h3>Paneelikeskustelu dataintensiivisestä tutkimuksesta ja sen välineistä (1h)</h3></div></td>
 			
 			<td class="startcell">
 				<div>1415>1515<div class="pj">Puheenjohtaja: Jukka Hienola, Helsingin yliopisto</div>
-				<h3>Työasemaylläpidon iltapäivä: Mac-ylläpidon sessio </h3>
+				<h3>Työasemaylläpidon iltapäivä: Mac-ylläpidon sessio (1h) </h3>
 				<p> Esityksessä käydään läpi teknisellä tasolla Jyväskylän yliopiston mac-ylläpidon tärkeimmät työkalut ja syyt näiden valintojen takana. Esityksessä mukana Munki, Puppet- asiaa sekä nykyaikaisen asiakaslähtöisen  Mac-ylläpidon parhaita käytäntöjä.</p>
 				<div class="speaker">Hannes Juutilainen, Jyväskylän yliopisto
 				<div class="hashtags">#munki #työasemaylläpito</div>
@@ -256,7 +256,7 @@ pageOrder: '1'
 
 		<td class="startcell">
 				<div>1415>1515<div class="pj">Puheenjohtaja: Ilkka Siissalo, Helsingin yliopisto</div>
-				<h3>Paneeli: Korkeakoulujen yhteistyömallit</h3>
+				<h3>Paneeli: Korkeakoulujen yhteistyömallit (1h)</h3>
 Suomen korkeakoulukentällä yhteistyömalleja on kokeiltu ja suunnitteilla yrityksistä osuuskuntaan ja konsortiosta kahdenvälisiin sopimuksiin. Minkälaiset mallit ovat tulevaisuutta, mikä ei ainakaan toimi ja miksi yhteistyökuviot ovat osoittautuneet haasteellisiksikin? Tule mukaan keskusteluun paremmasta huomisesta!
 				</div>
 				<div class="speaker">Ilkka Siissalo, HY (pj), Pekka Kähkipuro, Aalto yliopisto, Tommi Kangasaho, Lahden ammattikorkeakoulu ja Manu Pajuluoma, Lapin yliopisto
@@ -296,7 +296,7 @@ Suomen korkeakoulukentällä yhteistyömalleja on kokeiltu ja suunnitteilla yrit
 			
 			<td class="startcell">
 				<div>1530>1630<div class="pj">Puheenjohtaja: Kimmo Tykkälä, Helsingin yliopisto</div>
-				<h3>Funktionaaliset kielet käytännössä: Miltä oikea Clojure-projekti maistuu?</h3>
+				<h3>Funktionaaliset kielet käytännössä: Miltä oikea Clojure-projekti maistuu? (30min)</h3>
 <ul>
 	<li>Miksi Opetushallitukselle tehty tutkintatoimikuntarekisteri toteutettiin Clojurella, eikä esim. Javalla? </li>
 	<li>Minkälaisia hyviä käytäntöjä  on Clojuren käytön kanssa muodostunut</li>
@@ -306,7 +306,7 @@ Suomen korkeakoulukentällä yhteistyömalleja on kokeiltu ja suunnitteilla yrit
 				<div class="speaker">Antti Virtanen, Solita Oy</div>
 				<div class="hashtags">#clojure 
 				</div>
-<div class="uusislot"><h3>Mitä Java 9/10/11:een on suunnitteilla?</h3>
+<div class="uusislot"><h3>Mitä Java 9/10/11:een on suunnitteilla? (30min)</h3>
 Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvyn, niin Java VM:n, kuin Java-kielenkin suhteen?
 				<div class="speaker">Esko Luontola, Solita Oy</div>
 				<div class="hashtags">#Java9_10_11 #JVM
@@ -325,16 +325,13 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 	</td>
 			<td class="startcell">
 				<div>1530>1630<div class="pj">Puheenjohtaja: TBA</div>
-				<h3>Työasemaylläpidon iltapäivä jatkuu</h3>
-				<ul>
-	 				<li>Työasemien virtualisointi - onnistunut VDI-projekti</li>
-				</ul>		
+				<h3>Työasemien virtualisointi - onnistunut VDI-projekti (20min)</h3>
 				<div class="speaker"> Olli Kinnunen Atea Finland
 				</div>
 				<div class="hashtags">#mobile #vdi #virtualisointi</div>
 				</div>
 				<div class="uusislot">
-				<h3>HAAGA-HELIA VDI - taustaa, tekniikkaa ja tulevaisuutta </h3>
+				<h3>HAAGA-HELIA VDI - taustaa, tekniikkaa ja tulevaisuutta (40min) </h3>
 				 Tässä teknisessä puheenvuorossa käydään läpi onnistuneen VDI-ratkaisua. 
 				<div class="speaker">järjestelmäasiantuntija Antero Kalliomäki, Haaga-Helia</div>
 				<div class="hashtags">#vdi</div>
@@ -446,7 +443,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 
 <div class="uusislot"><h3>Lightning talk: "Hyperconverged – kloonaa/siirrä/varmista/palauta viiden teratavun virtuaalikone alle 20 sekunnissa!" (20min)</h3><div class="speaker">Tero Vainio, ratkaisumyynti, Cygate Oy ja Kristian Salo, IT-arkkitehti, SimpliVity</div></div>
 <div class="uusislot">
-			<h3>Konesalin uusimisprojektin anatomia (30min)</h3>
+			<h3>Konesalin uusimisprojektin anatomia (35min)</h3>
 				Tampereen konesaliprojektin teknisen näkökulman ja projektin esittelyä. 
 	<div class="speaker">Juha Nisso, Tampereen teknillinen yliopisto</div>
 	<div class="hashtags">#konesali</div>
@@ -510,7 +507,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 
 			<td class="startcell">
 				<div>1030>1200<div class="pj">Puheenjohtaja: Sami Nikander, Helsingin yliopisto</div>
-			<div><h3> SOA-arkkitehtuurin soveltaminen <a href="http://martinfowler.com/articles/microservices.html">mikropalveluarkkitehtuurina</a></h3><p>Jyväskylän yliopisto rakentaa pienten palveluiden muodostamaa polygot
+			<div><h3> SOA-arkkitehtuurin soveltaminen <a href="http://martinfowler.com/articles/microservices.html">mikropalveluarkkitehtuurina</a> (1h)</h3><p>Jyväskylän yliopisto rakentaa pienten palveluiden muodostamaa polygot
 arkkitehtuuria. Monoliittisesta Korppi-järjestelmästä on alettu siirtymään
 kohti SOAa ja mikropalveluarkkitehtuuria. Järjestelmäintegraatiot on
 rakennettu pitkälti ZeroMQ, RabbitMQ:n ja MessagePackin varaan yleisemmin
@@ -539,6 +536,7 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 			<div class="uusislot"><h3>Tieteellisen laskennan palvelut, sisua ja taitoa (30min)</h3><div class="speaker">Jussi Heikonen, CSC</div></div>
 			<div class="uusislot"><h3>Tutkimusdatan tallentamisen kansalliset välineet Ida, Kata, AVAA (30min)</h3><div class="speaker">Stina Westman, CSC</div></div>
 			</div>
+			<div class="uusislot"><h3>TBA (30min)</h3></div>
 			</td>
 
 			<td class="startcell">
@@ -632,7 +630,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 		</div>
 </td>
 <td class="startcell"><div>1300>1430<div class="pj">Puheenjohtaja:Päivi Pääkkö, Helsingin yliopisto</div>
-				<h3>Identiteetinhallinta - ympäristö pinnan alta</h3>
+				<h3>Identiteetinhallinta - ympäristö pinnan alta (1h)</h3>
 				Turun yliopiston hankkeen arkkitehtuuria sekä Helsingin yliopiston IAM-hankkeen IdM-ratkaisun teknistä puolta selvitetään tässä sessiossa. 
 <ul>
 	<li>Mitä vaaditaan Turun yliopiston identiteetinhallinnan pyörittämiseen ?
