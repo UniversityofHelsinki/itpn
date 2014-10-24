@@ -243,7 +243,16 @@ pageOrder: '1'
 </div>
 <div class="uusislot"><h3>Automaattitestit pilveen - näin säästämme kehittäjän aikaa ja hermoja(30min)</h3></div><div class="speaker">Kenneth Falck, SC5 Oy</div><div class="hashtags"> #frontend #javascript</div></div></td>
 			
-		<td class="startcell"><div>1415>1515<div class="pj">Puheenjohtaja: TBA</div><h3>Paneelikeskustelu dataintensiivisestä tutkimuksesta ja sen välineistä (1h)</h3></div></td>
+		<td class="startcell"><div>1415>1515<div class="pj">Puheenjohtaja: TBA</div><h3>Paneelikeskustelu dataintensiivisestä tutkimuksesta ja sen välineistä (1h)</h3>
+<ul>
+	<li>Miltä datan merkitys tieteelle näyttää tällä hetkellä?</li>
+	<li>Mihin suuntaan dataintensiivinen tutkimus on matkalla? Mihin data
+tiedettä vie?</li>
+<li>Miten palvelut vastaavat tarpeisiin nyt? </li>
+</ul>
+<div class="speaker">Ari Asmi, HY, Aleksi Kallio, CSC, Mikko Hakala, Aalto ja Jessica Parland-von Essen, CSC. Keskustelun vetäjät Ville Tenhunen, Tuija Sonkkila</div>
+<div class="hashtags">#BigData #InternetofThings #yhteisöllisyys #pilvipalvelut</div>
+</div></td>
 			
 			<td class="startcell">
 				<div>1415>1515<div class="pj">Puheenjohtaja: Jukka Hienola, Helsingin yliopisto</div>
@@ -257,9 +266,13 @@ pageOrder: '1'
 		<td class="startcell">
 				<div>1415>1515<div class="pj">Puheenjohtaja: Ilkka Siissalo, Helsingin yliopisto</div>
 				<h3>Paneeli: Korkeakoulujen yhteistyömallit (1h)</h3>
-Suomen korkeakoulukentällä yhteistyömalleja on kokeiltu ja suunnitteilla yrityksistä osuuskuntaan ja konsortiosta kahdenvälisiin sopimuksiin. Minkälaiset mallit ovat tulevaisuutta, mikä ei ainakaan toimi ja miksi yhteistyökuviot ovat osoittautuneet haasteellisiksikin? Tule mukaan keskusteluun paremmasta huomisesta!
+<ul>
+	<li>Ammattikorkeakoulut valmistelevat yhteisen IT-alan yrityksen perustamista hoitamaan perustietotekniikkaa. Samaan aikaan HY, Aalto ja TaY valmistelevat myös oman yhteisen yrityksen perustamista hoitamaan opintohallinnon uusien järjestelmien kehitystä ja pyörittämistä. </li>
+	<li>Mikä näissä shared services -yhtiöissä korkeakouluja viehättää ja mikä taas on ongelmana yhteisen tuotannon perustamisessa?</li>
+	<li> Paneelissa on mukana useiden eri shared services -hankkeiden kanssa tekemisissä olevia IT-johtajia.</li>
+</ul>
 				</div>
-				<div class="speaker">Ilkka Siissalo, HY (pj), Pekka Kähkipuro, Aalto yliopisto, Tommi Kangasaho, Lahden ammattikorkeakoulu ja Manu Pajuluoma, Lapin yliopisto
+				<div class="speaker">Ilkka Siissalo, HY (pj), Pekka Kähkipuro, Aalto-yliopisto, Tommi Kangasaho, Lahden ammattikorkeakoulu ja Manu Pajuluoma, Lapin yliopisto
 				</div>
 				<div class="hashtags">#yhteistyö #strategia</div>
 			</td>
@@ -531,14 +544,11 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 </div>
 			</td>
 
-			<td class="startcell">1030>1200<div class="pj">Puheenjohtaja: Ville Tenhunen, Helsingin yliopisto</div>
+			<td class="startcell">1030>1200<div class="pj">Puheenjohtaja: Tuija Sonkkila, Aalto-yliopisto</div>
 			<div>
 			<div class="uusislot"><h3>Tieteellisen laskennan palvelut, sisua ja taitoa (30min)</h3><div class="speaker">Jussi Heikonen, CSC</div></div>
-			<div class="uusislot"><h3>Tutkimusdatan tallentamisen kansalliset välineet Ida, Kata, AVAA (30min)</h3><div class="speaker">Stina Westman, CSC</div></div>
+			<div class="uusislot"><h3>Tutkimusdatan tallentamisen kansalliset välineet Ida, Etsin, AVAA (30min)</h3><div class="speaker">Stina Westman, CSC</div></div>
 			</div>
-			<div class="uusislot"><h3>Mistä on hyvä datapolitiikka tehty?(30min)</h3>
-<div class="speaker">Eeva Nyrövaara, Helsingin yliopisto</div>
-</div>
 			</td>
 
 			<td class="startcell">
@@ -626,10 +636,13 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 		<div class="speaker">Markku Niemi, Helsingin yliopisto</div>
 		<div class="hashtags">#datapolitiikka #ka </div>
 		</div>
-		<div class="uusislot">
-			<h3>TBA </h3>
+<div class="uusislot"><h3>Mistä on hyvä datapolitiikka tehty?(30min)</h3>
+<div class="speaker">Eeva Nyrövaara, Helsingin yliopisto</div>
+</div>
 		</div>
-		</div>
+<div class="uusislot"><h3>Loppuyhteenveto: Eikä tässä vielä kaikki, hommahan on vasta alussa. (30min)</h3>
+ <div class="speaker">Ville Tenhunen, Helsingin yliopisto"</div>
+</div>
 </td>
 <td class="startcell"><div>1300>1430<div class="pj">Puheenjohtaja:Päivi Pääkkö, Helsingin yliopisto</div>
 				<h3>Identiteetinhallinta - ympäristö pinnan alta (1h)</h3>
