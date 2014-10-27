@@ -12,7 +12,7 @@ Tiistai-iltapäivän paneeleissa keskustelemme ja pohdimme toimintatapoja, IT:n 
 
 Aikaisemmin hankinnat tehtiin ostamalla ns. "avaimet käteen"-paketti. Vastuuta ei kuitenkaan voi ulkoistaa, eikä hankkeen alussa voida tietää kaikkia vaatimuksia. Kehitysprosessilla on myös takaisinkytkentä siihen, mitä hankittavalta järjestelmältä odotetaan. 
 
-Kuinka yhdistää hankintalaki ja ketterä toiminta? Paneelissa keskustellaan ketterästä ostamisesta mm. Helsingin yliopiston ketterää puitesopimuskilpailutusta esimerkkinä käyttäen. Vinkkejä antavat HY:n kilpailutuksessa mukana ollut Sami Nikander, Maanmittauslaitoksessa ketterää toimintaa edistänyt Jorma Turunen sekä ketteriin kilpailutuksiin toimittajana osallistuneet Otso Kivekäs ja Petri Aukia Codentolta. 
+Kuinka siis yhdistää hankintalaki ja ketterä toiminta? Paneelissa keskustellaan ketterästä ostamisesta mm. Helsingin yliopiston ketterää puitesopimuskilpailutusta esimerkkinä käyttäen. Vinkkejä antavat HY:n kilpailutuksessa mukana ollut Sami Nikander, Maanmittauslaitoksessa ketterää toimintaa edistänyt Jorma Turunen sekä ketteriin kilpailutuksiin toimittajana osallistuneet Otso Kivekäs ja Petri Aukia Codentolta. 
 
 ##Dataintensiivinen tutkimus ja sen välineet (track 03)
 
