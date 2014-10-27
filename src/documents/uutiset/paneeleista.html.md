@@ -20,7 +20,7 @@ Paneelissa keskustellaan IT:n nykyisestä ja tulevasta roolista. Lisäksi pohdit
 
 Keskustelussa mukana ovat Ari Asmi, HY, Aleksi Kallio, CSC, Mikko Hakala, Aalto-yliopisto ja Jessica Parland-von Essen, CSC. Keskustelun vetäjät Ville Tenhunen, HY, Tuija Sonkkila mistä?
 
-##Korkeakoulujen yhteistyömallit
+##Korkeakoulujen yhteistyömallit (track05)
 
 Ammattikorkeakoulut valmistelevat yhteisen IT-alan yrityksen perustamista perustietotekniikkaa hoitamaan. Samaan aikaan HY, Aalto ja TaY valmistelevat myös oman yhteisen yrityksen perustamista hoitamaan opintohallinnon uusien järjestelmien kehitystä ja pyörittämistä. Vastaavia hankkeita on menossa myös maailmalla. Mikä näissä shared services -yhtiöissä korkeakouluja viehättää ja millaisia ongelmia yhteisen tuotannon perustamisessa on?
 
@@ -32,8 +32,8 @@ Paneeleihin on varattu tunti aikaa, mutta keskustelua saa jatkaa vaikka IT-päiv
 Tervetuloa keskustelemaan!
 Lisätietoa ja kysymyksiä info@it2014.fi
 
-Anne-Mari Seppola
-IT-päivien tuottaja, tietojärjestelmäprojektipäällikkö, Helsingin yliopisto
-anne-mari.seppola@helsinki.fi
-050-3453542
-www.it2014.fi
+Anne-Mari Seppola<br/>
+IT-päivien tuottaja, tietojärjestelmäprojektipäällikkö, Helsingin yliopisto <br/>
+anne-mari.seppola@helsinki.fi<br/>
+050-3453542<br/>
+www.it2014.fi<br/>
