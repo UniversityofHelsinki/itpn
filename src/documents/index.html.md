@@ -15,15 +15,15 @@ pageOrder: '0'
 
 
 <div class="pagelower" class="clearfix">
-<a href="uutiset/mobiilisovellus.html">
+<a href="uutiset/osallistujille.html">
 		<div class="frontbox">
 			<div id="first">
 			</div>
 				<h2>
-				IT-päivien mobiilisovellus julkaistu!
+				Tärkeää tietoa IT-päiville osallistuville!
 				</h2>
 				<p>
-				IT-päivien ohjelmasta pysyt perillä tekemällä oman suosikkilistasi mobiilisovellukseen. Lataa, testaa ja anna palautetta!
+				Käytännön ohjeita osallistujille IT-päivistä! 
 				<br/><u>lue lisää</u></p>
 	</div>
 </a>
