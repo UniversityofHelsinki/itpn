@@ -498,9 +498,8 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			<div class="uusislot">
 				<h3>Keskitetty Helpdesk-palvelu (30min)</h3>
 <ul>
-	<li>Miksi HY päätyi Helpdesk-toiminnassaan kampuksille hajautetun mallin sijaan keskitettyyn vaihtoehtoon?</li>
-	<li>Minkälaisia kokemuksia keskitetty Helpdesk-toiminta on kerryttänyt?</li>
-	
+<li>Vuoden Service Desk -uudistaja 2014 esittäytyy</li>
+<li>Hajautetusta mallista keskitettyyn tukeen. Miksi muutoksessa onnistuttiin?</li>
 </ul>
 <div class="speaker">Laura Pesola ja Pekka Rundgren, Helsingin yliopisto</div>
 			</div>
