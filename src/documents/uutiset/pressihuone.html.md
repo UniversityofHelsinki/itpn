@@ -16,7 +16,7 @@ Ajantasaisen tiedon varauksista näet <a href="http://wiki.helsinki.fi/display/I
 
 Tähän mennessä pressihuoneessa eli workshoptilassa on kaksi varausta keskiviikolle. 
 
-##Tietojärjestelmien yhteentoimivuus (OPH, CSC, Cerion yms), keskiviikko klo 0900>1015
+##Tietojärjestelmien yhteentoimivuus (OPH, CSC, Cerion yms), keskiviikko klo 1030>1200
 Korkeakoulujen tietomallia on hyödynnetty vaihtelevissa määrin ja osin eri tavoin korkeakoulukentällä. Nyt kehitteillä oleva yhteentoimivuusmalli mahdollistaa tietojen yhteismitallisuuden ja tietojärjestelmien yhteen toimivuuden käsitteellisellä tasolla. Mitä tämä tarkoittaa ja mitä mahdollisuuksia korkeakouluilla on tämän lisäksi hyödyntää hallinnonalalla kertaalleen kehitettyjä ratkaisuja kustannusten vähentämiseksi?
 
 Keskustelutilaisuudessa keskeisimmät tietomallin kanssa työskentelevät tahot pohtivat mahdollisuutta erilaisiin yhteistyön muotoihin, sekä tiedon ja ratkaisujen  jakamiseen.

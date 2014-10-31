@@ -234,7 +234,7 @@ pageOrder: '1'
 				<li>Tule esittämään kysymyksiä ketterästä kilpailuttamisesta, pohditaan yhdessä, kuinka saadaan hommat sujumaan!</li>
 				</ul>
 			</div>
-			<div class="speaker">Helsingin yliopiston asiantuntijat, Otso Kivekäs (Helsingin kaupungin tietotekniikkajaoston pj), Petri Aukia, Codento Oy, Maikki Sykäri, Helsingin yliopisto, Jorma Turunen, Maanmittauslaitos</div>
+			<div class="speaker">Otso Kivekäs (Helsingin kaupunginhallituksen tietotekniikkajaoston pj), Petri Aukia, Codento Oy, Maikki Sykäri, Helsingin yliopisto, Jorma Turunen, Maanmittauslaitos</div>
 			<div class="hashtags">#ketteryys, #hankinnat, #projektinhallinta</div>
 	</td>
 			<td class="startcell"><div>1415>1515<div class="pj">Puheenjohtaja: Sami Andberg, Helsingin yliopisto</div>
