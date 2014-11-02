@@ -408,7 +408,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			</td>
 
 			<td class="startcell"> 
-			<div>0900>1015<div class="pj">Puheenjohtaja: TBA, Helsingin yliopisto</div>
+			<div>0900>1015<div class="pj">Puheenjohtaja: Viljami Rahikainen, Helsingin yliopisto</div>
 <h3>Ohjelmistoturvallisuus modernissa ohjelmistotuotannossa (1h)</h3>
 			<ul>
 				<li>Turvallisen ohjelmistokehityksen aktiviteettien tekeminen näkyväksi on esiehto, jos niiden halutaan tapahtuvan modernissa ("ketterässä") projektissa. </li>
@@ -496,7 +496,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 				<div class="hashtags">#asiakaskeskeisyys #palvelunhallinta</div>
 			</div>
 			<div class="uusislot">
-				<h3>Keskitetty Helpdesk-palvelu (30min)</h3>
+				<h3> Vuoden Service Desk -uudistaja 2014 – Helsingin yliopiston Helpdesk (30min)</h3>
 <ul>
 <li>Vuoden Service Desk -uudistaja 2014 esittäytyy</li>
 <li>Hajautetusta mallista keskitettyyn tukeen. Miksi muutoksessa onnistuttiin?</li>
