@@ -18,7 +18,7 @@ Kuinka siis yhdistää hankintalaki ja ketterä toiminta? Paneelissa keskustella
 
 Paneelissa keskustellaan IT:n nykyisestä ja tulevasta roolista. Lisäksi pohditaan millainen on datan merkitys tieteelle. Mihin dataintensiivinen tutkimus on matkalla – mihin data tiedettä vie? Aiheina mm. Big Data, tutkimusdatan pitkä häntä (long tail), Internet of Things/Everything, pilvipalvelut, fog computing, tallennus, laskenta, datanhallinta, jakaminen, julkaisu.
 
-Keskustelussa mukana ovat Ari Asmi, HY, Aleksi Kallio, CSC, Mikko Hakala, Aalto-yliopisto ja Jessica Parland-von Essen, CSC. Keskustelun vetäjät Ville Tenhunen, HY, Tuija Sonkkila mistä?
+Keskustelussa mukana ovat Ari Asmi, HY, Aleksi Kallio, CSC, Mikko Hakala, Aalto-yliopisto ja Jessica Parland-von Essen, CSC. Keskustelun vetäjät Ville Tenhunen, HY, Tuija Sonkkila Aalto-yliopistosta.
 
 ##Korkeakoulujen yhteistyömallit (track05)
 
