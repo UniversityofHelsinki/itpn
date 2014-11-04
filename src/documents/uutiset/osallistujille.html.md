@@ -40,7 +40,7 @@ Tässä uutiskirjeessä:
 - Aikataulu IT-päivillä on erittäin tiukka, sillä puheenvuoroja on paljon ja usein myös monta yhdessä slotissa.
 - Tule siis ajoissa paikalle, jos haluat kuulla puheenvuoron kokonaan.
 - Mikäli puhuja käyttää koko puheslottinsa, esim. 15min puheeseen, ei kysymyksille jää aikaa. Tämä on hieman julmaa, mutta välttämätöntä, sillä useissa sloteissa on monta puheenvuoroa ja jos ensimmäiset kaksi menevät yliaikaa, kolmannen aikaslotti jää lyhyeksi (tauot alkavat, kuten ilmoitettu, niistä ei voi joustaa).
-- Keskustelua voi kuitenkin jatkaa presemossa (ks. kohta 3) tai tauoilla tai jopa iltajuhlassa!
+- Keskustelua voi kuitenkin jatkaa presemossa (ks. kohta 4) tai tauoilla tai jopa iltajuhlassa!
 
 
 #4. Presemo
