@@ -612,7 +612,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 					<div class="speaker">Jere Majava, Antero Aunesluoma ja Pauliina Kupila, Helsingin yliopiston opetusteknologiakeskus</div>
 					<div class="hashtags">#moocs #palvelut</div>
 			</td><td class="startcell">
-<div>1300>1430<div class="pj">Puheenjohtaja: TBA</div><h3>Laiteriippumaton sovelluskehitys Qt:llä (1h)</h3>
+<div>1300>1430<div class="pj">Puheenjohtaja: Perttu Määttä, Helsingin yliopisto</div><h3>Laiteriippumaton sovelluskehitys Qt:llä (1h)</h3>
 <ul>
 	<li>Tässä **hands on-sessiossa** käydään läpi, kuinka Qt:llä sovelluskehitys sujuu ja kuinka kerran kirjoitettu ohjelmakoodi voidaan ajaa alustariippumattomasti eri alustoilla (iOS, Android, Windows).</li>
 </ul>
@@ -622,7 +622,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 	<li>Sovellukseni ja nettisivuni kaipaa alustariippumatonta taustajärjestelmää sisällön tallentamiseksi ja tarjoajaksi, mistä aloitan?</li>
 </ul>
 
-	<div class="speaker">Mikko Kasanen , Technical Evangelist, Microsoft Oy</div>
+	<div class="speaker">Drazen Dodik , Technical Evangelist, Microsoft Oy</div>
 	
 </div>
 			</td>
