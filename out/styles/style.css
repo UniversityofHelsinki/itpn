@@ -353,10 +353,10 @@ Layouts for the front page, the big banner imate (.pageupper) and lower part (.p
 }
 /*Frontpage boxes, background since wanted the hover*/
 	#first{
-		background-image: url('../images/ohjelmisto_v01.png');
+		background-image: url('../images/party2.png');
 	}
 	#second{
-		background-image: url('../images/party2.png');
+		background-image: url('../images/open_v01.png');
 	}
 	#third{
 		background-image: url('../images/sponsori_v01.png');
@@ -746,10 +746,10 @@ margin-top: 1px;
 	}
 	
 		#first:hover{
-			background-image: url('../images/ohjelmisto_v01_hoveri.png');
+			background-image: url('../images/party1.png');
 		}
 			#second:hover{
-			background-image: url('../images/party1.png');
+			background-image: url('../images/open_v01_hoveri.png');
 		}
 			#third:hover{
 			background-image: url('../images/sponsori_v01_hoveri.png');
