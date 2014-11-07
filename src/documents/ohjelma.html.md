@@ -723,11 +723,21 @@ Puheenvuoro sisältää ajankohtaista tietoa kohdistetuista hyökkäyksistä:
 
 	<tr>
 <td><p class="time">1500</p></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa.<br/>(sali: Europeaea, 1.krs) </p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa.<br/>(sali: Europeaea, 1.krs) </p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. <br/>(sali: Europeaea, 1.krs)</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. <br/>(sali: Europeaea, 1.krs)</p></div></td>
-			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. <br/>(sali: Europeaea, 1.krs) </p></div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa.<br/>(sali: Europeaea, 1.krs) </p>
+<div class="button">[ESITYS](http://www.slideshare.net/mariaboman3/korkeakoulut-shkinen-tulevaisuus)</div>
+</div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa.<br/>(sali: Europeaea, 1.krs) </p>
+<div class="button">[ESITYS](http://www.slideshare.net/mariaboman3/korkeakoulut-shkinen-tulevaisuus)</div>
+</div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. <br/>(sali: Europeaea, 1.krs)</p>
+<div class="button">[ESITYS](http://www.slideshare.net/mariaboman3/korkeakoulut-shkinen-tulevaisuus)</div>
+</div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. <br/>(sali: Europeaea, 1.krs)</p>
+<div class="button">[ESITYS](http://www.slideshare.net/mariaboman3/korkeakoulut-shkinen-tulevaisuus)</div>
+</div></td>
+			<td class="lounas"><div class="cell1"></div><div class="cell2">1500>1600<h3>Keynote</h2><p>Jyrki J.J. Kasvi: Tulevaisuuskaan ei ole enää entisensä – edes korkeakoulussa. <br/>(sali: Europeaea, 1.krs) </p>
+<div class="button">[ESITYS](http://www.slideshare.net/mariaboman3/korkeakoulut-shkinen-tulevaisuus)</div>
+</div></td>
 	</tr>
 
 </tbody>
