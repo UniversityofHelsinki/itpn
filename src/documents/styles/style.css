@@ -74,6 +74,72 @@ a:hover#menu-icon {
 
 }
 
+.nappi a{
+	height: 100%;
+}
+.button {
+   border-top: 1px solid #96d1f8;
+   background: #ff00ff;
+   background: -webkit-gradient(linear, left top, left bottom, from(#ff00ff), to(#ff00ff));
+   background: -webkit-linear-gradient(top, #ff00ff, #ff00ff);
+   background: -moz-linear-gradient(top, #ff00ff, #ff00ff);
+   background: -ms-linear-gradient(top, #ff00ff, #ff00ff);
+   background: -o-linear-gradient(top, #ff00ff, #ff00ff);
+   padding: 5px 10px;
+   -webkit-border-radius: 14px;
+   -moz-border-radius: 14px;
+   border-radius: 14px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #666666;
+   text-decoration: none;
+   vertical-align: middle;
+max-width: 30%;
+   }
+.button:hover {
+   border-top-color: #00ffff;
+   background: #00ffff;
+   color: #ccc;
+   }
+.button:active {
+   border-top-color: #531b5c;
+   background: #531b5c;
+   }
+
+/*.button {
+   border-top: 1px solid #96d1f8;
+   background: #ff00ff;
+   background: -webkit-gradient(linear, left top, left bottom, from(#ff00ff), to(#ff00ff));
+   background: -webkit-linear-gradient(top, #ff00ff, #ff00ff);
+   background: -moz-linear-gradient(top, #ff00ff, #ff00ff);
+   background: -ms-linear-gradient(top, #ff00ff, #ff00ff);
+   background: -o-linear-gradient(top, #ff00ff, #ff00ff);
+   padding: 10px 10px 20px 10px;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 14px;
+   border-radius: 8px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #666666;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.button:hover {
+   border-top-color: #00ffff;
+   background: #00ffff;
+   color: #ccc;
+   }
+.button:active {
+   border-top-color: #531b5c;
+   background: #531b5c;
+   }
+*/
+.nappi > a {margin: 15px;}
+
 /*.nayt{
 	background-color:  #00ffff;
 	border-radius: 4px 4px 0 0;
@@ -106,7 +172,9 @@ a:hover#menu-icon {
 	}
 	
 	/* to make the turquoise underline after nav element*/
-
+#content2{
+	margin: 30px 10px 50px 20%;
+}
 	.top>a:after, h2:after, .newscontent >h1:after, .pspons >h3:after, .sponsdigia > h3:after, .spons >h3:after, .sponssiloota >h3:after{ 
 		content: "_";
 		color: #00ffff ;
@@ -116,7 +184,7 @@ a:hover#menu-icon {
 	body{	
 		width: 100%;
 	}
-
+.presis > a {color: red; font-weight: bold;}
 	/*To get the black line behind the logo..*/
 	#viiva{
 		content: "";  

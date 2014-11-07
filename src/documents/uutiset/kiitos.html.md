@@ -12,7 +12,7 @@ Suuri kiitos teille osallistujille, te teette tämän yhteisön ja teidän tuken
 Haluamme vielä kiittää myös yhteistyökumppaneita, ilman teitä tämä tapahtuma ei olisi mahdollinen. Suuri kiitos etenkin pääyhteistyökumppaneillemme Goforelle ja Cerionille.
 
 #Kuvat ja materiaalit
-Suurin osa puhujista on antanut luvan julkaista materiaalit ja videoinnit esityksistä. Ne tulevat jakoon tämän nettisivun kautta. 
+Suurin osa puhujista on antanut luvan julkaista materiaalit ja videoinnit esityksistä. Ne tulevat jakoon tämän nettisivun kautta [ohjelma-sivulle](../ohjelma.html) jokaisen esityksen yhteyteen.
 
 Kuvia IT-päivistä löytyy flickristä [täältä](https://www.flickr.com/photos/129125392@N05/).
 

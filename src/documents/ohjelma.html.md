@@ -1,15 +1,13 @@
 ---
 layout: 'default'
 title: 'Ohjelma'
-pageOrder: '1'
+pageOrder: '2'
 ---
 <p class="trackeista">
 <div id="ilmoittaudu3">
 <p class="trackeistä"><b>Huom! </b>Ohjelmasta on myös painetuksi ohjelmaksi tehty <a href="../images/kasiohjelma.pdf">käsiohjelma</a>, mikäli haluat tulostaa ohjelman. Huomioi, että  jokainen osallistuja saa painetun ohjelman myös paikan päällä, lisäksi tapahtumassa toimii <a href="./uutiset/mobiilisovellus.html">mobiiliappsi</a>, joten välttämättä tulostustarvetta ei ole. 
 </p>
-</div>	
-
-
+</div>
 <div id="taulukko">
 <table id="keskiviikko">
 <thead>
@@ -48,6 +46,7 @@ pageOrder: '1'
 			<td class="startcell">
 				<div>1040>1140<div class="pj">Puheenjohtaja: Maikki Sykäri, Helsingin yliopisto</div>
 				<h3>Ratkaisukonsultointia yksiköille<br/> IT-hankkeissa (30min)</h3>
+<div class="button">[ESITYS](../slidet/kirkinen.pptx)</div>
 				<ul>
 					<li>Tietojärjestelmähankintojen tukipalvelun järjestäminen</li>
 					
@@ -55,7 +54,9 @@ pageOrder: '1'
 				<div class="speaker">Teo Kirkinen, Tietotekniikkakeskus, Helsingin yliopisto</div>
 				<div class="hashtags">#palvelut #projektinhallinta #ketteryys</div>
 				</div>
-				<div class="uusislot"><h3> Ketteryys tietojärjestelmän hankinnassa ja toteutuksessa, case Turun yliopisto (30min)</h3>
+				<div class="uusislot">
+<h3> Ketteryys tietojärjestelmän hankinnassa ja toteutuksessa, case Turun yliopisto (30min)</h3>
+<div class="button">[ESITYS](../slidet/toivanen.ppt)</div>
 				<ul> <li>Turun yliopisto hajautti IdM-järjestelmän hankinnan kahdeksi erilliseksi kilpailutukseksi - miten se onnistui käytännössä?</li>
 				<li>Mihin asioihin sopimusneuvotteluissa kannattaa kiinnittää huomiota ketterästä projektista sovittaessa?</li>
 				</li>Kuinka sujuu yhteistyö Helsingissä työskentelevän Scrum-kehitystiimin ja Turun tuoteomistajien kanssa?</li></ul>
@@ -65,6 +66,7 @@ pageOrder: '1'
 			<td class="startcell"> 
 				<div>1040>1140<div class="pj">Puheenjohtaja: Kari Tuononen, Helsingin yliopisto</div>
 <h3>Docker - kevyempää virtualisointia (30min) </h3>
+<div class="button">[ESITYS](../slidet/talaskivi.pdf)</div>
 					<ul>
 						<li><b><a href="https://www.docker.com/">Docker</a></b> on Linux-käyttöjärjestelmille tehty sovelluspaketointi ja
 					ajoympäristö. Se mahdollistaa sovelluksen rippuvuuksien tallentamisen
@@ -88,9 +90,11 @@ pageOrder: '1'
 			<td class="startcell">
 				<div>1040>1140 <div class="pj">Puheenjohtaja: Ville Tenhunen, Helsingin yliopisto</div>
 					<h3>Johdanto Tutkimuksen IT-trackiin (15min)</h3>
+<div class="button">[ESITYS](../slidet/tenhunen1.pdf)</div>
 					<div class="speaker">Ville Tenhunen, Helsingin yliopisto</div>
 					<div class="uusislot">
 					<h3>Avoin tiede tulee - oletko valmis? (45min)</h3>
+<div class="button">[ESITYS](../slidet/forsstrom.pdf)</div>
 					<div class="speaker">Pirjo-Leena Forsström, johtaja, CSC</div>
 					<div>
 				</div>
@@ -98,6 +102,7 @@ pageOrder: '1'
 
 			<td class="startcell"><div>1040>1140 <div class="pj">Puheenjohtaja: TBA</div>
 			<h3>Avoin data käytännössä: tekninen ratkaisu (30min)</h3>
+<div class="button">[ESITYS](../slidet/ventin.ppt)</div>
 				<ul>
 					<li> Esityksessä esitellään tekninen kuvaus MML:n paikkatiedon palvelualustan pilotista, joka on MML:n karttakuvapalvelun avoin API. Kyseinen palvelu on paikkatietoalalla käytettyjen standardien mukainen, se on  julkinen ja se pyörii FORGEn tarjoamassa pilvipalvelussa. </li>
 					<li>Esityksessä sivutaan myös käytetyt (avoimen lähdekoodin) ohjelmat, tietokanta PostreSQL, karttakuva- ja aineistolatauspalvelinohjelmisto Geoserver, karttatiilikuvapuskuri Mapcache),  asennus ja ylläpito. </li>
@@ -144,9 +149,12 @@ pageOrder: '1'
 			<td class="startcell">
 				<div>1245>1345<div class="pj">Puheenjohtaja: Veikko Mäkelä, Helsingin yliopisto</div>
 				<h3>Lightning talk: kuulumisia projektitoiminnan SIG-ryhmästä (5min)</h3>
+<div class="button">[ESITYS](../slidet/rapiokallio.pdf)</div>
 				<div class="speaker">Maarit Rapiokallio, Helsingin yliopisto, tietotekniikkakeskus</div>
 				<div class="uusislot">
 				<h3>Projektitoimistot korkeakouluissa: case Aalto IT:n projektitoimisto (55min)</h3>
+<div class="button">[ESITYS 1](../slidet/henritius.pptx)</div>
+<div class="button">[ESITYS 2](../slidet/sippel.pptx)</div>
 				<ul>
 					<li>Kuinka projektitoimistot auttavat korkeakoulujen IT-toimintojen hallintaa?</li>
 					<li>Miten hallinoida työkokokonaisuuksia ja resursseja IT-investointien elinkaarimallin avulla?</li>
@@ -161,6 +169,7 @@ pageOrder: '1'
 			<td class="startcell">
 				<div>1245>1345<div class="pj">Puheenjohtaja: Antero Aunesluoma, Helsingin yliopisto</div>
 				<h3>Angular.js:n tehokas käyttö ja sudenkuopat.(1h)</h3>
+<div class="button">[ESITYS](../slidet/parviainen.pdf)</div>
 				<div class="hashtags">#angularjs t #frontend </div> 
 				<div class="speaker"> <a href="http://teropa.info">Tero Parviainen,  itsenäinen ohjelmistokehittäjä</a></div>
 				</div>
@@ -180,6 +189,7 @@ pageOrder: '1'
 			<td class="startcell">
 				<div>1245>1345<div class="pj">Puheenjohtaja: Juhani Aurava, Helsingin yliopisto</div>
 				<h3>  Tee se itse -pilvi (1h)</h3>
+<div class="button">[ESITYS](../slidet/willberg.pdf)</div>
 <ul>
 	<li>Katsaus avoimen lähdekoodin pilvituotteisiin sekä kokemuksia maailmalta IaaS- ja PaaS -projekteista.
 </li>
@@ -194,6 +204,7 @@ pageOrder: '1'
 			<td class="startcell">
 				<div>1245>1345<div class="pj">Puheenjohtaja: Risto Vähäkainu, Helsingin yliopisto</div>
 				<div><h3>Pääyhteistyökumppanin puheenvuoro: Ketterät tietovarastot ratkaisuna muuttuviin tiedolla johtamisen tarpeisiin (45min)</h3>
+<div class="button">[ESITYS](../slidet/karru.pdf)</div>
 <ul>
 	<li>Miten korkeakoulujen tieto- ja raportointitarpeet muuttuvat?</li>
 	<li>Miten toimialan yhteisiä ratkaisuja voidaan hyödyntää tehokkaasti?</li>
@@ -204,7 +215,7 @@ pageOrder: '1'
 <div class="speaker">Kari Karru, Cerion  Solutions Oy</div>
 
 <div class="uusislot"><h3>Lighting talk: Eduuni - tehokkaan yhteistyön edellytykset (15min)</h3>
-
+<div class="button">[ESITYS](../slidet/saarikoski.pptx)</div>
 <p>Tule kuulemaan miten Eduunin uusi versio voi auttaa hankkeesi, verkostosi tai vaikka ketterän kehitystiimisi toimintaa:
 	<ul><li>Uudet tuotteet: SharePoint, Office Web Apps, OneDrive, Confluence ja JIRA Agile</li>
 	<li>Identiteetin- ja käyttöoikeuksienhallinta omille palveluille (Eduuni-ID ja #ryhmät)</li></ul>
@@ -239,9 +250,12 @@ pageOrder: '1'
 	</td>
 			<td class="startcell"><div>1415>1515<div class="pj">Puheenjohtaja: Sami Andberg, Helsingin yliopisto</div>
 <div><h3>HY:n avoimen datan API (30min) </h3>
+<div class="button">[ESITYS](../slidet/kesaniemi.pptx)</div>
 <div class="speaker">Joonas Kesäniemi, Helsingin yliopiston kirjasto</div>
 </div>
-<div class="uusislot"><h3>Automaattitestit pilveen - näin säästämme kehittäjän aikaa ja hermoja(30min)</h3></div><div class="speaker">Kenneth Falck, SC5 Oy</div><div class="hashtags"> #frontend #javascript</div></div></td>
+<div class="uusislot"><h3>Automaattitestit pilveen - näin säästämme kehittäjän aikaa ja hermoja(30min)</h3>
+<div class="button">[ESITYS](../slidet/falck.pdf)</div>
+</div><div class="speaker">Kenneth Falck, SC5 Oy</div><div class="hashtags"> #frontend #javascript</div></div></td>
 			
 		<td class="startcell"><div>1415>1515<div class="pj">Puheenjohtaja: TBA</div><h3>Paneelikeskustelu dataintensiivisestä tutkimuksesta ja sen välineistä (1h)</h3>
 <ul>
@@ -257,6 +271,7 @@ tiedettä vie?</li>
 			<td class="startcell">
 				<div>1415>1515<div class="pj">Puheenjohtaja: Jukka Hienola, Helsingin yliopisto</div>
 				<h3>Työasemaylläpidon iltapäivä: Mac-ylläpidon sessio (1h) </h3>
+<div class="button">[ESITYS](../slidet/juutilainen.pptx)</div>
 				<p> Esityksessä käydään läpi teknisellä tasolla Jyväskylän yliopiston mac-ylläpidon tärkeimmät työkalut ja syyt näiden valintojen takana. Esityksessä mukana Munki, Puppet- asiaa sekä nykyaikaisen asiakaslähtöisen  Mac-ylläpidon parhaita käytäntöjä.</p>
 				<div class="speaker">Hannes Juutilainen, Jyväskylän yliopisto
 				<div class="hashtags">#munki #työasemaylläpito</div>
@@ -284,6 +299,7 @@ tiedettä vie?</li>
 			<td class="startcell">
 				<div>1530>1630 <div class="pj">Puheenjohtaja: Juha Riihimäki, Helsingin yliopisto</div>
 				<h3>ID Point -palvelumalli: tunnistautumispalvelua asiakastukeen (20min)</h3>
+<div class="button">[ESITYS](../slidet/kalske.ppt)</div>
 				<ul>
 					<li>ID Point on tunnistuspalvelu, jonka avulla yliopistolaiset voivat helposti ja turvallisesti käyttää henkilötunnistusta vaativia palveluita puhelimitse.</li>
 					<li>Kuinka ja miksi palvelu on toteutettu? Entä mikä on palvelumalli?</li>
@@ -294,6 +310,7 @@ tiedettä vie?</li>
 			<div>
 				<div class="uusislot">
 				<h3>Ketterä projektinhallinta kolmen yliopiston yhteishankkeessa (40min)</h3>
+<div class="button">[ESITYS](../slidet/hautakangas.pptx)</div>
 				<ul>
 					<li>OTM-hankkeessa on kuusi tuoteomistajaa, kuinka sujuu yhteistyö yliopistojen ja paikkakuntien välillä?</li>
 					<li>Kuinka omien kehittäjien, toimittajien ja eri korkeakoulujen asiantuntijoiden kesken saadaan tehokkaasti näkyvää aikaiseksi?</li>
@@ -310,6 +327,7 @@ tiedettä vie?</li>
 			<td class="startcell">
 				<div>1530>1630<div class="pj">Puheenjohtaja: Kimmo Tykkälä, Helsingin yliopisto</div>
 				<h3>Funktionaaliset kielet käytännössä: Miltä oikea Clojure-projekti maistuu? (30min)</h3>
+<div class="button">[ESITYS](../slidet/virtanen.ppt)</div>
 <ul>
 	<li>Miksi Opetushallitukselle tehty tutkintatoimikuntarekisteri toteutettiin Clojurella, eikä esim. Javalla? </li>
 	<li>Minkälaisia hyviä käytäntöjä  on Clojuren käytön kanssa muodostunut</li>
@@ -320,6 +338,7 @@ tiedettä vie?</li>
 				<div class="hashtags">#clojure 
 				</div>
 <div class="uusislot"><h3>Mitä Java 9/10/11:een on suunnitteilla? (30min)</h3>
+<div class="button">[ESITYS](../slidet/luontola.pdf)</div>
 Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvyn, niin Java VM:n, kuin Java-kielenkin suhteen?
 				<div class="speaker">Esko Luontola, Solita Oy</div>
 				<div class="hashtags">#Java9_10_11 #JVM
@@ -329,6 +348,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			<td class="startcell">
 				<div>1530>1630 <div class="pj">Puheenjohtaja: Antti Auer, Jyväskylän yliopisto</div>
 				<h3>Käytännön ratkaisuesittely tutkimuksen IT:n toteutuksista, case Aalto yliopisto (30min)</h3>
+<div class="button">[ESITYS](../slidet/sunikka.pptx)</div>
 				<div class="speaker"> Anne Sunikka, Aalto yliopisto</div>
 				<div class="uusislot">
 				<h3>Tutkimusaineistojen hallinnan IT-infran kehitystyö: Miksi, mitä ja miten? (30min>)</h3>
@@ -339,12 +359,14 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			<td class="startcell">
 				<div>1530>1630<div class="pj">Puheenjohtaja: TBA</div>
 				<h3>Työasemien virtualisointi - onnistunut VDI-projekti (20min)</h3>
+<div class="button">[ESITYS](../slidet/kinnunen.pptx)</div>
 				<div class="speaker"> Olli Kinnunen Atea Finland
 				</div>
 				<div class="hashtags">#mobile #vdi #virtualisointi</div>
 				</div>
 				<div class="uusislot">
 				<h3>HAAGA-HELIA VDI - taustaa, tekniikkaa ja tulevaisuutta (40min) </h3>
+<div class="button">[ESITYS](../slidet/kalliomaki.pptx)</div>
 				 Tässä teknisessä puheenvuorossa käydään läpi onnistuneen VDI-ratkaisua. 
 				<div class="speaker">järjestelmäasiantuntija Antero Kalliomäki, Haaga-Helia</div>
 				<div class="hashtags">#vdi</div>
@@ -395,6 +417,8 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			<div>0900>1015<div class="pj">Puheenjohtaja: Maarit Rapiokallio, Helsingin yliopisto</div>
 				<div>
 				<h3>Esteettömyys ja saavutettavuus verkkopalveluissa (1h 15min)</h3>
+<div class="button">[ESITYS](../slidet/puupponen.pdf)</div>
+<div class="button">[ESITYS2](../slidet/haanpera.pptx)</div>
 				<ul>
 					<li>Kuinka korkeakouluissa toteutetaan (opetuksen ja palveluiden) saavutettavuus ja käytettävyys? Miten toteutetaan opiskelun yhdenvertaisuus ja tasa-arvo? </li>
 					<li>Esityksessä käsitellään myös stivi-suosituksia (<a href="http://www.esok.fi/stivi">saavutettavat tieto-ja viestintäympäristöt</a>)</li>
@@ -416,6 +440,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			</ul>
 			<div class="speaker">Antti Vähä-Sipilä, F-Secure</div>
 		<div class="uusislot"><h3>Lighting talk: Älä pelkää UX-suunnittelijaa, hän on ystäväsi. (15min)</h3>
+<div class="button">[ESITYS](../slidet/puikkonen.pptx)</div>
 				</div>
 <ul>
 	<li>Suurimmat haasteet UX-osaajan, graafisen suunnittelijan ja devaajan välillä tyypillisesti liittyvät dialogiin ja tuotosten jalkautukseen. Vastauksena näihin haasteisiin on Prototypointi. </li>
@@ -431,6 +456,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 				<div>0900>1015<div class="pj">Puheenjohtaja: Minna Harjuniemi, Helsingin yliopisto</div>
 				<h3>Kapasiteettia kuin hanasta, tieteen pilvipalveluita</h3>
 				<div><h3>Azure-palvelut tutkijoille (25min)</h3>
+<div class="button">[ESITYS](../slidet/hotti.pdf)</div>
 					<ul>
 						<li>Miten Azure voi olla osana yliopiston palveluja tutkijoille?</li>
 						<li>HDInsight / Hadoop /SQL, virtuaalipalvelimet, web-palvelimet, storage, tietoturva</li>
@@ -438,7 +464,9 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 <div class="speaker"> Marko Hotti, Ratkaisuarkkitehti, Microsoft Oy</div>
 	</div>
 				<div class="uusislot"><h3>CSC Cloud teknisestä näkökulmasta (25min)</h3><div class="speaker">Jura Tarus, CSC</div></div>
-				<div class="uusislot"><h3>Erityisiä ratkaisuja tutkimuksen tietoteknisiin tarpeisiin (25min)</h3><div class="speaker">Perttu Määttä, Helsingin yliopisto</div></div>
+				<div class="uusislot"><h3>Erityisiä ratkaisuja tutkimuksen tietoteknisiin tarpeisiin (25min)</h3>
+<div class="button">[ESITYS](../slidet/maatta.pptx)</div>
+<div class="speaker">Perttu Määttä, Helsingin yliopisto</div></div>
 				</div>
 				<div class="hashtags">#pilvee #tutkimus</div>
 			</td>
@@ -446,6 +474,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			<td class="startcell">
 				<div>0900>1015<div class="pj">Puheenjohtaja:Visa Rauste, Helsingin yliopisto</div>
 				<h3>Hakuratkaisun anatomia - kurkistus pellin alle (20min)</h3>
+<div class="button">[ESITYS](../slidet/tenhunen4.pdf)</div>
 <ul>
 	<li> HY:n open source-pohjalle tehdyn uuden hakukoneratkaisun esittely ja arkkitehtuuri.</li>
 	<li>Puheenvuorossa katsastetaan Solr:iin perustuva ratkaisu teknisestä näkökulmasta.</li>
@@ -457,6 +486,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 <div class="uusislot"><h3>Lightning talk: "Hyperconverged – kloonaa/siirrä/varmista/palauta viiden teratavun virtuaalikone alle 20 sekunnissa!" (20min)</h3><div class="speaker">Tero Vainio, ratkaisumyynti, Cygate Oy ja Kristian Salo, IT-arkkitehti, SimpliVity</div></div>
 <div class="uusislot">
 			<h3>Konesalin uusimisprojektin anatomia (35min)</h3>
+<div class="button">[ESITYS](../slidet/nisso.pdf)</div>
 				Tampereen konesaliprojektin teknisen näkökulman ja projektin esittelyä. 
 	<div class="speaker">Juha Nisso, Tampereen teknillinen yliopisto</div>
 	<div class="hashtags">#konesali</div>
@@ -488,6 +518,7 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			<td class="startcell">
 			<div>1030>1200<div class="pj">Puheenjohtaja: Teo Kirkinen, Helsingin yliopisto</div>
 				<div><h3>Tuotekeskeisesta palvelusta asiakaskeskeiseen palveluun (30min)</h3>
+<div class="button">[ESITYS](../slidet/kujansuu.pptx)</div>
 				<ul>
 					<li>Palvelunhallinnan sovellukset tukemassa muutosta.  </li>
 				</ul>
@@ -519,7 +550,9 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 
 			<td class="startcell">
 				<div>1030>1200<div class="pj">Puheenjohtaja: Sami Nikander, Helsingin yliopisto</div>
-			<div><h3> SOA-arkkitehtuurin soveltaminen <a href="http://martinfowler.com/articles/microservices.html">mikropalveluarkkitehtuurina</a> (1h)</h3><p>Jyväskylän yliopisto rakentaa pienten palveluiden muodostamaa polygot
+			<div><h3> SOA-arkkitehtuurin soveltaminen <a href="http://martinfowler.com/articles/microservices.html">mikropalveluarkkitehtuurina</a> (1h)</h3>
+<div class="button">[ESITYS](../slidet/wetterstrand.pdf)</div>
+<p>Jyväskylän yliopisto rakentaa pienten palveluiden muodostamaa polygot
 arkkitehtuuria. Monoliittisesta Korppi-järjestelmästä on alettu siirtymään
 kohti SOAa ja mikropalveluarkkitehtuuria. Järjestelmäintegraatiot on
 rakennettu pitkälti ZeroMQ, RabbitMQ:n ja MessagePackin varaan yleisemmin
@@ -533,6 +566,7 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 			</div>
 		
 <div class="uusislot"><h3>Devops - asiantuntijoiden näkökulma (30min)</h3>
+<div class="button">[ESITYS](../slidet/mustikkamaki.ppt)</div>
 <ul>
 	<li>Devops-mallista puhutaan nyt kaikkialla. Mitä tämä käytännössä tarkoittaa?</li>
 	<li>Puheenvuoron konsepti on "kehittäjältä kehittäjälle" eli tarkastelemme, miten ylläpidon ja kehittäjien rooleja voidaan yhdistää ja hyödyntää nimenomaan teknisten asiantuntijoiden näkökulmasta.</li>
@@ -578,6 +612,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 				<div class="hashtags">#case #ka</div>
 
 <div class="uusislot"><br/>	<h3>Lightning talk:Teknologia-arkkitehtuuri yliopistoilla (15min)</h3>
+<div class="button">[ESITYS](../slidet/tenhunen3.pdf)</div>
 				<ul>
 					<li>Kuinka (ja miksi) TA-periaatteet luodaan?</li>
 					<li>Kuinka samalla varmistutaan siitä, että käytetään moderneja teknologioita ja seurataan kehitystä?</li>
@@ -613,6 +648,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 					<div class="hashtags">#moocs #palvelut</div>
 			</td><td class="startcell">
 <div>1300>1430<div class="pj">Puheenjohtaja: Perttu Määttä, Helsingin yliopisto</div><h3>Laiteriippumaton sovelluskehitys Qt:llä (1h)</h3>
+<div class="button">[ESITYS](../slidet/salmi.pdf)</div>
 <ul>
 	<li>Tässä **hands on-sessiossa** käydään läpi, kuinka Qt:llä sovelluskehitys sujuu ja kuinka kerran kirjoitettu ohjelmakoodi voidaan ajaa alustariippumattomasti eri alustoilla (iOS, Android, Windows).</li>
 </ul>
@@ -632,19 +668,23 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 		<div class="pj">Puheenjohtaja:TBA, Helsingin yliopisto</div>
 		<div class="uusislot">
 		<h3>"Aikaa tutkimukselle". Tutkimustietojärjestelmä tutkimushallinnon tavoitteiden tukena (30min)</h3>
+<div class="button">[ESITYS](../slidet/niemi.pdf)</div>
 		<div class="speaker">Markku Niemi, Helsingin yliopisto</div>
 		<div class="hashtags">#datapolitiikka #ka </div>
 		</div>
 <div class="uusislot"><h3>Mistä on hyvä datapolitiikka tehty?(30min)</h3>
+<div class="button">[ESITYS](../slidet/nyrovaara.pptx)</div>
 <div class="speaker">Eeva Nyrövaara, Helsingin yliopisto</div>
 </div>
 		</div>
 <div class="uusislot"><h3>Loppuyhteenveto: Eikä tässä vielä kaikki, hommahan on vasta alussa. (30min)</h3>
+<div class="button">[ESITYS](../slidet/tenhunen2.pdf)</div>
  <div class="speaker">Ville Tenhunen, Helsingin yliopisto"</div>
 </div>
 </td>
 <td class="startcell"><div>1300>1430<div class="pj">Puheenjohtaja:Päivi Pääkkö, Helsingin yliopisto</div>
 				<h3>Identiteetinhallinta - ympäristö pinnan alta (1h)</h3>
+<div class="button">[ESITYS](../slidet/hatakka.pptx)</div>
 				Turun yliopiston hankkeen arkkitehtuuria sekä Helsingin yliopiston IAM-hankkeen IdM-ratkaisun teknistä puolta selvitetään tässä sessiossa. 
 <ul>
 	<li>Mitä vaaditaan Turun yliopiston identiteetinhallinnan pyörittämiseen ?
