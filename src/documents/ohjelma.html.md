@@ -119,6 +119,7 @@ pageOrder: '2'
 			<td class="startcell">
 				<div>1040>1140<div class="pj">Puheenjohtaja: Juhani Aurava, Helsingin yliopisto</div>
 <div><h3>Hankintadirektiivi 2016: mikä muuttuu? (30min)</h3>
+<div class="button">[ESITYS](../slidet/kontuniemi.pptx)</div>
 <div class="speaker">Lakiasiainjohtaja Eija Kontuniemi, Hansel Oy</div>
 </div>
 				<div class="uusislot"><h3> Pilvipalvelujen yksityisyys- ja luotettavuusasiat toimittajan näkökulmasta (30min)</h3>
@@ -376,11 +377,14 @@ Mihin Java on todennäköisesti kehittymässä tulevina vuosina mm. suorituskyvy
 			<td class="startcell">
 				<div>1530>1630<div class="pj">Puheenjohtaja: Ari Kuusio HAMK, OK</div>
 				<h3>Pääyhteistyökumppanin puheenvuoro: Gofore Oy: Maailma murroksessa  – tietohallinnot siinä mukana? (45min)</h3>
+<div class="button">[ESITYS](../slidet/kolehmainen.pptx)</div>
 <p>Esityksessä luodaan katsaus muutoksesta, jonka tulemme kohtaamaan seuraavan 20 vuoden kuluessa. Tietojärjestelmille kohdistuu aivan uudella tavalla tarve joustavuuteen ja mukautumiskykyyn teknisen sekä toiminnallisen ympäristön muuttuessa. Samaan aikaan taloudelliset realiteetit asettavat omia reunaehtojaan. Esittelemme lyhyesti digitaalisen maailman megatrendit sekä linkitämme ne opetusalaan vaikuttaviin ilmiöihin. Näistä tarina jatkuu kansallisten hankkeiden esittelyn kautta yksittäisen oppilaitoksen tietohallinnolle suunnattuihin toimintaohjeisiin.</p>
 				</div>
 				<div class="speaker">Mikko Kolehmainen, Gofore Oy</div>
 				<div class="hashtags">#kokonaisarkkitehtuuri</div>
-			<div class="uusislot"><h3>Lightning talk:Tietojohtamisen tämän päivän ilmiöt – katse organisaation sisäiseen-, ulkoiseen-, ja hiljaiseen tietoon. (15min)</h3> <div class="speaker">Jukka Jaakkola, Infotool Oy</div></div>
+			<div class="uusislot"><h3>Lightning talk:Tietojohtamisen tämän päivän ilmiöt – katse organisaation sisäiseen-, ulkoiseen-, ja hiljaiseen tietoon. (15min)</h3>
+<div class="button">[ESITYS](http://www.slideshare.net/JukkaJaakkola/infotool-i-tpaivat2014)</div>
+<div class="speaker">Jukka Jaakkola, Infotool Oy</div></div>
 			</td>
 </tr>
 
@@ -579,7 +583,9 @@ miltä sen on tarkoitus näyttää huomenna?</p>
 
 			<td class="startcell">1030>1200<div class="pj">Puheenjohtaja: Tuija Sonkkila, Aalto-yliopisto</div>
 			<div>
-			<div class="uusislot"><h3>Tieteellisen laskennan palvelut, sisua ja taitoa (30min)</h3><div class="speaker">Jussi Heikonen, CSC</div></div>
+			<div class="uusislot"><h3>Tieteellisen laskennan palvelut, sisua ja taitoa (30min)</h3>
+<div class="button">[ESITYS](../slidet/heikonen.pdf)</div>
+<div class="speaker">Jussi Heikonen, CSC</div></div>
 			<div class="uusislot"><h3>Tutkimusdatan tallentamisen kansalliset välineet Ida, Etsin, AVAA (30min)</h3><div class="speaker">Stina Westman, CSC</div></div>
 			</div>
 			</td>
@@ -596,6 +602,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 					</div>
 <div class="speaker">Paul Mynarsky, Outpost24</div><div class="hashtags">#titu #hacking <a href="http://www.outpost24.com">#outpost24</a></div>
 			<div class="uusislot"><h3>FUJITSU ETERNUS CD10000 Hyper Scale Storage Appliance (30min)</h3> 
+<div class="button">[ESITYS](../slidet/laine.pptx)</div>
 				<ul>
 					<li>Toimitusvalmis ratkaisu OpenStack-ympäristöön.</li>
 				</ul>
@@ -607,6 +614,7 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 			<td class="startcell">
 				<div>1030>1200<div class="pj">Puheenjohtaja: Jussi Koskivaara, Helsingin yliopisto</div>
 				<h3>Case Verohallinto: suuret järjestelmäuudistukset kokonaisarkkitehtuurin periaattein. (50min) </h3>
+<div class="button">[ESITYS](../slidet/heikura.pptx)</div>
 				</div>
 				<div class="speaker">Markku Heikura, CIO, Verohallinto</div>
 				<div class="hashtags">#case #ka</div>
