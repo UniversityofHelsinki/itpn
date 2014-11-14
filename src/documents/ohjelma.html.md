@@ -56,7 +56,7 @@ pageOrder: '2'
 				</div>
 				<div class="uusislot">
 <h3> Ketteryys tietojärjestelmän hankinnassa ja toteutuksessa, case Turun yliopisto (30min)</h3>
-<div class="button">[ESITYS](../slidet/toivanen.ppt)</div>
+<div class="button">[ESITYS](../slidet/toivanen1.ppt)</div>
 				<ul> <li>Turun yliopisto hajautti IdM-järjestelmän hankinnan kahdeksi erilliseksi kilpailutukseksi - miten se onnistui käytännössä?</li>
 				<li>Mihin asioihin sopimusneuvotteluissa kannattaa kiinnittää huomiota ketterästä projektista sovittaessa?</li>
 				</li>Kuinka sujuu yhteistyö Helsingissä työskentelevän Scrum-kehitystiimin ja Turun tuoteomistajien kanssa?</li></ul>
@@ -651,7 +651,9 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 
 		<tr>		
 			<td><p class="time">1300</p></td><td class="startcell">
-					<div>1300>1430<div class="pj">Puheenjohtaja: Sari Koski-Kotiranta, Helsingin yliopisto</div><h3>Opetusteknologian iltapäivä: Sekoitettuna, ei ravistettuna (1h 30min)</h3></div><ul>
+					<div>1300>1430<div class="pj">Puheenjohtaja: Sari Koski-Kotiranta, Helsingin yliopisto</div><h3>Opetusteknologian iltapäivä: Sekoitettuna, ei ravistettuna (1h 30min)</h3>
+<div class="button">[ESITYS](http://ok.helsinki.fi/it-seminaari/)</div>
+</div><ul>
 						<li> Sessiossa käydään läpi opetusteknologian menneisyyttä nykyhetken kautta tulevaan. Mikä on muuttunut - vai onko mikään? </li>
 					</ul>
 					<div class="speaker">Jere Majava, Antero Aunesluoma ja Pauliina Kupila, Helsingin yliopiston opetusteknologiakeskus</div>
@@ -694,7 +696,8 @@ organisaation tärkeisiin liikesalaisuuksiin, kuten asiakasrekistereihin. </li>
 </td>
 <td class="startcell"><div>1300>1430<div class="pj">Puheenjohtaja:Päivi Pääkkö, Helsingin yliopisto</div>
 				<h3>Identiteetinhallinta - ympäristö pinnan alta (1h)</h3>
-<div class="button">[ESITYS](../slidet/hatakka.pptx)</div>
+<div class="button">[ESITYS 1](../slidet/hatakka.pptx)</div>
+<div class="button">[ESITYS 2](../slidet/toivanen.ppt)</div>
 				Turun yliopiston hankkeen arkkitehtuuria sekä Helsingin yliopiston IAM-hankkeen IdM-ratkaisun teknistä puolta selvitetään tässä sessiossa. 
 <ul>
 	<li>Mitä vaaditaan Turun yliopiston identiteetinhallinnan pyörittämiseen ?
