@@ -14,9 +14,22 @@ pageOrder: '0'
 
 
 <div class="pagelower" class="clearfix">
-<a href="uutiset/kiitos.html">
+<a href="/uutiset/videot.html">
 		<div class="frontbox">
 			<div id="first">
+				</div>
+				<h2>
+				Videotallenteet IT-päivistä nyt julkaistu!
+				</h2>
+				<p>
+				IT-päivien videot on nyt vihdoin julkaistu, elä huippuhetket uudelleen!
+				<br/><u>lue lisää</u></p>
+	</div>
+</a>
+	
+<a href="uutiset/kiitos.html">
+		<div class="frontbox">
+			<div id="second">
 			</div>
 				<h2>
 				IT-päivät kiittää!
@@ -26,19 +39,7 @@ pageOrder: '0'
 				<br/><u>lue lisää</u></p>
 	</div>
 </a>
-<a href="/uutiset/nyt.html">
-		<div class="frontbox">
-			<div id="second">
-				</div>
-				<h2>
-				Nyt se alkaa! Osallistu, anna palautetta!
-				</h2>
-				<p>
-				IT-päivät ovat vihdoin täällä. Osallistu, nauti ja anna palautetta!
-				<br/><u>lue lisää</u></p>
-	</div>
-</a>
-	
+
 	<a href="sponsorit.html"><div class="frontbox">
 	<div id="third">
 	</div>
