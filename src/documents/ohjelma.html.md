@@ -122,7 +122,8 @@ pageOrder: '2'
 
 			<td class="startcell">
 				<div>1040>1140<div class="pj">Puheenjohtaja: Juhani Aurava, Helsingin yliopisto</div>
-<div><h3>Hankintadirektiivi 2016: mikä muuttuu? (30min)</h3>
+<div><div class="button2">[SESSION VIDEOT, alkaa 57min kohdalta ](https://webcast.helsinki.fi/engage/ui/watch.html?id=bed6ab2d-eecc-4d04-9adb-e969456bd17d)</div>
+<h3>Hankintadirektiivi 2016: mikä muuttuu? (30min)</h3>
 <div class="button">[SLIDET](../slidet/kontuniemi.pptx)</div>
 <div class="speaker">Lakiasiainjohtaja Eija Kontuniemi, Hansel Oy</div>
 </div>
